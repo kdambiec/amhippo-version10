@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: AM Hippo Project CMS
+Implementation-Version: 1.01.00-SNAPSHOT
+Archiver-Version: Plexus Archiver
+Built-By: Karun
+Project-Build: -1
+Implementation-Vendor-Id: anandamarga
+Project-Version: 1.01.00-SNAPSHOT
+Hippo-Release-Version: 10.0.1
+Created-By: Apache Maven 3.3.3
+Build-Jdk: 1.8.0_45
+Implementation-Vendor: 
+

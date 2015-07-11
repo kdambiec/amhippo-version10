@@ -1,0 +1,5 @@
+12.07.2015 00:10:27 WARN  localhost-startStop-1 [RepositoryServlet.parseInitParameters:143] Cannot determine the real path of the repository storage location, 'WEB-INF/storage'. Defaults to './repository_storage'
+12.07.2015 00:10:27 WARN  localhost-startStop-1 [RepositoryLock.acquire:134] Existing lock file C:\Users\Karun\IdeaProjects\amhippo\storage\.lock detected. Repository was not shut down properly.
+12.07.2015 00:12:02 WARN  http-nio-8080-exec-6 [RepositoryServlet.parseInitParameters:143] Cannot determine the real path of the repository storage location, 'WEB-INF/storage'. Defaults to './repository_storage'
+12.07.2015 00:21:40 WARN  http-nio-8080-exec-15 [RepositoryServlet.parseInitParameters:143] Cannot determine the real path of the repository storage location, 'WEB-INF/storage'. Defaults to './repository_storage'
+12.07.2015 00:31:55 WARN  http-nio-8080-exec-33 [RepositoryServlet.parseInitParameters:143] Cannot determine the real path of the repository storage location, 'WEB-INF/storage'. Defaults to './repository_storage'
