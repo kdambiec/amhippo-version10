@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.onehippo.cms7.hst:hst-rest-api:2.30.00">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/onehippo/cms7/hst/hst-rest-api/2.30.00/hst-rest-api-2.30.00.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/onehippo/cms7/hst/hst-rest-api/2.30.00/hst-rest-api-2.30.00-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/onehippo/cms7/hst/hst-rest-api/2.30.00/hst-rest-api-2.30.00-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

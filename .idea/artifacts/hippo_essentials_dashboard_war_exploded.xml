@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="hippo-essentials-dashboard:war exploded">
+    <output-path>$PROJECT_DIR$/essentials/target/war/work/org.onehippo.cms7/hippo-essentials-dashboard/META-INF/maven/org.onehippo.cms7/hippo-essentials-dashboard/target/dashboard</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="hippo-essentials-dashboard" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/essentials/target/war/work/org.onehippo.cms7/hippo-essentials-dashboard/META-INF/maven/org.onehippo.cms7/hippo-essentials-dashboard/target/dashboard/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="hippo-essentials-dashboard/web/Web" />
+    </root>
+  </artifact>
+</component>

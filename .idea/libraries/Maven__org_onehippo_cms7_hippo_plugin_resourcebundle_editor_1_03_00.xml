@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.onehippo.cms7:hippo-plugin-resourcebundle-editor:1.03.00">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/onehippo/cms7/hippo-plugin-resourcebundle-editor/1.03.00/hippo-plugin-resourcebundle-editor-1.03.00.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/onehippo/cms7/hippo-plugin-resourcebundle-editor/1.03.00/hippo-plugin-resourcebundle-editor-1.03.00-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/onehippo/cms7/hippo-plugin-resourcebundle-editor/1.03.00/hippo-plugin-resourcebundle-editor-1.03.00-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

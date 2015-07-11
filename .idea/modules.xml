@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/amhippo.iml" filepath="$PROJECT_DIR$/amhippo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootstrap/amhippo-bootstrap.iml" filepath="$PROJECT_DIR$/bootstrap/amhippo-bootstrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootstrap/configuration/amhippo-bootstrap-configuration.iml" filepath="$PROJECT_DIR$/bootstrap/configuration/amhippo-bootstrap-configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootstrap/content/amhippo-bootstrap-content.iml" filepath="$PROJECT_DIR$/bootstrap/content/amhippo-bootstrap-content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootstrap/webfiles/amhippo-bootstrap-webfiles.iml" filepath="$PROJECT_DIR$/bootstrap/webfiles/amhippo-bootstrap-webfiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cms/amhippo-cms.iml" filepath="$PROJECT_DIR$/cms/amhippo-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/essentials/amhippo-essentials.iml" filepath="$PROJECT_DIR$/essentials/amhippo-essentials.iml" />
+      <module fileurl="file://$PROJECT_DIR$/site/amhippo-site.iml" filepath="$PROJECT_DIR$/site/amhippo-site.iml" />
+      <module fileurl="file://$PROJECT_DIR$/essentials/target/war/work/org.onehippo.cms7/hippo-essentials-dashboard/META-INF/maven/org.onehippo.cms7/hippo-essentials-dashboard/hippo-essentials-dashboard.iml" filepath="$PROJECT_DIR$/essentials/target/war/work/org.onehippo.cms7/hippo-essentials-dashboard/META-INF/maven/org.onehippo.cms7/hippo-essentials-dashboard/hippo-essentials-dashboard.iml" />
+    </modules>
+  </component>
+</project>

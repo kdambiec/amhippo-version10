@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hippo-essentials-dashboard:war">
+    <output-path>$PROJECT_DIR$/essentials/target/war/work/org.onehippo.cms7/hippo-essentials-dashboard/META-INF/maven/org.onehippo.cms7/hippo-essentials-dashboard/target</output-path>
+    <root id="archive" name="dashboard.war">
+      <element id="artifact" artifact-name="hippo-essentials-dashboard:war exploded" />
+    </root>
+  </artifact>
+</component>
