@@ -1,0 +1,28 @@
+/*
+.navbar-inverse {
+    background-color: #F7722C;
+    border-color: #ff4500;
+}
+*/
+
+.headerPadding { margin: 10px; padding: 10px; }
+
+.site-title, .site-title a {
+    color: #fc5605;
+    font-family: "Dosis",sans-serif;
+    font-size: 54px;
+    font-weight: 700;
+    line-height: 1;
+    margin: 0;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.site-description {
+    color: rgba(0, 0, 0, 0.4);
+    font-size: 14px;
+    line-height: 1.4;
+    margin: 15px 0 0 6px;
+    position: relative;
+    z-index: 1;
+}
