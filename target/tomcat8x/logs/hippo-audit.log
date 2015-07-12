@@ -1,0 +1,2 @@
+12.07.2015 00:34:46 INFO  pool-22-thread-1 [AuditLogger.logHippoEvent:45] {"application":"cms","success":true,"action":"login","category":"security","message":"login successful","user":"admin","remoteAddress":"0:0:0:0:0:0:0:1","timestamp":1436654086331}
+12.07.2015 00:54:57 INFO  pool-22-thread-1 [AuditLogger.logHippoEvent:45] {"application":"cms","success":true,"action":"logout","category":"security","message":"logout","user":"admin","remoteAddress":"0:0:0:0:0:0:0:1","timestamp":1436655297448}

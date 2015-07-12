@@ -45,3 +45,18 @@
 12-Jul-2015 00:32:15.771 INFO [http-nio-8080-exec-37] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/essentials'
 12-Jul-2015 00:32:16.501 INFO [http-nio-8080-exec-34] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/essentials'
 12-Jul-2015 00:32:16.501 INFO [http-nio-8080-exec-34] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\essentials.war
+12-Jul-2015 08:53:34.095 INFO [http-nio-8080-exec-43] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+12-Jul-2015 08:53:34.151 INFO [http-nio-8080-exec-47] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+12-Jul-2015 08:53:34.158 INFO [http-nio-8080-exec-48] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/cms'
+12-Jul-2015 08:53:35.635 INFO [http-nio-8080-exec-51] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/cms'
+12-Jul-2015 08:53:35.635 INFO [http-nio-8080-exec-51] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\cms.war
+12-Jul-2015 08:53:53.891 INFO [http-nio-8080-exec-45] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+12-Jul-2015 08:53:53.902 INFO [http-nio-8080-exec-43] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+12-Jul-2015 08:53:53.911 INFO [http-nio-8080-exec-50] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/site'
+12-Jul-2015 08:53:54.629 INFO [http-nio-8080-exec-53] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/site'
+12-Jul-2015 08:53:54.630 INFO [http-nio-8080-exec-53] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\site.war
+12-Jul-2015 08:54:05.138 INFO [http-nio-8080-exec-54] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+12-Jul-2015 08:54:05.145 INFO [http-nio-8080-exec-45] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+12-Jul-2015 08:54:05.151 INFO [http-nio-8080-exec-46] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/essentials'
+12-Jul-2015 08:54:05.887 INFO [http-nio-8080-exec-57] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/essentials'
+12-Jul-2015 08:54:05.887 INFO [http-nio-8080-exec-57] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\essentials.war
