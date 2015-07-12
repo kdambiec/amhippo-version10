@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5e44af9-e5de-4774-8bcb-9ee9ba751cd7" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\storage\version\db.lock.db" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\storage\workspaces\default\db.lock.db" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/main/webapp/images/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/main/webapp/images/button_edit.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/main/webapp/images/catalog-list.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/main/webapp/images/cropped-sun-mandala.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/main/webapp/images/glyphicons-halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/main/webapp/images/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/main/webapp/images/hippo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/main/webapp/images/onehippo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/main/webapp/css/anandamarga.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/main/webapp/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/main/webapp/css/modern-business.css" />
       <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\storage\workspaces\default\index\_7\_0_1.del" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\storage\workspaces\default\index\_7\segments_3" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\storage\workspaces\default\index\_8\_m.cfs" afterPath="" />
@@ -25,14 +34,9 @@
       <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\storage\workspaces\default\index\_h\segments_1a" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\storage\workspaces\default\index\indexes_f" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\storage\workspaces\default\index\indexes_h" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/version/db.h2.db" afterPath="$PROJECT_DIR$/storage/version/db.h2.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/workspaces/default/db.h2.db" afterPath="$PROJECT_DIR$/storage/workspaces/default/db.h2.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/workspaces/default/index/_7/segments.gen" afterPath="$PROJECT_DIR$/storage/workspaces/default/index/_7/segments.gen" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/src/main/webapp/WEB-INF/jsp/amhippo/base-footer.jsp" afterPath="$PROJECT_DIR$/site/src/main/webapp/WEB-INF/jsp/amhippo/base-footer.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/src/main/webapp/WEB-INF/jsp/amhippo/base-layout.jsp" afterPath="$PROJECT_DIR$/site/src/main/webapp/WEB-INF/jsp/amhippo/base-layout.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/src/main/webapp/WEB-INF/jsp/amhippo/base-top-menu.jsp" afterPath="$PROJECT_DIR$/site/src/main/webapp/WEB-INF/jsp/amhippo/base-top-menu.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat8x/logs/hippo-audit.log" afterPath="$PROJECT_DIR$/target/tomcat8x/logs/hippo-audit.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat8x/logs/localhost_access_log..2015-07-12.txt" afterPath="$PROJECT_DIR$/target/tomcat8x/logs/localhost_access_log..2015-07-12.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/src/main/webapp/css/bootstrap.css" afterPath="$PROJECT_DIR$/site/src/main/webapp/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/src/main/webapp/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/site/src/main/webapp/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/src/main/webapp/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/site/src/main/webapp/js/bootstrap.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="amhippo.iws" />
@@ -93,11 +97,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base-footer.jsp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="base-footer.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/site/src/main/webapp/WEB-INF/jsp/amhippo/base-footer.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.51808876">
+            <state vertical-scroll-proportion="-18.071428">
               <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="anandamarga.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/src/main/webapp/css/anandamarga.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.min.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/site/src/main/webapp/js/bootstrap.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -534,6 +558,36 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="amhippo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="amhippo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -600,6 +654,13 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="C:/Program Files (x86)/Git/bin/git.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Karun\IdeaProjects\amhippo\site\src\main\webapp\js" />
+      <recent name="C:\Users\Karun\IdeaProjects\amhippo\site\src\main\webapp\images" />
+      <recent name="C:\Users\Karun\IdeaProjects\amhippo\site\src\main\webapp\css" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -856,7 +917,7 @@
       <created>1436650097224</created>
       <option name="number" value="Default" />
       <updated>1436650097224</updated>
-      <workItem from="1436650101190" duration="5881000" />
+      <workItem from="1436650101190" duration="6230000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Template work">
       <created>1436652833625</created>
@@ -868,7 +929,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5881000" />
+    <option name="totallyTimeSpent" value="6230000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="-13" width="3226" height="1754" extended-state="6" />
@@ -973,8 +1034,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/site/src/main/webapp/WEB-INF/jsp/amhippo/base-footer.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.51808876">
+        <state vertical-scroll-proportion="-18.071428">
           <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/src/main/webapp/css/anandamarga.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/src/main/webapp/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
