@@ -4,10 +4,13 @@
 <'hippostdpubwf'='http://www.onehippo.org/jcr/hippostdpubwf/nt/1.0'>
 <'hippotranslation'='http://www.onehippo.org/jcr/hippotranslation/nt/1.0'>
 
-[amhippo:account] > hippo:compound, hippostd:relaxed
+[amhippo:basedocument] > hippo:document, hippostd:publishableSummary, hippostdpubwf:document
   orderable
 
-[amhippo:basedocument] > hippo:document, hippostd:publishableSummary, hippostdpubwf:document
+[amhippo:ContactDocument] > amhippo:basedocument, hippostd:relaxed, hippotranslation:translated
+  orderable
+
+[amhippo:account] > hippo:compound, hippostd:relaxed
   orderable
 
 [amhippo:author] > amhippo:basedocument, hippostd:relaxed, hippotranslation:translated
