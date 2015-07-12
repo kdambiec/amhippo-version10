@@ -1,3 +1,8 @@
+anandamarga\beans\Account.class
+anandamarga\beans\Blogpost.class
+anandamarga\beans\ContentDocument.class
+anandamarga\beans\Author.class
+anandamarga\beans\AMChannelInfo.class
+anandamarga\beans\PiwikChannelInfo.class
 anandamarga\beans\NewsDocument.class
 anandamarga\beans\BaseDocument.class
-anandamarga\beans\ContentDocument.class
