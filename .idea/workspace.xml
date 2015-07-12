@@ -2,41 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5e44af9-e5de-4774-8bcb-9ee9ba751cd7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/main/webapp/images/background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/main/webapp/images/button_edit.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/main/webapp/images/catalog-list.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/main/webapp/images/cropped-sun-mandala.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/main/webapp/images/glyphicons-halflings-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/main/webapp/images/glyphicons-halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/main/webapp/images/hippo.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/main/webapp/images/onehippo.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/main/webapp/css/anandamarga.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/main/webapp/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/main/webapp/css/modern-business.css" />
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\storage\workspaces\default\index\_7\_0_1.del" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\storage\workspaces\default\index\_7\segments_3" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\storage\workspaces\default\index\_8\_m.cfs" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\storage\workspaces\default\index\_8\_m_1.del" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\storage\workspaces\default\index\_8\cache.inSegmentParents" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\storage\workspaces\default\index\_8\segments.gen" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\storage\workspaces\default\index\_8\segments_n" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\storage\workspaces\default\index\_e\_16.cfs" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\storage\workspaces\default\index\_e\_16_1.del" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\storage\workspaces\default\index\_f\_16.cfs" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\storage\workspaces\default\index\_f\segments.gen" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\storage\workspaces\default\index\_f\segments_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\storage\workspaces\default\index\_f\segments_1a" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\storage\workspaces\default\index\_g\_16.cfs" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\storage\workspaces\default\index\_g\_16_1.del" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\storage\workspaces\default\index\_h\_16.cfs" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\storage\workspaces\default\index\_h\segments.gen" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\storage\workspaces\default\index\_h\segments_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\storage\workspaces\default\index\_h\segments_1a" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\storage\workspaces\default\index\indexes_f" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\storage\workspaces\default\index\indexes_h" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/src/main/webapp/css/bootstrap.css" afterPath="$PROJECT_DIR$/site/src/main/webapp/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/src/main/webapp/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/site/src/main/webapp/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/src/main/webapp/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/site/src/main/webapp/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/main/java/anandamarga/beans/AMChannelInfo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/main/java/anandamarga/beans/PiwikChannelInfo.java" />
+      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\storage\version\db.lock.db" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\storage\workspaces\default\db.lock.db" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\work\Catalina\localhost\site\org\apache\jsp\WEB_002dINF\jsp\amhippo\base_002dfooter_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\work\Catalina\localhost\site\org\apache\jsp\WEB_002dINF\jsp\amhippo\base_002dfooter_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\work\Catalina\localhost\site\org\apache\jsp\WEB_002dINF\jsp\amhippo\base_002dlayout_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\work\Catalina\localhost\site\org\apache\jsp\WEB_002dINF\jsp\amhippo\base_002dlayout_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\work\Catalina\localhost\site\org\apache\jsp\WEB_002dINF\jsp\amhippo\base_002dtop_002dmenu_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\work\Catalina\localhost\site\org\apache\jsp\WEB_002dINF\jsp\amhippo\base_002dtop_002dmenu_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\work\Catalina\localhost\site\org\apache\jsp\WEB_002dINF\jsp\amhippo\homepage_002dmain_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\work\Catalina\localhost\site\org\apache\jsp\WEB_002dINF\jsp\amhippo\homepage_002dmain_jsp.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/version/db.h2.db" afterPath="$PROJECT_DIR$/storage/version/db.h2.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/workspaces/default/db.h2.db" afterPath="$PROJECT_DIR$/storage/workspaces/default/db.h2.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/configuration/src/main/resources/namespaces/amhippo.cnd" afterPath="$PROJECT_DIR$/bootstrap/configuration/src/main/resources/namespaces/amhippo.cnd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat8x/logs/catalina.2015-07-12.log" afterPath="$PROJECT_DIR$/target/tomcat8x/logs/catalina.2015-07-12.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/configuration/src/main/resources/hst/configurations/default/catalog.xml" afterPath="$PROJECT_DIR$/bootstrap/configuration/src/main/resources/hst/configurations/default/catalog.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/repository/cnd-checksums" afterPath="$PROJECT_DIR$/storage/repository/cnd-checksums" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/configuration/src/main/resources/hst/configurations/amhippo/workspace/containers.xml" afterPath="$PROJECT_DIR$/bootstrap/configuration/src/main/resources/hst/configurations/amhippo/workspace/containers.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/repository/nodetypes/custom_nodetypes.xml" afterPath="$PROJECT_DIR$/storage/repository/nodetypes/custom_nodetypes.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat8x/logs/hippo-audit.log" afterPath="$PROJECT_DIR$/target/tomcat8x/logs/hippo-audit.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat8x/logs/hippo-cms.log" afterPath="$PROJECT_DIR$/target/tomcat8x/logs/hippo-cms.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat8x/logs/hippo-site.log" afterPath="$PROJECT_DIR$/target/tomcat8x/logs/hippo-site.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/configuration/src/main/resources/hippoecm-extension.xml" afterPath="$PROJECT_DIR$/bootstrap/configuration/src/main/resources/hippoecm-extension.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/content/src/main/resources/hippoecm-extension.xml" afterPath="$PROJECT_DIR$/bootstrap/content/src/main/resources/hippoecm-extension.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/content/src/main/resources/content/documents/administration/labels.xml" afterPath="$PROJECT_DIR$/bootstrap/content/src/main/resources/content/documents/administration/labels.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat8x/logs/localhost.2015-07-12.log" afterPath="$PROJECT_DIR$/target/tomcat8x/logs/localhost.2015-07-12.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat8x/logs/localhost_access_log..2015-07-12.txt" afterPath="$PROJECT_DIR$/target/tomcat8x/logs/localhost_access_log..2015-07-12.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat8x/logs/manager.2015-07-12.log" afterPath="$PROJECT_DIR$/target/tomcat8x/logs/manager.2015-07-12.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/configuration/src/main/resources/hst/configurations/amhippo/sitemap.xml" afterPath="$PROJECT_DIR$/bootstrap/configuration/src/main/resources/hst/configurations/amhippo/sitemap.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/configuration/src/main/resources/hst/configurations/amhippo/workspace/sitemenus.xml" afterPath="$PROJECT_DIR$/bootstrap/configuration/src/main/resources/hst/configurations/amhippo/workspace/sitemenus.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/configuration/src/main/resources/hst/configurations/amhippo/templates.xml" afterPath="$PROJECT_DIR$/bootstrap/configuration/src/main/resources/hst/configurations/amhippo/templates.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/configuration/src/main/resources/hst/configurations/default/templates.xml" afterPath="$PROJECT_DIR$/bootstrap/configuration/src/main/resources/hst/configurations/default/templates.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="amhippo.iws" />
@@ -67,101 +66,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="homepage-main.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/src/main/webapp/WEB-INF/jsp/amhippo/homepage-main.jsp">
+      <file leaf-file-name="AMChannelInfo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/site/src/main/java/anandamarga/beans/AMChannelInfo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.6666667">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contentpage-main.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/src/main/webapp/WEB-INF/jsp/hstdefault/contentpage-main.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="imports.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/src/main/webapp/WEB-INF/jsp/include/imports.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base-footer.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/src/main/webapp/WEB-INF/jsp/amhippo/base-footer.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-18.071428">
-              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="anandamarga.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/src/main/webapp/css/anandamarga.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.min.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/site/src/main/webapp/js/bootstrap.min.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base-layout.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/src/main/webapp/WEB-INF/jsp/amhippo/base-layout.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="piwik.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/src/main/webapp/WEB-INF/jsp/include/piwik.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base-top-menu.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/src/main/webapp/WEB-INF/jsp/amhippo/base-top-menu.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-33.309525">
-              <caret line="76" column="6" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contentlist-main-contentlist.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/src/main/webapp/WEB-INF/jsp/amhippo/contentlist-main-contentlist.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.24087591">
+              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -199,6 +108,7 @@
         <option value="$PROJECT_DIR$/site/src/main/webapp/WEB-INF/jsp/amhippo/base-top-menu.jsp" />
         <option value="$PROJECT_DIR$/site/src/main/webapp/WEB-INF/jsp/amhippo/base-layout.jsp" />
         <option value="$PROJECT_DIR$/site/src/main/webapp/WEB-INF/jsp/amhippo/base-footer.jsp" />
+        <option value="$PROJECT_DIR$/site/src/main/java/anandamarga/beans/AMChannelInfo.java" />
       </list>
     </option>
   </component>
@@ -251,6 +161,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -639,10 +550,17 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="beans" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane">
         <subPane />
       </pane>
@@ -654,9 +572,13 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="C:/Program Files (x86)/Git/bin/git.exe" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Karun\IdeaProjects\amhippo\site\src\main\java\anandamarga\beans" />
       <recent name="C:\Users\Karun\IdeaProjects\amhippo\site\src\main\webapp\js" />
       <recent name="C:\Users\Karun\IdeaProjects\amhippo\site\src\main\webapp\images" />
       <recent name="C:\Users\Karun\IdeaProjects\amhippo\site\src\main\webapp\css" />
@@ -898,6 +820,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
@@ -918,6 +846,7 @@
       <option name="number" value="Default" />
       <updated>1436650097224</updated>
       <workItem from="1436650101190" duration="6230000" />
+      <workItem from="1436690638300" duration="673000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Template work">
       <created>1436652833625</created>
@@ -929,38 +858,38 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6230000" />
+    <option name="totallyTimeSpent" value="6903000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="-13" width="3226" height="1754" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946485" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946485" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -975,7 +904,91 @@
     <breakpoint-manager />
     <watches-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/site/src/main/webapp/WEB-INF/jsp/amhippo/homepage-main.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/src/main/webapp/WEB-INF/jsp/hstdefault/contentpage-main.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/src/main/webapp/WEB-INF/jsp/include/imports.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/src/main/webapp/WEB-INF/jsp/amhippo/base-footer.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/src/main/webapp/css/anandamarga.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/src/main/webapp/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/src/main/webapp/WEB-INF/jsp/amhippo/base-layout.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/src/main/webapp/WEB-INF/jsp/include/piwik.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/src/main/webapp/WEB-INF/jsp/amhippo/base-top-menu.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="76" column="6" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/src/main/webapp/WEB-INF/jsp/amhippo/contentlist-main-contentlist.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/site/src/main/webapp/WEB-INF/jsp/include/imports.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1000,14 +1013,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/src/main/webapp/WEB-INF/jsp/amhippo/homepage-main.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.6666667">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/site/src/main/webapp/WEB-INF/jsp/hstdefault/contentpage-main.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1018,7 +1023,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/site/src/main/webapp/WEB-INF/jsp/amhippo/base-top-menu.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-33.309525">
+        <state vertical-scroll-proportion="0.8648464">
           <caret line="76" column="6" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="6" />
           <folding />
         </state>
@@ -1034,7 +1039,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/site/src/main/webapp/WEB-INF/jsp/amhippo/base-footer.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.071428">
+        <state vertical-scroll-proportion="0.51808876">
           <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
@@ -1056,9 +1061,115 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/site/src/main/webapp/WEB-INF/jsp/amhippo/homepage-main.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18020478">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/src/main/java/anandamarga/beans/AMChannelInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24087591">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="hg4idea.settings">
     <option name="CHECK_INCOMING_OUTGOING" value="false" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>amhippo-cms:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>amhippo-site</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

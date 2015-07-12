@@ -1,184 +1,25 @@
-12-Jul-2015 00:10:20.012 WARNING [main] org.apache.tomcat.util.digester.SetPropertiesRule.begin [SetPropertiesRule]{Server/Service/Engine/Host/Valve} Setting property 'resolveHosts' to 'false' did not find a matching property.
-12-Jul-2015 00:10:20.020 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_45\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;c:\Program Files (x86)\Intel\iCLS Client\;c:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Common Files\Acronis\SnapAPI\;C:\Program Files\Mercurial\;C:\Program Files (x86)\MySQL\MySQL Fabric 1.5.4 & MySQL Utilities 1.5.4 1.5\;C:\Program Files (x86)\MySQL\MySQL Fabric 1.5.4 & MySQL Utilities 1.5.4 1.5\Doctrine extensions for PHP\;C:\Users\Karun\apache-maven-3.3.3\bin;C:\Program Files (x86)\Git\cmd;.
-12-Jul-2015 00:10:20.209 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
-12-Jul-2015 00:10:20.295 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
-12-Jul-2015 00:10:20.298 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
-12-Jul-2015 00:10:20.301 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
-12-Jul-2015 00:10:20.302 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 653 ms
-12-Jul-2015 00:10:20.327 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
-12-Jul-2015 00:10:20.327 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.21
-12-Jul-2015 00:10:20.350 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\cargocpc.war
-12-Jul-2015 00:10:20.733 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\cargocpc.war has finished in 382 ms
-12-Jul-2015 00:10:20.733 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\cms.war
-12-Jul-2015 00:10:39.559 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\cms.war has finished in 18,826 ms
-12-Jul-2015 00:10:39.560 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\essentials.war
-12-Jul-2015 00:10:55.995 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\essentials.war has finished in 16,435 ms
-12-Jul-2015 00:10:55.999 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\site.war
-12-Jul-2015 00:10:56.006 INFO [localhost-startStop-1] org.apache.catalina.realm.JAASRealm.setUseContextClassLoader Setting useContextClassLoader = true
-12-Jul-2015 00:11:05.002 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\site.war has finished in 9,003 ms
-12-Jul-2015 00:11:05.005 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\host-manager
-12-Jul-2015 00:11:05.110 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\host-manager has finished in 105 ms
-12-Jul-2015 00:11:05.110 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\manager
-12-Jul-2015 00:11:05.170 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\manager has finished in 59 ms
-12-Jul-2015 00:11:05.179 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
-12-Jul-2015 00:11:05.193 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
-12-Jul-2015 00:11:05.197 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 44895 ms
-12-Jul-2015 00:11:54.659 WARNING [http-nio-8080-exec-4] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [cms] registered the JDBC driver [org.h2.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
-12-Jul-2015 00:11:54.660 WARNING [http-nio-8080-exec-4] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [cms] appears to have started a thread named [Transient File Reaper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
- java.lang.Object.wait(Native Method)
- java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
- java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:164)
- org.apache.jackrabbit.util.TransientFileFactory$ReaperThread.run(TransientFileFactory.java:192)
-12-Jul-2015 00:11:54.661 WARNING [http-nio-8080-exec-4] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [cms] appears to have started a thread named [Wicket-PageSavingThread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
- sun.misc.Unsafe.park(Native Method)
- java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
- java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
- java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
- org.apache.wicket.pageStore.AsynchronousDataStore$PageSavingRunnable.run(AsynchronousDataStore.java:345)
- java.lang.Thread.run(Thread.java:745)
-12-Jul-2015 00:11:54.661 WARNING [http-nio-8080-exec-4] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [cms] appears to have started a thread named [Wicket-PageSavingThread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
- sun.misc.Unsafe.park(Native Method)
- java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
- java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
- java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
- org.apache.wicket.pageStore.AsynchronousDataStore$PageSavingRunnable.run(AsynchronousDataStore.java:345)
- java.lang.Thread.run(Thread.java:745)
-12-Jul-2015 00:11:55.268 INFO [http-nio-8080-exec-4] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/cms]
-12-Jul-2015 00:11:56.527 INFO [http-nio-8080-exec-6] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\cms.war
-12-Jul-2015 00:12:11.185 INFO [http-nio-8080-exec-6] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\cms.war has finished in 14,658 ms
-12-Jul-2015 00:12:12.277 INFO [http-nio-8080-exec-9] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/site]
-12-Jul-2015 00:12:12.648 INFO [http-nio-8080-exec-11] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\site.war
-12-Jul-2015 00:12:12.656 INFO [http-nio-8080-exec-11] org.apache.catalina.realm.JAASRealm.setUseContextClassLoader Setting useContextClassLoader = true
-12-Jul-2015 00:12:19.213 INFO [http-nio-8080-exec-11] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\site.war has finished in 6,566 ms
-12-Jul-2015 00:12:21.645 INFO [http-nio-8080-exec-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/essentials]
-12-Jul-2015 00:12:22.760 INFO [http-nio-8080-exec-11] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\essentials.war
-12-Jul-2015 00:12:33.151 INFO [http-nio-8080-exec-11] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\essentials.war has finished in 10,390 ms
-12-Jul-2015 00:21:31.289 WARNING [http-nio-8080-exec-16] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [cms] registered the JDBC driver [org.h2.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
-12-Jul-2015 00:21:31.290 WARNING [http-nio-8080-exec-16] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [cms] appears to have started a thread named [Transient File Reaper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
- java.lang.Object.wait(Native Method)
- java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
- java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:164)
- org.apache.jackrabbit.util.TransientFileFactory$ReaperThread.run(TransientFileFactory.java:192)
-12-Jul-2015 00:21:31.291 WARNING [http-nio-8080-exec-16] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [cms] appears to have started a thread named [Wicket-PageSavingThread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
- sun.misc.Unsafe.park(Native Method)
- java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
- java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
- java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
- org.apache.wicket.pageStore.AsynchronousDataStore$PageSavingRunnable.run(AsynchronousDataStore.java:345)
- java.lang.Thread.run(Thread.java:745)
-12-Jul-2015 00:21:31.291 WARNING [http-nio-8080-exec-16] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [cms] appears to have started a thread named [Wicket-PageSavingThread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
- sun.misc.Unsafe.park(Native Method)
- java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
- java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
- java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
- org.apache.wicket.pageStore.AsynchronousDataStore$PageSavingRunnable.run(AsynchronousDataStore.java:345)
- java.lang.Thread.run(Thread.java:745)
-12-Jul-2015 00:21:31.928 INFO [http-nio-8080-exec-16] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/cms]
-12-Jul-2015 00:21:33.343 INFO [http-nio-8080-exec-15] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\cms.war
-12-Jul-2015 00:21:51.883 INFO [http-nio-8080-exec-15] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\cms.war has finished in 18,540 ms
-12-Jul-2015 00:21:52.846 INFO [http-nio-8080-exec-14] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/site]
-12-Jul-2015 00:21:53.228 INFO [http-nio-8080-exec-18] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\site.war
-12-Jul-2015 00:21:53.232 INFO [http-nio-8080-exec-18] org.apache.catalina.realm.JAASRealm.setUseContextClassLoader Setting useContextClassLoader = true
-12-Jul-2015 00:21:59.337 INFO [http-nio-8080-exec-18] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\site.war has finished in 6,109 ms
-12-Jul-2015 00:22:02.135 INFO [http-nio-8080-exec-25] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/essentials]
-12-Jul-2015 00:22:03.447 INFO [http-nio-8080-exec-26] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\essentials.war
-12-Jul-2015 00:22:16.063 INFO [http-nio-8080-exec-26] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\essentials.war has finished in 12,617 ms
-12-Jul-2015 00:31:46.094 WARNING [http-nio-8080-exec-30] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [cms] registered the JDBC driver [org.h2.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
-12-Jul-2015 00:31:46.094 WARNING [http-nio-8080-exec-30] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [cms] appears to have started a thread named [Transient File Reaper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
- java.lang.Object.wait(Native Method)
- java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
- java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:164)
- org.apache.jackrabbit.util.TransientFileFactory$ReaperThread.run(TransientFileFactory.java:192)
-12-Jul-2015 00:31:46.095 WARNING [http-nio-8080-exec-30] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [cms] appears to have started a thread named [Wicket-PageSavingThread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
- sun.misc.Unsafe.park(Native Method)
- java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
- java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
- java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
- org.apache.wicket.pageStore.AsynchronousDataStore$PageSavingRunnable.run(AsynchronousDataStore.java:345)
- java.lang.Thread.run(Thread.java:745)
-12-Jul-2015 00:31:46.096 WARNING [http-nio-8080-exec-30] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [cms] appears to have started a thread named [Wicket-PageSavingThread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
- sun.misc.Unsafe.park(Native Method)
- java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
- java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
- java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
- org.apache.wicket.pageStore.AsynchronousDataStore$PageSavingRunnable.run(AsynchronousDataStore.java:345)
- java.lang.Thread.run(Thread.java:745)
-12-Jul-2015 00:31:46.846 INFO [http-nio-8080-exec-30] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/cms]
-12-Jul-2015 00:31:47.879 INFO [http-nio-8080-exec-33] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\cms.war
-12-Jul-2015 00:32:04.980 INFO [http-nio-8080-exec-33] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\cms.war has finished in 17,101 ms
-12-Jul-2015 00:32:06.066 INFO [http-nio-8080-exec-29] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/site]
-12-Jul-2015 00:32:06.389 INFO [http-nio-8080-exec-36] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\site.war
-12-Jul-2015 00:32:06.393 INFO [http-nio-8080-exec-36] org.apache.catalina.realm.JAASRealm.setUseContextClassLoader Setting useContextClassLoader = true
-12-Jul-2015 00:32:13.932 INFO [http-nio-8080-exec-36] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\site.war has finished in 7,543 ms
-12-Jul-2015 00:32:16.485 INFO [http-nio-8080-exec-37] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/essentials]
-12-Jul-2015 00:32:16.990 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/essentials]
-12-Jul-2015 00:32:18.508 INFO [http-nio-8080-exec-34] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\essentials.war
-12-Jul-2015 00:32:29.097 INFO [http-nio-8080-exec-34] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\essentials.war has finished in 10,589 ms
-12-Jul-2015 08:53:34.809 WARNING [http-nio-8080-exec-48] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [cms] registered the JDBC driver [org.h2.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
-12-Jul-2015 08:53:34.810 WARNING [http-nio-8080-exec-48] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [cms] appears to have started a thread named [Transient File Reaper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
- java.lang.Object.wait(Native Method)
- java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
- java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:164)
- org.apache.jackrabbit.util.TransientFileFactory$ReaperThread.run(TransientFileFactory.java:192)
-12-Jul-2015 08:53:34.810 WARNING [http-nio-8080-exec-48] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [cms] appears to have started a thread named [Wicket-PageSavingThread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
- sun.misc.Unsafe.park(Native Method)
- java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
- java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
- java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
- org.apache.wicket.pageStore.AsynchronousDataStore$PageSavingRunnable.run(AsynchronousDataStore.java:345)
- java.lang.Thread.run(Thread.java:745)
-12-Jul-2015 08:53:34.811 WARNING [http-nio-8080-exec-48] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [cms] appears to have started a thread named [Wicket-PageSavingThread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
- sun.misc.Unsafe.park(Native Method)
- java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
- java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
- java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
- org.apache.wicket.pageStore.AsynchronousDataStore$PageSavingRunnable.run(AsynchronousDataStore.java:345)
- java.lang.Thread.run(Thread.java:745)
-12-Jul-2015 08:53:34.811 SEVERE [http-nio-8080-exec-48] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [cms] created a ThreadLocal with key of type [net.sf.json.AbstractJSON$1] (value [net.sf.json.AbstractJSON$1@183f92be]) and a value of type [java.util.HashSet] (value [[]]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
-12-Jul-2015 08:53:34.811 SEVERE [http-nio-8080-exec-48] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [cms] created a ThreadLocal with key of type [net.sf.json.AbstractJSON$1] (value [net.sf.json.AbstractJSON$1@183f92be]) and a value of type [java.util.HashSet] (value [[]]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
-12-Jul-2015 08:53:34.811 SEVERE [http-nio-8080-exec-48] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [cms] created a ThreadLocal with key of type [net.sf.json.AbstractJSON$1] (value [net.sf.json.AbstractJSON$1@183f92be]) and a value of type [java.util.HashSet] (value [[]]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
-12-Jul-2015 08:53:34.812 SEVERE [http-nio-8080-exec-48] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [cms] created a ThreadLocal with key of type [net.sf.json.AbstractJSON$1] (value [net.sf.json.AbstractJSON$1@183f92be]) and a value of type [java.util.HashSet] (value [[]]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
-12-Jul-2015 08:53:34.812 SEVERE [http-nio-8080-exec-48] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [cms] created a ThreadLocal with key of type [net.sf.json.AbstractJSON$1] (value [net.sf.json.AbstractJSON$1@183f92be]) and a value of type [java.util.HashSet] (value [[]]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
-12-Jul-2015 08:53:34.812 SEVERE [http-nio-8080-exec-48] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [cms] created a ThreadLocal with key of type [net.sf.json.AbstractJSON$1] (value [net.sf.json.AbstractJSON$1@183f92be]) and a value of type [java.util.HashSet] (value [[]]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
-12-Jul-2015 08:53:34.812 SEVERE [http-nio-8080-exec-48] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [cms] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@7c0cd824]) and a value of type [org.apache.cxf.BusFactory.BusHolder] (value [org.apache.cxf.BusFactory$BusHolder@1934af5]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
-12-Jul-2015 08:53:34.813 SEVERE [http-nio-8080-exec-48] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [cms] created a ThreadLocal with key of type [net.sf.json.AbstractJSON$1] (value [net.sf.json.AbstractJSON$1@183f92be]) and a value of type [java.util.HashSet] (value [[]]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
-12-Jul-2015 08:53:35.625 INFO [http-nio-8080-exec-48] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/cms]
-12-Jul-2015 08:53:36.788 INFO [http-nio-8080-exec-51] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\cms.war
-12-Jul-2015 08:53:53.493 INFO [http-nio-8080-exec-51] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\cms.war has finished in 16,704 ms
-12-Jul-2015 08:53:54.612 INFO [http-nio-8080-exec-50] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/site]
-12-Jul-2015 08:53:55.091 INFO [http-nio-8080-exec-53] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\site.war
-12-Jul-2015 08:53:55.096 INFO [http-nio-8080-exec-53] org.apache.catalina.realm.JAASRealm.setUseContextClassLoader Setting useContextClassLoader = true
-12-Jul-2015 08:54:03.171 INFO [http-nio-8080-exec-53] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\site.war has finished in 8,080 ms
-12-Jul-2015 08:54:05.871 INFO [http-nio-8080-exec-46] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/essentials]
-12-Jul-2015 08:54:07.510 INFO [http-nio-8080-exec-57] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\essentials.war
-12-Jul-2015 08:54:21.000 INFO [http-nio-8080-exec-57] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\essentials.war has finished in 13,490 ms
-12-Jul-2015 09:00:04.372 WARNING [http-nio-8080-exec-60] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [cms] registered the JDBC driver [org.h2.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
-12-Jul-2015 09:00:04.373 WARNING [http-nio-8080-exec-60] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [cms] appears to have started a thread named [Transient File Reaper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
- java.lang.Object.wait(Native Method)
- java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
- java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:164)
- org.apache.jackrabbit.util.TransientFileFactory$ReaperThread.run(TransientFileFactory.java:192)
-12-Jul-2015 09:00:04.374 WARNING [http-nio-8080-exec-60] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [cms] appears to have started a thread named [Wicket-PageSavingThread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
- sun.misc.Unsafe.park(Native Method)
- java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
- java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
- java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
- org.apache.wicket.pageStore.AsynchronousDataStore$PageSavingRunnable.run(AsynchronousDataStore.java:345)
- java.lang.Thread.run(Thread.java:745)
-12-Jul-2015 09:00:04.374 WARNING [http-nio-8080-exec-60] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [cms] appears to have started a thread named [Wicket-PageSavingThread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
- sun.misc.Unsafe.park(Native Method)
- java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
- java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
- java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
- org.apache.wicket.pageStore.AsynchronousDataStore$PageSavingRunnable.run(AsynchronousDataStore.java:345)
- java.lang.Thread.run(Thread.java:745)
-12-Jul-2015 09:00:05.013 INFO [http-nio-8080-exec-60] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/cms]
-12-Jul-2015 09:00:06.286 INFO [http-nio-8080-exec-65] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\cms.war
-12-Jul-2015 09:00:26.054 INFO [http-nio-8080-exec-65] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\cms.war has finished in 19,769 ms
-12-Jul-2015 09:00:27.225 INFO [http-nio-8080-exec-61] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/site]
-12-Jul-2015 09:00:27.655 INFO [http-nio-8080-exec-64] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\site.war
-12-Jul-2015 09:00:27.658 INFO [http-nio-8080-exec-64] org.apache.catalina.realm.JAASRealm.setUseContextClassLoader Setting useContextClassLoader = true
-12-Jul-2015 09:00:37.114 INFO [http-nio-8080-exec-64] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\site.war has finished in 9,459 ms
-12-Jul-2015 09:00:39.550 INFO [http-nio-8080-exec-59] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/essentials]
-12-Jul-2015 09:00:40.742 INFO [http-nio-8080-exec-67] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\essentials.war
-12-Jul-2015 09:00:52.907 INFO [http-nio-8080-exec-67] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\essentials.war has finished in 12,165 ms
+12-Jul-2015 09:39:45.415 WARNING [main] org.apache.tomcat.util.digester.SetPropertiesRule.begin [SetPropertiesRule]{Server/Service/Engine/Host/Valve} Setting property 'resolveHosts' to 'false' did not find a matching property.
+12-Jul-2015 09:39:45.421 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_45\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;c:\Program Files (x86)\Intel\iCLS Client\;c:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Common Files\Acronis\SnapAPI\;C:\Program Files\Mercurial\;C:\Program Files (x86)\MySQL\MySQL Fabric 1.5.4 & MySQL Utilities 1.5.4 1.5\;C:\Program Files (x86)\MySQL\MySQL Fabric 1.5.4 & MySQL Utilities 1.5.4 1.5\Doctrine extensions for PHP\;C:\Users\Karun\apache-maven-3.3.3\bin;C:\Program Files (x86)\Git\cmd;.
+12-Jul-2015 09:39:45.589 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+12-Jul-2015 09:39:45.657 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+12-Jul-2015 09:39:45.660 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+12-Jul-2015 09:39:45.664 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+12-Jul-2015 09:39:45.664 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 726 ms
+12-Jul-2015 09:39:45.691 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+12-Jul-2015 09:39:45.691 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.21
+12-Jul-2015 09:39:45.716 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\cargocpc.war
+12-Jul-2015 09:39:46.218 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\cargocpc.war has finished in 502 ms
+12-Jul-2015 09:39:46.222 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\cms.war
+12-Jul-2015 09:40:08.159 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\cms.war has finished in 21,936 ms
+12-Jul-2015 09:40:08.164 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\essentials.war
+12-Jul-2015 09:40:20.260 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\essentials.war has finished in 12,096 ms
+12-Jul-2015 09:40:20.265 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\site.war
+12-Jul-2015 09:40:20.270 INFO [localhost-startStop-1] org.apache.catalina.realm.JAASRealm.setUseContextClassLoader Setting useContextClassLoader = true
+12-Jul-2015 09:40:27.193 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\site.war has finished in 6,927 ms
+12-Jul-2015 09:40:27.194 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\host-manager
+12-Jul-2015 09:40:27.268 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\host-manager has finished in 73 ms
+12-Jul-2015 09:40:27.268 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\manager
+12-Jul-2015 09:40:27.336 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\webapps\manager has finished in 67 ms
+12-Jul-2015 09:40:27.344 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+12-Jul-2015 09:40:27.357 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+12-Jul-2015 09:40:27.361 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 41695 ms
