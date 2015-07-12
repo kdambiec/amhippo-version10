@@ -2,33 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5e44af9-e5de-4774-8bcb-9ee9ba751cd7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/main/webapp/WEB-INF/jsp/amhippo/contactslist.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/src/main/webapp/WEB-INF/jsp/amhippo/contactspage-main.jsp" />
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\.idea\libraries\Maven__org_jsoup_jsoup_1_7_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\.idea\libraries\Maven__org_onehippo_cms7_hippo_essentials_components_cms_1_03_01.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\essentials\target\war\work\org.onehippo.cms7\hippo-essentials-dashboard\META-INF\maven\org.onehippo.cms7\hippo-essentials-dashboard\hippo-essentials-dashboard.iml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\work\Catalina\localhost\site\org\apache\jsp\WEB_002dINF\jsp\amhippo\base_002dfooter_jsp.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\work\Catalina\localhost\site\org\apache\jsp\WEB_002dINF\jsp\amhippo\base_002dfooter_jsp.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\work\Catalina\localhost\site\org\apache\jsp\WEB_002dINF\jsp\amhippo\base_002dlayout_jsp.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\work\Catalina\localhost\site\org\apache\jsp\WEB_002dINF\jsp\amhippo\base_002dlayout_jsp.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\work\Catalina\localhost\site\org\apache\jsp\WEB_002dINF\jsp\amhippo\base_002dtop_002dmenu_jsp.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\work\Catalina\localhost\site\org\apache\jsp\WEB_002dINF\jsp\amhippo\base_002dtop_002dmenu_jsp.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\work\Catalina\localhost\site\org\apache\jsp\WEB_002dINF\jsp\amhippo\homepage_002dmain_jsp.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\work\Catalina\localhost\site\org\apache\jsp\WEB_002dINF\jsp\amhippo\homepage_002dmain_jsp.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/configuration/target/amhippo-bootstrap-configuration-1.01.00-SNAPSHOT-sources.jar" afterPath="$PROJECT_DIR$/bootstrap/configuration/target/amhippo-bootstrap-configuration-1.01.00-SNAPSHOT-sources.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/configuration/target/amhippo-bootstrap-configuration-1.01.00-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/bootstrap/configuration/target/amhippo-bootstrap-configuration-1.01.00-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cms/target/cms/WEB-INF/lib/amhippo-bootstrap-configuration-1.01.00-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/cms/target/cms/WEB-INF/lib/amhippo-bootstrap-configuration-1.01.00-SNAPSHOT.jar" />
+      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\storage\version\db.lock.db" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\storage\workspaces\default\db.lock.db" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat8x/webapps/cms/WEB-INF/lib/amhippo-bootstrap-configuration-1.01.00-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/tomcat8x/webapps/cms/WEB-INF/lib/amhippo-bootstrap-configuration-1.01.00-SNAPSHOT.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cms/target/cms.war" afterPath="$PROJECT_DIR$/cms/target/cms.war" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/essentials/target/essentials-sources.jar" afterPath="$PROJECT_DIR$/essentials/target/essentials-sources.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat8x/webapps/cms.war" afterPath="$PROJECT_DIR$/target/tomcat8x/webapps/cms.war" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/version/db.h2.db" afterPath="$PROJECT_DIR$/storage/version/db.h2.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/workspaces/default/db.h2.db" afterPath="$PROJECT_DIR$/storage/workspaces/default/db.h2.db" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/essentials/target/essentials.war" afterPath="$PROJECT_DIR$/essentials/target/essentials.war" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat8x/webapps/essentials.war" afterPath="$PROJECT_DIR$/target/tomcat8x/webapps/essentials.war" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/target/site-sources.jar" afterPath="$PROJECT_DIR$/site/target/site-sources.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/target/site.war" afterPath="$PROJECT_DIR$/site/target/site.war" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/configuration/target/classes/namespaces/amhippo.cnd" afterPath="$PROJECT_DIR$/bootstrap/configuration/target/classes/namespaces/amhippo.cnd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/site/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/configuration/target/classes/hippoecm-extension.xml" afterPath="$PROJECT_DIR$/bootstrap/configuration/target/classes/hippoecm-extension.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat8x/webapps/site.war" afterPath="$PROJECT_DIR$/target/tomcat8x/webapps/site.war" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat8x/logs/catalina.2015-07-12.log" afterPath="$PROJECT_DIR$/target/tomcat8x/logs/catalina.2015-07-12.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/repository/cnd-checksums" afterPath="$PROJECT_DIR$/storage/repository/cnd-checksums" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat8x/logs/hippo-audit.log" afterPath="$PROJECT_DIR$/target/tomcat8x/logs/hippo-audit.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat8x/logs/hippo-cms.log" afterPath="$PROJECT_DIR$/target/tomcat8x/logs/hippo-cms.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/site/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat8x/logs/localhost.2015-07-12.log" afterPath="$PROJECT_DIR$/target/tomcat8x/logs/localhost.2015-07-12.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat8x/logs/localhost_access_log..2015-07-12.txt" afterPath="$PROJECT_DIR$/target/tomcat8x/logs/localhost_access_log..2015-07-12.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cms/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/cms/target/maven-archiver/pom.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/essentials/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/essentials/target/maven-archiver/pom.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/site/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat8x/webapps/cms/META-INF/maven/anandamarga/amhippo-cms/pom.properties" afterPath="$PROJECT_DIR$/target/tomcat8x/webapps/cms/META-INF/maven/anandamarga/amhippo-cms/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat8x/webapps/essentials/META-INF/maven/anandamarga/amhippo-essentials/pom.properties" afterPath="$PROJECT_DIR$/target/tomcat8x/webapps/essentials/META-INF/maven/anandamarga/amhippo-essentials/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat8x/webapps/site/META-INF/maven/anandamarga/amhippo-site/pom.properties" afterPath="$PROJECT_DIR$/target/tomcat8x/webapps/site/META-INF/maven/anandamarga/amhippo-site/pom.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="amhippo.iws" />
@@ -860,7 +858,7 @@
       <option name="number" value="Default" />
       <updated>1436650097224</updated>
       <workItem from="1436650101190" duration="6230000" />
-      <workItem from="1436690638300" duration="1952000" />
+      <workItem from="1436690638300" duration="2542000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Template work">
       <created>1436652833625</created>
@@ -872,11 +870,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8182000" />
+    <option name="totallyTimeSpent" value="8772000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="-13" width="3226" height="1754" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
