@@ -30,8 +30,8 @@
             <div class="col-md-4">
                 <h3>Contacto</h3>
 
-                <c:if test="${not empty document.contactname}">
-                    <h4><c:out value="${document.contactname}"/></h4>
+                <c:if test="${not empty document.contactName}">
+                    <h4><c:out value="${document.contactName}"/></h4>
                 </c:if>
 
                 <p>

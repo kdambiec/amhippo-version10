@@ -21,12 +21,12 @@
             <h3><a href="${link}"><c:out value="${item.cityName}"/></a></h3>
             <!-- Contact Details Column -->
             <div class="col-md-4">
-                <c:if test="${not empty item.contactPhoto}">
+               <%-- <c:if test="${not empty item.contactPhoto}">
                     <hst:link var="contactPhotoDesktop" hippobean="${item.contactPhoto.contactdesktop}"/>
                     <img src="${contactPhotoDesktop}" class="img-rounded"/>
-                </c:if>
-                <c:if test="${not empty item.contactname}">
-                    <h4><c:out value="${item.contactname}"/></h4>
+                </c:if>--%>
+                <c:if test="${not empty item.contactName}">
+                    <h4><c:out value="${item.contactName}"/></h4>
                 </c:if>
                 <c:if test="${not empty item.address}">
                     <p>
