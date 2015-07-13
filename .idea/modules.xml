@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/essentials/amhippo-essentials.iml" filepath="$PROJECT_DIR$/essentials/amhippo-essentials.iml" />
       <module fileurl="file://$PROJECT_DIR$/site/amhippo-site.iml" filepath="$PROJECT_DIR$/site/amhippo-site.iml" />
       <module fileurl="file://$PROJECT_DIR$/essentials/target/war/work/org.onehippo.cms7/hippo-essentials-dashboard/META-INF/maven/org.onehippo.cms7/hippo-essentials-dashboard/hippo-essentials-dashboard.iml" filepath="$PROJECT_DIR$/essentials/target/war/work/org.onehippo.cms7/hippo-essentials-dashboard/META-INF/maven/org.onehippo.cms7/hippo-essentials-dashboard/hippo-essentials-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/essentials/target/war/work/org.onehippo.cms7/hippo-essentials-dashboard/META-INF/maven/org.onehippo.cms7/hippo-essentials-dashboard/hippo-essentials-dashboard.iml" filepath="$PROJECT_DIR$/essentials/target/war/work/org.onehippo.cms7/hippo-essentials-dashboard/META-INF/maven/org.onehippo.cms7/hippo-essentials-dashboard/hippo-essentials-dashboard.iml" />
     </modules>
   </component>
 </project>

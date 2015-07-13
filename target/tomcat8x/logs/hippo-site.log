@@ -1,0 +1,57 @@
+13.07.2015 18:39:48 ERROR http-nio-8080-exec-4 [CompositeConfigurationNodes.<init>:77] Skipping inheritfrom property for configuration node '/hst:hst/hst:configurations/amhippo' because this node is already inherit. Not allowed to inherit again
+13.07.2015 18:39:48 ERROR http-nio-8080-exec-4 [CompositeConfigurationNodes.<init>:77] Skipping inheritfrom property for configuration node '/hst:hst/hst:configurations/amhippo' because this node is already inherit. Not allowed to inherit again
+13.07.2015 18:39:48 ERROR http-nio-8080-exec-4 [CompositeConfigurationNodes.<init>:77] Skipping inheritfrom property for configuration node '/hst:hst/hst:configurations/amhippo' because this node is already inherit. Not allowed to inherit again
+13.07.2015 18:39:48 ERROR http-nio-8080-exec-4 [CompositeConfigurationNodes.<init>:77] Skipping inheritfrom property for configuration node '/hst:hst/hst:configurations/amhippo' because this node is already inherit. Not allowed to inherit again
+13.07.2015 18:39:48 ERROR http-nio-8080-exec-4 [VirtualHostsService.loadChannelsAndBluePrints:969] Could not set channel info to mount
+org.hippoecm.hst.configuration.channel.ChannelException: Channel 'amhippo' is referenced by multiple mounts within hostgroup 'dev-localhost'. Within a single hostgroup, a channel is only allowed to be referenced by a ons single mount.
+	at org.hippoecm.hst.configuration.hosting.VirtualHostsService.attachChannelToMountAndHostGroup(VirtualHostsService.java:1033)
+	at org.hippoecm.hst.configuration.hosting.VirtualHostsService.loadChannelsAndBluePrints(VirtualHostsService.java:966)
+	at org.hippoecm.hst.configuration.hosting.VirtualHostsService.<init>(VirtualHostsService.java:360)
+	at org.hippoecm.hst.configuration.model.HstManagerImpl.buildSites(HstManagerImpl.java:361)
+	at org.hippoecm.hst.configuration.model.HstManagerImpl.synchronousBuild(HstManagerImpl.java:305)
+	at org.hippoecm.hst.configuration.model.HstManagerImpl.getVirtualHosts(HstManagerImpl.java:288)
+	at org.hippoecm.hst.container.HstDelegateeFilterBean.doFilter(HstDelegateeFilterBean.java:182)
+	at org.hippoecm.hst.container.DelegatingFilter.doFilter(DelegatingFilter.java:84)
+	at org.hippoecm.hst.container.HstFilter.doFilter(HstFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:239)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.hippoecm.hst.container.XSSUrlFilter.doFilter(XSSUrlFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:239)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:88)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:239)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:106)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:142)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:610)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:518)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1091)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:668)
+	at org.apache.coyote.http11.Http11NioProtocol$Http11ConnectionHandler.process(Http11NioProtocol.java:223)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1517)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1474)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+13.07.2015 18:39:50 ERROR http-nio-8080-exec-8 [CompositeConfigurationNodes.<init>:77] Skipping inheritfrom property for configuration node '/hst:hst/hst:configurations/amhippo' because this node is already inherit. Not allowed to inherit again
+13.07.2015 18:39:50 ERROR http-nio-8080-exec-8 [CompositeConfigurationNodes.<init>:77] Skipping inheritfrom property for configuration node '/hst:hst/hst:configurations/amhippo' because this node is already inherit. Not allowed to inherit again
+13.07.2015 18:39:50 ERROR http-nio-8080-exec-8 [CompositeConfigurationNodes.<init>:77] Skipping inheritfrom property for configuration node '/hst:hst/hst:configurations/amhippo' because this node is already inherit. Not allowed to inherit again
+13.07.2015 18:39:50 WARN  http-nio-8080-exec-8 [HstComponentConfigurationService.getReferencedContainer:427] Component '/hst:hst/hst:configurations/amhippo/hst:abstractpages/base/top' is of type 'hst:containercomponentreference' but there are no referenceable containers at 'hst:workspace/hst:containers'. Component '/hst:hst/hst:configurations/amhippo/hst:abstractpages/base/top' will be ignored.
+13.07.2015 18:39:50 WARN  http-nio-8080-exec-8 [HstComponentConfigurationService.getReferencedContainer:427] Component '/hst:hst/hst:configurations/amhippo/hst:abstractpages/base/footer/container' is of type 'hst:containercomponentreference' but there are no referenceable containers at 'hst:workspace/hst:containers'. Component '/hst:hst/hst:configurations/amhippo/hst:abstractpages/base/footer/container' will be ignored.
+13.07.2015 18:39:50 WARN  http-nio-8080-exec-8 [HstComponentConfigurationService.getReferencedContainer:427] Component '/hst:hst/hst:configurations/amhippo/hst:pages/contentpage/main' is of type 'hst:containercomponentreference' but there are no referenceable containers at 'hst:workspace/hst:containers'. Component '/hst:hst/hst:configurations/amhippo/hst:pages/contentpage/main' will be ignored.
+13.07.2015 18:39:50 WARN  http-nio-8080-exec-8 [HstComponentConfigurationService.getReferencedContainer:427] Component '/hst:hst/hst:configurations/amhippo/hst:pages/newspage/main' is of type 'hst:containercomponentreference' but there are no referenceable containers at 'hst:workspace/hst:containers'. Component '/hst:hst/hst:configurations/amhippo/hst:pages/newspage/main' will be ignored.
+13.07.2015 18:39:50 WARN  http-nio-8080-exec-8 [HstComponentConfigurationService.getReferencedContainer:427] Component '/hst:hst/hst:configurations/amhippo/hst:pages/pagenotfound/main/container' is of type 'hst:containercomponentreference' but there are no referenceable containers at 'hst:workspace/hst:containers'. Component '/hst:hst/hst:configurations/amhippo/hst:pages/pagenotfound/main/container' will be ignored.
+13.07.2015 18:39:50 WARN  http-nio-8080-exec-8 [HstComponentConfigurationService.getReferencedContainer:427] Component '/hst:hst/hst:configurations/amhippo/hst:pages/bloglist/main/sidebarcontainer' is of type 'hst:containercomponentreference' but there are no referenceable containers at 'hst:workspace/hst:containers'. Component '/hst:hst/hst:configurations/amhippo/hst:pages/bloglist/main/sidebarcontainer' will be ignored.
+13.07.2015 18:39:50 WARN  http-nio-8080-exec-8 [HstComponentConfigurationService.getReferencedContainer:427] Component '/hst:hst/hst:configurations/amhippo/hst:pages/bloglist/main/detailcontainer' is of type 'hst:containercomponentreference' but there are no referenceable containers at 'hst:workspace/hst:containers'. Component '/hst:hst/hst:configurations/amhippo/hst:pages/bloglist/main/detailcontainer' will be ignored.
+13.07.2015 18:39:50 WARN  http-nio-8080-exec-8 [HstComponentConfigurationService.getReferencedContainer:427] Component '/hst:hst/hst:configurations/amhippo/hst:pages/blogpage/main/sidebarcontainer' is of type 'hst:containercomponentreference' but there are no referenceable containers at 'hst:workspace/hst:containers'. Component '/hst:hst/hst:configurations/amhippo/hst:pages/blogpage/main/sidebarcontainer' will be ignored.
+13.07.2015 18:39:50 WARN  http-nio-8080-exec-8 [HstComponentConfigurationService.getReferencedContainer:427] Component '/hst:hst/hst:configurations/amhippo/hst:pages/blogpage/main/detailcontainer' is of type 'hst:containercomponentreference' but there are no referenceable containers at 'hst:workspace/hst:containers'. Component '/hst:hst/hst:configurations/amhippo/hst:pages/blogpage/main/detailcontainer' will be ignored.
+13.07.2015 18:39:50 WARN  http-nio-8080-exec-8 [HstComponentConfigurationService.getReferencedContainer:427] Component '/hst:hst/hst:configurations/amhippo/hst:pages/contentlist/main' is of type 'hst:containercomponentreference' but there are no referenceable containers at 'hst:workspace/hst:containers'. Component '/hst:hst/hst:configurations/amhippo/hst:pages/contentlist/main' will be ignored.
+13.07.2015 18:39:50 WARN  http-nio-8080-exec-8 [HstComponentConfigurationService.getReferencedContainer:427] Component '/hst:hst/hst:configurations/amhippo/hst:pages/homepage/main/container' is of type 'hst:containercomponentreference' but there are no referenceable containers at 'hst:workspace/hst:containers'. Component '/hst:hst/hst:configurations/amhippo/hst:pages/homepage/main/container' will be ignored.
+13.07.2015 18:39:50 WARN  http-nio-8080-exec-8 [HstComponentConfigurationService.getReferencedContainer:427] Component '/hst:hst/hst:configurations/amhippo/hst:pages/newslist/main' is of type 'hst:containercomponentreference' but there are no referenceable containers at 'hst:workspace/hst:containers'. Component '/hst:hst/hst:configurations/amhippo/hst:pages/newslist/main' will be ignored.
+13.07.2015 18:39:50 ERROR http-nio-8080-exec-8 [CompositeConfigurationNodes.<init>:77] Skipping inheritfrom property for configuration node '/hst:hst/hst:configurations/amhippo' because this node is already inherit. Not allowed to inherit again

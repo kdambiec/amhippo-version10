@@ -397,6 +397,9 @@
       <sv:property sv:name="amhippo:introduction" sv:type="String">
         <sv:value/>
       </sv:property>
+      <sv:property sv:name="amhippo:publicationdate" sv:type="Date">
+        <sv:value>0001-01-01T13:00:00.000+01:00</sv:value>
+      </sv:property>
       <sv:property sv:name="amhippo:title" sv:type="String">
         <sv:value>Quienes Somos?</sv:value>
       </sv:property>
@@ -409,7 +412,7 @@
         <sv:value>draft</sv:value>
       </sv:property>
       <sv:property sv:name="hippostd:stateSummary" sv:type="String">
-        <sv:value>live</sv:value>
+        <sv:value>changed</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
         <sv:value>diditejasvinii</sv:value>
@@ -418,10 +421,10 @@
         <sv:value>2015-02-08T21:38:06.897+01:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-        <sv:value>2015-06-06T12:50:00.725Z</sv:value>
+        <sv:value>2015-07-12T18:49:40.641+02:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
-        <sv:value>diditejasvinii</sv:value>
+        <sv:value>admin</sv:value>
       </sv:property>
       <sv:property sv:name="hippotranslation:id" sv:type="String">
         <sv:value>052e2703-9af4-455f-9547-8e976a7fdb0c</sv:value>
@@ -434,7 +437,7 @@
           <sv:value>hippostd:html</sv:value>
         </sv:property>
         <sv:property sv:name="hippostd:content" sv:type="String">
-          <sv:value>&lt;p style="text-align:center"&gt;&lt;img align="middle" src="index-meditation.jpg/{_document}/hippogallery:original" /&gt;&lt;/p&gt; 
+          <sv:value>&lt;p style="text-align:center"&gt;&lt;img align="middle" src="./wicket/resource/org.hippoecm.frontend.plugins.richtext.RichTextProcessor/broken-image-32-ver-1436649874000.png" /&gt;&lt;/p&gt; 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt; 
 &lt;p&gt;&lt;strong&gt;ANANDA MARGA&lt;/strong&gt;&lt;br /&gt; Ananda Marga es un movimiento internacional fundado en la India en 1955, con el objetivo de promover el desarrollo integral de los seres humanos, como individuos, a través de la prácticas de meditación y del yoga, y como miembros de la sociedad, a través del compromiso social positivo.
 &lt;br /&gt; “Ananda” es una palabra sánscrita que significa el estado interior de armonía y alegría, que se experimenta a través de la práctica del yoga y la meditación. ‘Marga’ es el movimiento hacia esa armonía.
@@ -444,129 +447,30 @@
 &lt;p&gt;&lt;strong&gt;PROFESORES&lt;/strong&gt;&lt;/p&gt; 
 &lt;p&gt;Desde nuestro punto de vista, para ser profesor o monitor de yoga no es suficiente con tomar un curso y obtener un diploma. El profesor ha de incorporar la filosofía y la practica del yoga en todas las actitudes y acciones de su vida. Un profesor transmite ‘lo que el es’ tanto como ‘lo que el sabe’.&lt;/p&gt; 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt; 
-&lt;p&gt;&lt;a href="las-palmas"&gt;&lt;em&gt;&lt;strong&gt;I&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;&lt;em&gt;&lt;strong&gt;&lt;a href="las-palmas"&gt;STAMAYA&lt;/a&gt;&lt;/strong&gt;&lt;a href="las-palmas"&gt; -&lt;/a&gt;&lt;/em&gt;&lt;a href="las-palmas"&gt; Las Palmas&lt;/a&gt; 
-&lt;img align="right" src="istamaya.jpg/{_document}/hippogallery:original" /&gt;&lt;br /&gt; Istamaya practica yoga y meditación desde hace 34 años. Fue voluntaria de Ananda Marga durante 8 años en Argentina, Chile, Brasil y Colombia, cooperando en varios proyectos educativos para mujeres y niños. Actualmente es la coordinadora de los cursos de yoga, meditación y cocina vegetariana en el centro de Las Palmas.
+&lt;p&gt;&lt;a&gt;&lt;em&gt;&lt;strong&gt;I&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;&lt;em&gt;&lt;strong&gt;&lt;a&gt;STAMAYA&lt;/a&gt;&lt;/strong&gt;&lt;a&gt; -&lt;/a&gt;&lt;/em&gt;&lt;a&gt; Las Palmas&lt;/a&gt; 
+&lt;img align="right" src="./wicket/resource/org.hippoecm.frontend.plugins.richtext.RichTextProcessor/broken-image-32-ver-1436649874000.png" /&gt;&lt;br /&gt; Istamaya practica yoga y meditación desde hace 34 años. Fue voluntaria de Ananda Marga durante 8 años en Argentina, Chile, Brasil y Colombia, cooperando en varios proyectos educativos para mujeres y niños. Actualmente es la coordinadora de los cursos de yoga, meditación y cocina vegetariana en el centro de Las Palmas.
 &lt;br /&gt; 675022160 / 928676147&lt;/p&gt; 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt; 
-&lt;p&gt;&lt;a href="las-palmas"&gt;&lt;strong&gt;&lt;em&gt;ANIL&lt;/em&gt;&lt;/strong&gt; - Las Palmas&lt;/a&gt;&lt;br /&gt; Anil practica yoga y meditación desde hace 42 años. Fue voluntario en varios proyectos de Ananda Marga en Tailandia, Sudáfrica, Argentina y Grecia durante 13 años. Actualmente colabora en las actividades de yoga y meditación en Las Palmas.
+&lt;p&gt;&lt;a&gt;&lt;strong&gt;&lt;em&gt;ANIL&lt;/em&gt;&lt;/strong&gt; - Las Palmas&lt;/a&gt;&lt;br /&gt; Anil practica yoga y meditación desde hace 42 años. Fue voluntario en varios proyectos de Ananda Marga en Tailandia, Sudáfrica, Argentina y Grecia durante 13 años. Actualmente colabora en las actividades de yoga y meditación en Las Palmas.
 &lt;br /&gt; 657627812 / 928261788&lt;/p&gt; 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt; 
-&lt;p&gt;&lt;a href="tenerife"&gt;&lt;strong&gt;&lt;em&gt;CANDRIKA&lt;/em&gt; -&lt;/strong&gt; Tenerife&lt;/a&gt;&lt;br /&gt; Candrika ha estado practicando el yoga y la meditación desde hace ….. años. Fue voluntaria de Ananda Marga en Haití durante ….años, donde 
-&lt;img align="right" height="90" src="candrika2.jpg/{_document}/hippogallery:original" width="76" /&gt;colaboro en una escuela de Neo Humanista. ( 
+&lt;p&gt;&lt;a&gt;&lt;strong&gt;&lt;em&gt;CANDRIKA&lt;/em&gt; -&lt;/strong&gt; Tenerife&lt;/a&gt;&lt;br /&gt; Candrika ha estado practicando el yoga y la meditación desde hace ….. años. Fue voluntaria de Ananda Marga en Haití durante ….años, donde 
+&lt;img align="right" height="90" src="./wicket/resource/org.hippoecm.frontend.plugins.richtext.RichTextProcessor/broken-image-32-ver-1436649874000.png" width="76" /&gt;colaboro en una escuela de Neo Humanista. ( 
 &lt;a href="http://www.amurtel.org/haiti/" rel="nofollow"&gt;http://www.amurtel.org/haiti/&lt;/a&gt;) Actualmente es la coordinadora de los programas de yoga y meditación en Tenerife, a su vez trabaja para establecer escuela infantil espiritual basada en los principios ‘Neo Humanistas’, en Tacaronte.
 &lt;br /&gt; 922983651/644295013&lt;/p&gt; 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt; 
 &lt;p&gt;&lt;strong&gt;ACARYAS&lt;/strong&gt;&lt;br /&gt; Los Acaryas son los voluntarios a tiempo completo de Ananda Marga. Son monjes y monjas, que inspirados en los beneficios de la meditación y el yoga, han dedicado su vida para compartirla con los demás. Ellos son los responsables de la coordinación general de las actividades de Ananda Marga. Al llevar un estilo de vida sencillo, con pocas necesidades personales, pueden mantener la santidad y el espíritu no lucrativo de todas nuestras actividades. Los Acharyas están siempre disponibles, tanto para dar clases regulares en grupo como para dar instrucciones personales gratuitas de meditación y yoga, así como contestar a cualquier duda que usted pueda tener. Si está interesado en nuestras actividades, pero aun no tenemos un centro en su vecindad, puede libremente invitar a los Acharyas!&lt;/p&gt; 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt; 
-&lt;p&gt;&lt;a href="valencia"&gt;&lt;strong&gt;&lt;em&gt;DIDI TEJASVINII&lt;/em&gt; &lt;/strong&gt;&lt;img align="right" src="didi_tejasvinii.png/{_document}/hippogallery:original" /&gt;&lt;/a&gt;&lt;br /&gt; Didi Tejasvinii gestiona nuestro centro en Valencia, así como las actividades en toda España. Ella es Acharya de Ananda Marga desde 2008, y práctica la meditación desde su infancia.
+&lt;p&gt;&lt;a&gt;&lt;strong&gt;&lt;em&gt;DIDI TEJASVINII&lt;/em&gt; &lt;/strong&gt;&lt;img align="right" src="./wicket/resource/org.hippoecm.frontend.plugins.richtext.RichTextProcessor/broken-image-32-ver-1436649874000.png" /&gt;&lt;/a&gt;&lt;br /&gt; Didi Tejasvinii gestiona nuestro centro en Valencia, así como las actividades en toda España. Ella es Acharya de Ananda Marga desde 2008, y práctica la meditación desde su infancia.
 &lt;br /&gt; 960151736/688493038/ tejasviniididi@gmail.com&lt;/p&gt; 
 &lt;p&gt;https://www.facebook.com/pages/Yoga-para-Todos/978349532198142&lt;/p&gt; 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt; 
-&lt;p&gt;&lt;a href="madrid"&gt;&lt;strong&gt;&lt;em&gt;DADA TIIRTHADEVANANDA&lt;/em&gt; &lt;/strong&gt;&lt;img align="right" height="97" src="dada-madrid.jpg/{_document}/hippogallery:original" width="115" /&gt;&lt;/a&gt;&lt;br /&gt; Dada Tiirthadevananda gestina nuestro centro en Madrid desde hace muchos años. Antes de venir a España, trabajo para Ananda Marga en Malasia y la India.
+&lt;p&gt;&lt;a&gt;&lt;strong&gt;&lt;em&gt;DADA TIIRTHADEVANANDA&lt;/em&gt; &lt;/strong&gt;&lt;img align="right" height="97" src="./wicket/resource/org.hippoecm.frontend.plugins.richtext.RichTextProcessor/broken-image-32-ver-1436649874000.png" width="115" /&gt;&lt;/a&gt;&lt;br /&gt; Dada Tiirthadevananda gestina nuestro centro en Madrid desde hace muchos años. Antes de venir a España, trabajo para Ananda Marga en Malasia y la India.
 &lt;br /&gt; 914201236/636413308
 &lt;br /&gt; 
 &lt;em&gt;La Entidad&lt;/em&gt; 
 &lt;em&gt;Humana no es Solo Una Expresión física- es Algo Más sutil, Más dulce, Más Encantador y Más Fascinante. (Shrii Shrii Anandamurti)&lt;/em&gt;&lt;/p&gt;</sv:value>
         </sv:property>
-        <sv:node sv:name="istamaya.jpg">
-          <sv:property sv:name="jcr:primaryType" sv:type="Name">
-            <sv:value>hippo:facetselect</sv:value>
-          </sv:property>
-          <sv:property sv:name="hippo:docbase" sv:type="String">
-            <sv:value>5dc2d8a0-f1ca-4bf4-baad-5412accb5a5b</sv:value>
-          </sv:property>
-          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
-          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
-          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
-        </sv:node>
-        <sv:node sv:name="didi_tejasvinii.png">
-          <sv:property sv:name="jcr:primaryType" sv:type="Name">
-            <sv:value>hippo:facetselect</sv:value>
-          </sv:property>
-          <sv:property sv:name="hippo:docbase" sv:type="String">
-            <sv:value>f26159d3-21ae-43c6-bfe9-aab950863ad4</sv:value>
-          </sv:property>
-          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
-          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
-          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
-        </sv:node>
-        <sv:node sv:name="dada-madrid.jpg">
-          <sv:property sv:name="jcr:primaryType" sv:type="Name">
-            <sv:value>hippo:facetselect</sv:value>
-          </sv:property>
-          <sv:property sv:name="hippo:docbase" sv:type="String">
-            <sv:value>7f338ec3-e399-4163-bdf7-e6a336a9faa1</sv:value>
-          </sv:property>
-          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
-          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
-          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
-        </sv:node>
-        <sv:node sv:name="index-meditation.jpg">
-          <sv:property sv:name="jcr:primaryType" sv:type="Name">
-            <sv:value>hippo:facetselect</sv:value>
-          </sv:property>
-          <sv:property sv:name="hippo:docbase" sv:type="String">
-            <sv:value>de463682-6279-4194-ae7c-ec17b3a8bc53</sv:value>
-          </sv:property>
-          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
-          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
-          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
-        </sv:node>
-        <sv:node sv:name="candrika2.jpg">
-          <sv:property sv:name="jcr:primaryType" sv:type="Name">
-            <sv:value>hippo:facetselect</sv:value>
-          </sv:property>
-          <sv:property sv:name="hippo:docbase" sv:type="String">
-            <sv:value>a23c9886-c85b-41b4-8291-d702ea597b78</sv:value>
-          </sv:property>
-          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
-          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
-          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
-        </sv:node>
-        <sv:node sv:name="las-palmas">
-          <sv:property sv:name="jcr:primaryType" sv:type="Name">
-            <sv:value>hippo:facetselect</sv:value>
-          </sv:property>
-          <sv:property sv:name="hippo:docbase" sv:type="String">
-            <sv:value>b3f4231c-93de-4811-8bfb-50b92254149d</sv:value>
-          </sv:property>
-          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
-          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
-          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
-        </sv:node>
-        <sv:node sv:name="tenerife">
-          <sv:property sv:name="jcr:primaryType" sv:type="Name">
-            <sv:value>hippo:facetselect</sv:value>
-          </sv:property>
-          <sv:property sv:name="hippo:docbase" sv:type="String">
-            <sv:value>55b22c09-7b5d-4827-8ca9-ec7fb8362673</sv:value>
-          </sv:property>
-          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
-          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
-          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
-        </sv:node>
-        <sv:node sv:name="valencia">
-          <sv:property sv:name="jcr:primaryType" sv:type="Name">
-            <sv:value>hippo:facetselect</sv:value>
-          </sv:property>
-          <sv:property sv:name="hippo:docbase" sv:type="String">
-            <sv:value>e183f4a8-db32-4991-a4cc-e648071d394e</sv:value>
-          </sv:property>
-          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
-          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
-          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
-        </sv:node>
-        <sv:node sv:name="madrid">
-          <sv:property sv:name="jcr:primaryType" sv:type="Name">
-            <sv:value>hippo:facetselect</sv:value>
-          </sv:property>
-          <sv:property sv:name="hippo:docbase" sv:type="String">
-            <sv:value>6cf197b5-e5df-4a50-8d78-1d48648c66f8</sv:value>
-          </sv:property>
-          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
-          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
-          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
-        </sv:node>
       </sv:node>
     </sv:node>
     <sv:node sv:name="quienes-somos">
@@ -582,6 +486,9 @@
       <sv:property sv:name="amhippo:introduction" sv:type="String">
         <sv:value/>
       </sv:property>
+      <sv:property sv:name="amhippo:publicationdate" sv:type="Date">
+        <sv:value>0001-01-01T13:00:00.000+01:00</sv:value>
+      </sv:property>
       <sv:property sv:name="amhippo:title" sv:type="String">
         <sv:value>Quienes Somos?</sv:value>
       </sv:property>
@@ -595,7 +502,7 @@
         <sv:value>unpublished</sv:value>
       </sv:property>
       <sv:property sv:name="hippostd:stateSummary" sv:type="String">
-        <sv:value>live</sv:value>
+        <sv:value>changed</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
         <sv:value>diditejasvinii</sv:value>
@@ -604,10 +511,10 @@
         <sv:value>2015-02-08T21:38:06.897+01:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-        <sv:value>2015-06-06T12:52:35.407Z</sv:value>
+        <sv:value>2015-07-12T18:49:48.651+02:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
-        <sv:value>diditejasvinii</sv:value>
+        <sv:value>admin</sv:value>
       </sv:property>
       <sv:property sv:name="hippotranslation:id" sv:type="String">
         <sv:value>052e2703-9af4-455f-9547-8e976a7fdb0c</sv:value>
@@ -620,7 +527,7 @@
           <sv:value>hippostd:html</sv:value>
         </sv:property>
         <sv:property sv:name="hippostd:content" sv:type="String">
-          <sv:value>&lt;p style="text-align:center"&gt;&lt;img align="middle" src="index-meditation.jpg/{_document}/hippogallery:original" /&gt;&lt;/p&gt; 
+          <sv:value>&lt;p style="text-align:center"&gt;&lt;img align="middle" src="./wicket/resource/org.hippoecm.frontend.plugins.richtext.RichTextProcessor/broken-image-32-ver-1436649874000.png" /&gt;&lt;/p&gt; 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt; 
 &lt;p&gt;&lt;strong&gt;ANANDA MARGA&lt;/strong&gt;&lt;br /&gt; Ananda Marga es un movimiento internacional fundado en la India en 1955, con el objetivo de promover el desarrollo integral de los seres humanos, como individuos, a través de la prácticas de meditación y del yoga, y como miembros de la sociedad, a través del compromiso social positivo.
 &lt;br /&gt; “Ananda” es una palabra sánscrita que significa el estado interior de armonía y alegría, que se experimenta a través de la práctica del yoga y la meditación. ‘Marga’ es el movimiento hacia esa armonía.
@@ -630,129 +537,30 @@
 &lt;p&gt;&lt;strong&gt;PROFESORES&lt;/strong&gt;&lt;/p&gt; 
 &lt;p&gt;Desde nuestro punto de vista, para ser profesor o monitor de yoga no es suficiente con tomar un curso y obtener un diploma. El profesor ha de incorporar la filosofía y la practica del yoga en todas las actitudes y acciones de su vida. Un profesor transmite ‘lo que el es’ tanto como ‘lo que el sabe’.&lt;/p&gt; 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt; 
-&lt;p&gt;&lt;a href="las-palmas"&gt;&lt;em&gt;&lt;strong&gt;I&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;&lt;em&gt;&lt;strong&gt;&lt;a href="las-palmas"&gt;STAMAYA&lt;/a&gt;&lt;/strong&gt;&lt;a href="las-palmas"&gt; -&lt;/a&gt;&lt;/em&gt;&lt;a href="las-palmas"&gt; Las Palmas&lt;/a&gt; 
-&lt;img align="right" src="istamaya.jpg/{_document}/hippogallery:original" /&gt;&lt;br /&gt; Istamaya practica yoga y meditación desde hace 34 años. Fue voluntaria de Ananda Marga durante 8 años en Argentina, Chile, Brasil y Colombia, cooperando en varios proyectos educativos para mujeres y niños. Actualmente es la coordinadora de los cursos de yoga, meditación y cocina vegetariana en el centro de Las Palmas.
+&lt;p&gt;&lt;a&gt;&lt;em&gt;&lt;strong&gt;I&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;&lt;em&gt;&lt;strong&gt;&lt;a&gt;STAMAYA&lt;/a&gt;&lt;/strong&gt;&lt;a&gt; -&lt;/a&gt;&lt;/em&gt;&lt;a&gt; Las Palmas&lt;/a&gt; 
+&lt;img align="right" src="./wicket/resource/org.hippoecm.frontend.plugins.richtext.RichTextProcessor/broken-image-32-ver-1436649874000.png" /&gt;&lt;br /&gt; Istamaya practica yoga y meditación desde hace 34 años. Fue voluntaria de Ananda Marga durante 8 años en Argentina, Chile, Brasil y Colombia, cooperando en varios proyectos educativos para mujeres y niños. Actualmente es la coordinadora de los cursos de yoga, meditación y cocina vegetariana en el centro de Las Palmas.
 &lt;br /&gt; 675022160 / 928676147&lt;/p&gt; 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt; 
-&lt;p&gt;&lt;a href="las-palmas"&gt;&lt;strong&gt;&lt;em&gt;ANIL&lt;/em&gt;&lt;/strong&gt; - Las Palmas&lt;/a&gt;&lt;br /&gt; Anil practica yoga y meditación desde hace 42 años. Fue voluntario en varios proyectos de Ananda Marga en Tailandia, Sudáfrica, Argentina y Grecia durante 13 años. Actualmente colabora en las actividades de yoga y meditación en Las Palmas.
+&lt;p&gt;&lt;a&gt;&lt;strong&gt;&lt;em&gt;ANIL&lt;/em&gt;&lt;/strong&gt; - Las Palmas&lt;/a&gt;&lt;br /&gt; Anil practica yoga y meditación desde hace 42 años. Fue voluntario en varios proyectos de Ananda Marga en Tailandia, Sudáfrica, Argentina y Grecia durante 13 años. Actualmente colabora en las actividades de yoga y meditación en Las Palmas.
 &lt;br /&gt; 657627812 / 928261788&lt;/p&gt; 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt; 
-&lt;p&gt;&lt;a href="tenerife"&gt;&lt;strong&gt;&lt;em&gt;CANDRIKA&lt;/em&gt; -&lt;/strong&gt; Tenerife&lt;/a&gt;&lt;br /&gt; Candrika ha estado practicando el yoga y la meditación desde hace ….. años. Fue voluntaria de Ananda Marga en Haití durante ….años, donde 
-&lt;img align="right" height="90" src="candrika2.jpg/{_document}/hippogallery:original" width="76" /&gt;colaboro en una escuela de Neo Humanista. ( 
+&lt;p&gt;&lt;a&gt;&lt;strong&gt;&lt;em&gt;CANDRIKA&lt;/em&gt; -&lt;/strong&gt; Tenerife&lt;/a&gt;&lt;br /&gt; Candrika ha estado practicando el yoga y la meditación desde hace ….. años. Fue voluntaria de Ananda Marga en Haití durante ….años, donde 
+&lt;img align="right" height="90" src="./wicket/resource/org.hippoecm.frontend.plugins.richtext.RichTextProcessor/broken-image-32-ver-1436649874000.png" width="76" /&gt;colaboro en una escuela de Neo Humanista. ( 
 &lt;a href="http://www.amurtel.org/haiti/" rel="nofollow"&gt;http://www.amurtel.org/haiti/&lt;/a&gt;) Actualmente es la coordinadora de los programas de yoga y meditación en Tenerife, a su vez trabaja para establecer escuela infantil espiritual basada en los principios ‘Neo Humanistas’, en Tacaronte.
 &lt;br /&gt; 922983651/644295013&lt;/p&gt; 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt; 
 &lt;p&gt;&lt;strong&gt;ACARYAS&lt;/strong&gt;&lt;br /&gt; Los Acaryas son los voluntarios a tiempo completo de Ananda Marga. Son monjes y monjas, que inspirados en los beneficios de la meditación y el yoga, han dedicado su vida para compartirla con los demás. Ellos son los responsables de la coordinación general de las actividades de Ananda Marga. Al llevar un estilo de vida sencillo, con pocas necesidades personales, pueden mantener la santidad y el espíritu no lucrativo de todas nuestras actividades. Los Acharyas están siempre disponibles, tanto para dar clases regulares en grupo como para dar instrucciones personales gratuitas de meditación y yoga, así como contestar a cualquier duda que usted pueda tener. Si está interesado en nuestras actividades, pero aun no tenemos un centro en su vecindad, puede libremente invitar a los Acharyas!&lt;/p&gt; 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt; 
-&lt;p&gt;&lt;a href="valencia"&gt;&lt;strong&gt;&lt;em&gt;DIDI TEJASVINII&lt;/em&gt; &lt;/strong&gt;&lt;img align="right" src="didi_tejasvinii.png/{_document}/hippogallery:original" /&gt;&lt;/a&gt;&lt;br /&gt; Didi Tejasvinii gestiona nuestro centro en Valencia, así como las actividades en toda España. Ella es Acharya de Ananda Marga desde 2008, y práctica la meditación desde su infancia.
+&lt;p&gt;&lt;a&gt;&lt;strong&gt;&lt;em&gt;DIDI TEJASVINII&lt;/em&gt; &lt;/strong&gt;&lt;img align="right" src="./wicket/resource/org.hippoecm.frontend.plugins.richtext.RichTextProcessor/broken-image-32-ver-1436649874000.png" /&gt;&lt;/a&gt;&lt;br /&gt; Didi Tejasvinii gestiona nuestro centro en Valencia, así como las actividades en toda España. Ella es Acharya de Ananda Marga desde 2008, y práctica la meditación desde su infancia.
 &lt;br /&gt; 960151736/688493038/ tejasviniididi@gmail.com&lt;/p&gt; 
 &lt;p&gt;https://www.facebook.com/pages/Yoga-para-Todos/978349532198142&lt;/p&gt; 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt; 
-&lt;p&gt;&lt;a href="madrid"&gt;&lt;strong&gt;&lt;em&gt;DADA TIIRTHADEVANANDA&lt;/em&gt; &lt;/strong&gt;&lt;img align="right" height="97" src="dada-madrid.jpg/{_document}/hippogallery:original" width="115" /&gt;&lt;/a&gt;&lt;br /&gt; Dada Tiirthadevananda gestina nuestro centro en Madrid desde hace muchos años. Antes de venir a España, trabajo para Ananda Marga en Malasia y la India.
+&lt;p&gt;&lt;a&gt;&lt;strong&gt;&lt;em&gt;DADA TIIRTHADEVANANDA&lt;/em&gt; &lt;/strong&gt;&lt;img align="right" height="97" src="./wicket/resource/org.hippoecm.frontend.plugins.richtext.RichTextProcessor/broken-image-32-ver-1436649874000.png" width="115" /&gt;&lt;/a&gt;&lt;br /&gt; Dada Tiirthadevananda gestina nuestro centro en Madrid desde hace muchos años. Antes de venir a España, trabajo para Ananda Marga en Malasia y la India.
 &lt;br /&gt; 914201236/636413308
 &lt;br /&gt; 
 &lt;em&gt;La Entidad&lt;/em&gt; 
 &lt;em&gt;Humana no es Solo Una Expresión física- es Algo Más sutil, Más dulce, Más Encantador y Más Fascinante. (Shrii Shrii Anandamurti)&lt;/em&gt;&lt;/p&gt;</sv:value>
         </sv:property>
-        <sv:node sv:name="istamaya.jpg">
-          <sv:property sv:name="jcr:primaryType" sv:type="Name">
-            <sv:value>hippo:facetselect</sv:value>
-          </sv:property>
-          <sv:property sv:name="hippo:docbase" sv:type="String">
-            <sv:value>5dc2d8a0-f1ca-4bf4-baad-5412accb5a5b</sv:value>
-          </sv:property>
-          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
-          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
-          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
-        </sv:node>
-        <sv:node sv:name="didi_tejasvinii.png">
-          <sv:property sv:name="jcr:primaryType" sv:type="Name">
-            <sv:value>hippo:facetselect</sv:value>
-          </sv:property>
-          <sv:property sv:name="hippo:docbase" sv:type="String">
-            <sv:value>f26159d3-21ae-43c6-bfe9-aab950863ad4</sv:value>
-          </sv:property>
-          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
-          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
-          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
-        </sv:node>
-        <sv:node sv:name="dada-madrid.jpg">
-          <sv:property sv:name="jcr:primaryType" sv:type="Name">
-            <sv:value>hippo:facetselect</sv:value>
-          </sv:property>
-          <sv:property sv:name="hippo:docbase" sv:type="String">
-            <sv:value>7f338ec3-e399-4163-bdf7-e6a336a9faa1</sv:value>
-          </sv:property>
-          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
-          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
-          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
-        </sv:node>
-        <sv:node sv:name="index-meditation.jpg">
-          <sv:property sv:name="jcr:primaryType" sv:type="Name">
-            <sv:value>hippo:facetselect</sv:value>
-          </sv:property>
-          <sv:property sv:name="hippo:docbase" sv:type="String">
-            <sv:value>de463682-6279-4194-ae7c-ec17b3a8bc53</sv:value>
-          </sv:property>
-          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
-          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
-          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
-        </sv:node>
-        <sv:node sv:name="candrika2.jpg">
-          <sv:property sv:name="jcr:primaryType" sv:type="Name">
-            <sv:value>hippo:facetselect</sv:value>
-          </sv:property>
-          <sv:property sv:name="hippo:docbase" sv:type="String">
-            <sv:value>a23c9886-c85b-41b4-8291-d702ea597b78</sv:value>
-          </sv:property>
-          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
-          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
-          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
-        </sv:node>
-        <sv:node sv:name="las-palmas">
-          <sv:property sv:name="jcr:primaryType" sv:type="Name">
-            <sv:value>hippo:facetselect</sv:value>
-          </sv:property>
-          <sv:property sv:name="hippo:docbase" sv:type="String">
-            <sv:value>b3f4231c-93de-4811-8bfb-50b92254149d</sv:value>
-          </sv:property>
-          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
-          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
-          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
-        </sv:node>
-        <sv:node sv:name="tenerife">
-          <sv:property sv:name="jcr:primaryType" sv:type="Name">
-            <sv:value>hippo:facetselect</sv:value>
-          </sv:property>
-          <sv:property sv:name="hippo:docbase" sv:type="String">
-            <sv:value>55b22c09-7b5d-4827-8ca9-ec7fb8362673</sv:value>
-          </sv:property>
-          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
-          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
-          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
-        </sv:node>
-        <sv:node sv:name="valencia">
-          <sv:property sv:name="jcr:primaryType" sv:type="Name">
-            <sv:value>hippo:facetselect</sv:value>
-          </sv:property>
-          <sv:property sv:name="hippo:docbase" sv:type="String">
-            <sv:value>e183f4a8-db32-4991-a4cc-e648071d394e</sv:value>
-          </sv:property>
-          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
-          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
-          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
-        </sv:node>
-        <sv:node sv:name="madrid">
-          <sv:property sv:name="jcr:primaryType" sv:type="Name">
-            <sv:value>hippo:facetselect</sv:value>
-          </sv:property>
-          <sv:property sv:name="hippo:docbase" sv:type="String">
-            <sv:value>6cf197b5-e5df-4a50-8d78-1d48648c66f8</sv:value>
-          </sv:property>
-          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
-          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
-          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
-        </sv:node>
       </sv:node>
     </sv:node>
     <sv:node sv:name="quienes-somos">
@@ -781,7 +589,7 @@
         <sv:value>published</sv:value>
       </sv:property>
       <sv:property sv:name="hippostd:stateSummary" sv:type="String">
-        <sv:value>live</sv:value>
+        <sv:value>changed</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
         <sv:value>diditejasvinii</sv:value>

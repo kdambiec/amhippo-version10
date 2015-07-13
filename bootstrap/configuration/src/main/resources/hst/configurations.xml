@@ -1,6 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<sv:node sv:name="hst:configurations" xmlns:sv="http://www.jcp.org/jcr/sv/1.0"
-         esv:merge="combine" xmlns:esv="http://www.onehippo.org/jcr/xmlimport">
+<?xml version="1.0" encoding="UTF-8"?><sv:node xmlns:sv="http://www.jcp.org/jcr/sv/1.0" xmlns:esv="http://www.onehippo.org/jcr/xmlimport" sv:name="hst:configurations" esv:merge="combine">
+  <sv:node sv:name="amhippo-es">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hst:configuration</sv:value>
+    </sv:property>
+    <sv:property sv:name="hst:inheritsfrom" sv:type="String" sv:multiple="true">
+      <sv:value>../amhippo</sv:value>
+    </sv:property>
+  </sv:node>
   <sv:node sv:name="common">
     <sv:property sv:name="jcr:primaryType" sv:type="Name">
       <sv:value>hst:configuration</sv:value>
@@ -19,7 +25,7 @@
       <sv:property sv:name="jcr:primaryType" sv:type="Name">
         <sv:value>hst:workspace</sv:value>
       </sv:property>
-      <sv:node sv:name="hst:containers" xmlns:sv="http://www.jcp.org/jcr/sv/1.0">
+      <sv:node sv:name="hst:containers">
         <sv:property sv:name="jcr:primaryType" sv:type="Name">
           <sv:value>hst:containercomponentfolder</sv:value>
         </sv:property>
@@ -60,7 +66,7 @@
     <sv:property sv:name="jcr:primaryType" sv:type="Name">
       <sv:value>hst:configuration</sv:value>
     </sv:property>
-    <sv:property sv:multiple="true" sv:name="hst:inheritsfrom" sv:type="String">
+    <sv:property sv:name="hst:inheritsfrom" sv:type="String" sv:multiple="true">
       <sv:value>../common</sv:value>
     </sv:property>
   </sv:node>

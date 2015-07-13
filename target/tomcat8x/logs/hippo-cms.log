@@ -1,34 +1,3 @@
-12.07.2015 17:59:57 WARN  localhost-startStop-1 [RepositoryServlet.parseInitParameters:143] Cannot determine the real path of the repository storage location, 'WEB-INF/storage'. Defaults to './repository_storage'
-12.07.2015 17:59:58 WARN  localhost-startStop-1 [RepositoryLock.acquire:134] Existing lock file C:\Users\Karun\IdeaProjects\amhippo\storage\.lock detected. Repository was not shut down properly.
-12.07.2015 18:26:37 WARN  http-nio-8080-exec-9 [LocaleProviderPlugin.getLocale:103] Unknown locale es
-12.07.2015 18:26:37 WARN  http-nio-8080-exec-9 [LocaleProviderPlugin.getLocale:103] Unknown locale es
-12.07.2015 18:26:37 WARN  http-nio-8080-exec-9 [LocaleProviderPlugin.getLocale:103] Unknown locale unknown
-12.07.2015 18:26:38 WARN  http-nio-8080-exec-7 [LocaleProviderPlugin.getLocale:103] Unknown locale es
-12.07.2015 18:26:39 WARN  http-nio-8080-exec-7 [LocaleProviderPlugin.getLocale:103] Unknown locale es
-12.07.2015 18:26:39 WARN  http-nio-8080-exec-7 [LocaleProviderPlugin.getLocale:103] Unknown locale es
-12.07.2015 18:26:39 WARN  http-nio-8080-exec-7 [LocaleProviderPlugin.getLocale:103] Unknown locale es
-12.07.2015 18:26:39 WARN  http-nio-8080-exec-7 [LocaleProviderPlugin.getLocale:103] Unknown locale unknown
-12.07.2015 18:26:39 WARN  http-nio-8080-exec-7 [LocaleProviderPlugin.getLocale:103] Unknown locale es
-12.07.2015 18:26:39 WARN  http-nio-8080-exec-7 [LocaleProviderPlugin.getLocale:103] Unknown locale es
-12.07.2015 18:26:39 WARN  http-nio-8080-exec-7 [LocaleProviderPlugin.getLocale:103] Unknown locale es
-12.07.2015 18:26:39 WARN  http-nio-8080-exec-7 [LocaleProviderPlugin.getLocale:103] Unknown locale unknown
-12.07.2015 18:26:39 WARN  http-nio-8080-exec-7 [LocaleProviderPlugin.getLocale:103] Unknown locale es
-12.07.2015 18:26:39 WARN  http-nio-8080-exec-7 [LocaleProviderPlugin.getLocale:103] Unknown locale es
-12.07.2015 18:26:39 WARN  http-nio-8080-exec-7 [LocaleProviderPlugin.getLocale:103] Unknown locale es
-12.07.2015 18:26:39 WARN  http-nio-8080-exec-7 [LocaleProviderPlugin.getLocale:103] Unknown locale unknown
-12.07.2015 18:26:39 WARN  http-nio-8080-exec-7 [LocaleProviderPlugin.getLocale:103] Unknown locale es
-12.07.2015 18:26:39 WARN  http-nio-8080-exec-7 [LocaleProviderPlugin.getLocale:103] Unknown locale es
-12.07.2015 18:26:39 WARN  http-nio-8080-exec-7 [LocaleProviderPlugin.getLocale:103] Unknown locale es
-12.07.2015 18:26:39 WARN  http-nio-8080-exec-7 [LocaleProviderPlugin.getLocale:103] Unknown locale unknown
-12.07.2015 18:26:39 WARN  http-nio-8080-exec-7 [LocaleProviderPlugin.getLocale:103] Unknown locale es
-12.07.2015 18:26:39 WARN  http-nio-8080-exec-7 [LocaleProviderPlugin.getLocale:103] Unknown locale es
-12.07.2015 18:26:39 WARN  http-nio-8080-exec-7 [LocaleProviderPlugin.getLocale:103] Unknown locale es
-12.07.2015 18:26:39 WARN  http-nio-8080-exec-7 [LocaleProviderPlugin.getLocale:103] Unknown locale unknown
-12.07.2015 18:26:39 WARN  http-nio-8080-exec-7 [LocaleProviderPlugin.getLocale:103] Unknown locale es
-12.07.2015 18:26:39 WARN  http-nio-8080-exec-7 [LocaleProviderPlugin.getLocale:103] Unknown locale es
-12.07.2015 18:26:39 WARN  http-nio-8080-exec-7 [LocaleProviderPlugin.getLocale:103] Unknown locale es
-12.07.2015 18:26:39 WARN  http-nio-8080-exec-7 [LocaleProviderPlugin.getLocale:103] Unknown locale unknown
-12.07.2015 18:26:42 WARN  http-nio-8080-exec-10 [LocaleProviderPlugin.getLocale:103] Unknown locale es
-12.07.2015 18:26:43 WARN  http-nio-8080-exec-5 [LocaleProviderPlugin.getLocale:103] Unknown locale es
-12.07.2015 18:26:44 WARN  http-nio-8080-exec-4 [LocaleProviderPlugin.getLocale:103] Unknown locale es
-12.07.2015 18:26:52 WARN  http-nio-8080-exec-6 [LocaleProviderPlugin.getLocale:103] Unknown locale es
+13.07.2015 18:20:56 WARN  localhost-startStop-1 [RepositoryServlet.parseInitParameters:143] Cannot determine the real path of the repository storage location, 'WEB-INF/storage'. Defaults to './repository_storage'
+13.07.2015 18:20:56 WARN  localhost-startStop-1 [RepositoryLock.acquire:134] Existing lock file C:\Users\Karun\IdeaProjects\amhippo\storage\.lock detected. Repository was not shut down properly.
+13.07.2015 18:33:28 ERROR http-nio-8080-exec-5 [PropertyDialog.onOk:377] javax.jcr.nodetype.ConstraintViolationException : no matching property definition found for {}amhippo-es
