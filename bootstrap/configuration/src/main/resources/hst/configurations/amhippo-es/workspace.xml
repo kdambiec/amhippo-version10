@@ -21,7 +21,7 @@
         <sv:value>hst:sitemenu</sv:value>
       </sv:property>
       <sv:property sv:name="hst:lastmodified" sv:type="Date">
-        <sv:value>2015-07-13T20:37:19.123+02:00</sv:value>
+        <sv:value>2015-07-13T22:10:34.573+02:00</sv:value>
       </sv:property>
       <sv:node sv:name="Inicio">
         <sv:property sv:name="jcr:primaryType" sv:type="Name">
@@ -95,6 +95,17 @@
         </sv:property>
         <sv:property sv:name="hst:referencesitemapitem" sv:type="String">
           <sv:value>content/historia-y-fundador.html</sv:value>
+        </sv:property>
+        <sv:property sv:name="hst:repobased" sv:type="Boolean">
+          <sv:value>false</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="Contacto">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hst:sitemenuitem</sv:value>
+        </sv:property>
+        <sv:property sv:name="hst:referencesitemapitem" sv:type="String">
+          <sv:value>contacts</sv:value>
         </sv:property>
         <sv:property sv:name="hst:repobased" sv:type="Boolean">
           <sv:value>false</sv:value>

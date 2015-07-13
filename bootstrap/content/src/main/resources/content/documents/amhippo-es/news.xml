@@ -19,4 +19,3225 @@
   <sv:property sv:name="hippotranslation:locale" sv:type="String">
     <sv:value>es</sv:value>
   </sv:property>
+  <sv:node sv:name="2014">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippostd:folder</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+      <sv:value>hippotranslation:translated</sv:value>
+      <sv:value>mix:referenceable</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>154baea3-3b97-46c6-8e45-110e3b4c1484</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+      <sv:value>new-news-folder</sv:value>
+      <sv:value>new-news-document</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippotranslation:id" sv:type="String">
+      <sv:value>3d1b1eec-a215-4c50-9467-f3ae9e700d88</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippotranslation:locale" sv:type="String">
+      <sv:value>es</sv:value>
+    </sv:property>
+    <sv:node sv:name="12">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippostd:folder</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>hippotranslation:translated</sv:value>
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>44412d24-7204-44ea-900b-97aa4f0b77ed</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+        <sv:value>new-news-folder</sv:value>
+        <sv:value>new-news-document</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>6ccda90c-3942-4b54-87d1-230f6726649e</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>es</sv:value>
+      </sv:property>
+      <sv:node sv:name="retiro-espiritual-de-meditacion-para-mujeres">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:handle</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+          <sv:value>hippo:translated</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>c5936621-2967-485c-a0e1-6cdd8299433e</sv:value>
+        </sv:property>
+        <sv:node sv:name="hippo:translation">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippo:translation</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:language" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="hippo:message" sv:type="String">
+            <sv:value>RETIRO ESPIRITUAL DE MEDITACIÓN PARA MUJERES</sv:value>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="retiro-espiritual-de-meditacion-para-mujeres">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>amhippo:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:referenceable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>4d3cf3e4-08f7-4e0b-a290-ae589a42d361</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:author" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:date" sv:type="Date">
+            <sv:value>2014-12-01T00:00:00.000+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:introduction" sv:type="String">
+            <sv:value>RETIRO ESPIRITUAL DE MEDITACIÓN PARA MUJERES&#13;
+“El Descubrimiento de la Libertad Interior. ‘&#13;
+16- 19 de enero 2015&#13;
+&#13;
+Estas invitada a nuestro seminario especial de fin de semana para mujeres, sobre  meditación y  yoga. Para obtener el beneficio de todo el programa (o si estas viajando desde otra ciudad),  tienes la opción de quedarte durante la noche en nuestro Centro de Ananda Marga. O puedes optar por asistir durante el día y dormir en tu propia casa.&#13;
+&#13;
+El programa está abierto para cualquier persona interesada sinceramente en el yoga y la práctica de la meditación. También es una oportunidad para compartir con quienes tienen el mismo interés. El alojamiento es limitado, así que por favor registrarse con anticipación.</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:location" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:source" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:title" sv:type="String">
+            <sv:value>RETIRO ESPIRITUAL DE MEDITACIÓN PARA MUJERES</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2014/12/retiro-espiritual-de-meditacion-para-mujeres/retiro-espiritual-de-meditacion-para-mujeres[3]</sv:value>
+            <sv:value>news/2014/12/retiro-espiritual-de-meditacion-para-mujeres/retiro-espiritual-de-meditacion-para-mujeres[2]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:holder" sv:type="String">
+            <sv:value>diditejasvinii</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>draft</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>new</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2015-02-12T16:17:15.927+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2015-06-11T14:10:44.183Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>diditejasvinii</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>a0af4d38-c691-4c7d-9151-c193413fbdeb</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>es</sv:value>
+          </sv:property>
+          <sv:node sv:name="amhippo:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p&gt;&lt;strong&gt;RETIRO ESPIRITUAL DE MEDITACIÓN PARA MUJERES&lt;/strong&gt;&lt;br /&gt; 
+&lt;em&gt;“El Descubrimiento de la Libertad Interior. ‘&lt;/em&gt;&lt;br /&gt; 
+&lt;strong&gt;&lt;em&gt;16- 19 de enero 2015&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;Estas invitada a nuestro seminario especial de fin de semana para mujeres, sobre &amp;nbsp;meditación y &amp;nbsp;yoga. Para obtener el beneficio de todo el programa (o si estas viajando desde otra ciudad), &amp;nbsp;tienes la opción de quedarte&amp;nbsp;durante la noche&amp;nbsp;en nuestro Centro de Ananda Marga. O puedes optar por asistir durante el día y dormir en tu propia casa.&lt;/p&gt; 
+&lt;p&gt;El programa está abierto para cualquier persona interesada sinceramente en el yoga y la práctica de la meditación. También es una oportunidad para compartir con quienes tienen el mismo interés. El alojamiento es limitado, así que por favor registrarse con anticipación.&lt;/p&gt; 
+&lt;p&gt;-El costo, para la comida y el alojamiento,&amp;nbsp;&amp;nbsp;es por donación. Si deseas sólo asistir a las clases de cocina, seria 10 euros por clase.
+&lt;br /&gt; -El programa de la noche del sábado (16.30- 19.30) está abierto para todos, hombres y mujeres, nuevos o veteranos.&lt;/p&gt; 
+&lt;p&gt;Espero verles en este evento especial!&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p style="text-align:center"&gt;&lt;img align="middle" src="freedom-birds.jpg/{_document}/hippogallery:original" /&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;PROGRAMA&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Viernes&lt;/strong&gt;&lt;br /&gt; Llegada (A partir de las 18.30 horas)
+&lt;br /&gt; Introducción
+&lt;br /&gt; Kiirtan (Mantra canto) y la meditación
+&lt;br /&gt; Cena
+&lt;br /&gt; Avarta kiirtan (mantra en seis direcciones)
+&lt;br /&gt; 
+&lt;strong&gt;Sábado&lt;/strong&gt;&lt;br /&gt; meditación
+&lt;br /&gt; Clase de asanas de yoga
+&lt;br /&gt; desayuno&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Taller- (10.30- 11.45)&lt;/strong&gt;&lt;br /&gt; 
+&lt;strong&gt;“Etapas y desafíos en la práctica de la meditación”&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;Meditación
+&lt;br /&gt; 
+&lt;strong&gt;Clase de Cocina vegetariana – platos indues (13.00- 14.30)Almuerzo&lt;/strong&gt;&lt;br /&gt; 
+&lt;strong&gt;CLASE Y PROGRAMA DE MEDITACIÓN (Abierto a todos)&lt;/strong&gt;&lt;br /&gt; 
+&lt;strong&gt;“La importancia de la práctica de meditación personal” (16.30- 18.00)&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;Dharmacakra (Programa especial de meditación) (18.00- 19.30)
+&lt;br /&gt; Cena
+&lt;br /&gt; Avarta Kiirtan (mantra en seis direcciones)&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Domingo&lt;/strong&gt;&lt;br /&gt; Meditación
+&lt;br /&gt; Clase de asanas de yoga
+&lt;br /&gt; Desayuno&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;CLASE&lt;/strong&gt;&lt;br /&gt; 
+&lt;strong&gt;” Profundizando sobre los beneficios de las posturas y prácticas de yoga.” (10.30- 11.45)&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;Meditación
+&lt;br /&gt; 
+&lt;strong&gt;CLASE DE COCINA- La dieta ayurvedica &amp;nbsp;yoguica (13.00- 14.30)&lt;/strong&gt;&lt;br /&gt; Almuerzo&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;17.00- 20.00- Sa’dhana Shiviir (programa de meditación especial)&lt;/strong&gt;&lt;br /&gt; Cena
+&lt;br /&gt; Música y compartir&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Lunes&lt;/strong&gt;&lt;br /&gt; Meditación
+&lt;br /&gt; Clase asanas de yoga
+&lt;br /&gt; Desayuno
+&lt;br /&gt; Programa de Cierre&lt;/p&gt; 
+&lt;p&gt;Inscripción / información-
+&lt;br /&gt; 960151736/675022160 tejasviniididi@gmail.com
+&lt;br /&gt; Centro de Ananda Marga, Calle de Zapadores 22, Valencia&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p style="text-align:center"&gt;&lt;img align="middle" src="baba-nam-kevalam.jpg/{_document}/hippogallery:original" /&gt;&lt;/p&gt;</sv:value>
+            </sv:property>
+            <sv:node sv:name="freedom-birds.jpg">
+              <sv:property sv:name="jcr:primaryType" sv:type="Name">
+                <sv:value>hippo:facetselect</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:docbase" sv:type="String">
+                <sv:value>ee55adc7-18da-4067-9b9f-2d2de44d43ed</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+            </sv:node>
+            <sv:node sv:name="baba-nam-kevalam.jpg">
+              <sv:property sv:name="jcr:primaryType" sv:type="Name">
+                <sv:value>hippo:facetselect</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:docbase" sv:type="String">
+                <sv:value>86f73011-a0c9-40fb-a051-070c662c48cb</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+            </sv:node>
+          </sv:node>
+          <sv:node sv:name="amhippo:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+        </sv:node>
+        <sv:node sv:name="retiro-espiritual-de-meditacion-para-mujeres">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>amhippo:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:versionable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>72bf04dd-2c29-4911-bcbf-22c851cf1108</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:author" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:date" sv:type="Date">
+            <sv:value>2014-12-01T00:00:00.000+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:introduction" sv:type="String">
+            <sv:value>RETIRO ESPIRITUAL DE MEDITACIÓN PARA MUJERES&#13;
+“El Descubrimiento de la Libertad Interior. ‘&#13;
+16- 19 de enero 2015&#13;
+&#13;
+Estas invitada a nuestro seminario especial de fin de semana para mujeres, sobre  meditación y  yoga. Para obtener el beneficio de todo el programa (o si estas viajando desde otra ciudad),  tienes la opción de quedarte durante la noche en nuestro Centro de Ananda Marga. O puedes optar por asistir durante el día y dormir en tu propia casa.&#13;
+&#13;
+El programa está abierto para cualquier persona interesada sinceramente en el yoga y la práctica de la meditación. También es una oportunidad para compartir con quienes tienen el mismo interés. El alojamiento es limitado, así que por favor registrarse con anticipación.</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:location" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:source" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:title" sv:type="String">
+            <sv:value>RETIRO ESPIRITUAL DE MEDITACIÓN PARA MUJERES</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+            <sv:value>preview</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2014/12/retiro-espiritual-de-meditacion-para-mujeres/retiro-espiritual-de-meditacion-para-mujeres[3]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>unpublished</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>new</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2015-02-12T16:17:15.927+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2015-06-06T12:44:58.953Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>diditejasvinii</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>a0af4d38-c691-4c7d-9151-c193413fbdeb</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>es</sv:value>
+          </sv:property>
+          <sv:node sv:name="amhippo:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p&gt;&lt;strong&gt;RETIRO ESPIRITUAL DE MEDITACIÓN PARA MUJERES&lt;/strong&gt;&lt;br /&gt; 
+&lt;em&gt;“El Descubrimiento de la Libertad Interior. ‘&lt;/em&gt;&lt;br /&gt; 
+&lt;strong&gt;&lt;em&gt;16- 19 de enero 2015&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;Estas invitada a nuestro seminario especial de fin de semana para mujeres, sobre &amp;nbsp;meditación y &amp;nbsp;yoga. Para obtener el beneficio de todo el programa (o si estas viajando desde otra ciudad), &amp;nbsp;tienes la opción de quedarte&amp;nbsp;durante la noche&amp;nbsp;en nuestro Centro de Ananda Marga. O puedes optar por asistir durante el día y dormir en tu propia casa.&lt;/p&gt; 
+&lt;p&gt;El programa está abierto para cualquier persona interesada sinceramente en el yoga y la práctica de la meditación. También es una oportunidad para compartir con quienes tienen el mismo interés. El alojamiento es limitado, así que por favor registrarse con anticipación.&lt;/p&gt; 
+&lt;p&gt;-El costo, para la comida y el alojamiento,&amp;nbsp;&amp;nbsp;es por donación. Si deseas sólo asistir a las clases de cocina, seria 10 euros por clase.
+&lt;br /&gt; -El programa de la noche del sábado (16.30- 19.30) está abierto para todos, hombres y mujeres, nuevos o veteranos.&lt;/p&gt; 
+&lt;p&gt;Espero verles en este evento especial!&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p style="text-align:center"&gt;&lt;img align="middle" src="freedom-birds.jpg/{_document}/hippogallery:original" /&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;PROGRAMA&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Viernes&lt;/strong&gt;&lt;br /&gt; Llegada (A partir de las 18.30 horas)
+&lt;br /&gt; Introducción
+&lt;br /&gt; Kiirtan (Mantra canto) y la meditación
+&lt;br /&gt; Cena
+&lt;br /&gt; Avarta kiirtan (mantra en seis direcciones)
+&lt;br /&gt; 
+&lt;strong&gt;Sábado&lt;/strong&gt;&lt;br /&gt; meditación
+&lt;br /&gt; Clase de asanas de yoga
+&lt;br /&gt; desayuno&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Taller- (10.30- 11.45)&lt;/strong&gt;&lt;br /&gt; 
+&lt;strong&gt;“Etapas y desafíos en la práctica de la meditación”&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;Meditación
+&lt;br /&gt; 
+&lt;strong&gt;Clase de Cocina vegetariana – platos indues (13.00- 14.30)Almuerzo&lt;/strong&gt;&lt;br /&gt; 
+&lt;strong&gt;CLASE Y PROGRAMA DE MEDITACIÓN (Abierto a todos)&lt;/strong&gt;&lt;br /&gt; 
+&lt;strong&gt;“La importancia de la práctica de meditación personal” (16.30- 18.00)&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;Dharmacakra (Programa especial de meditación) (18.00- 19.30)
+&lt;br /&gt; Cena
+&lt;br /&gt; Avarta Kiirtan (mantra en seis direcciones)&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Domingo&lt;/strong&gt;&lt;br /&gt; Meditación
+&lt;br /&gt; Clase de asanas de yoga
+&lt;br /&gt; Desayuno&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;CLASE&lt;/strong&gt;&lt;br /&gt; 
+&lt;strong&gt;” Profundizando sobre los beneficios de las posturas y prácticas de yoga.” (10.30- 11.45)&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;Meditación
+&lt;br /&gt; 
+&lt;strong&gt;CLASE DE COCINA- La dieta ayurvedica &amp;nbsp;yoguica (13.00- 14.30)&lt;/strong&gt;&lt;br /&gt; Almuerzo&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;17.00- 20.00- Sa’dhana Shiviir (programa de meditación especial)&lt;/strong&gt;&lt;br /&gt; Cena
+&lt;br /&gt; Música y compartir&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Lunes&lt;/strong&gt;&lt;br /&gt; Meditación
+&lt;br /&gt; Clase asanas de yoga
+&lt;br /&gt; Desayuno
+&lt;br /&gt; Programa de Cierre&lt;/p&gt; 
+&lt;p&gt;Inscripción / información-
+&lt;br /&gt; 960151736/675022160 tejasviniididi@gmail.com
+&lt;br /&gt; Centro de Ananda Marga, Calle de Zapadores 22, Valencia&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p style="text-align:center"&gt;&lt;img align="middle" src="baba-nam-kevalam.jpg/{_document}/hippogallery:original" /&gt;&lt;/p&gt;</sv:value>
+            </sv:property>
+            <sv:node sv:name="freedom-birds.jpg">
+              <sv:property sv:name="jcr:primaryType" sv:type="Name">
+                <sv:value>hippo:facetselect</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:docbase" sv:type="String">
+                <sv:value>ee55adc7-18da-4067-9b9f-2d2de44d43ed</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+            </sv:node>
+            <sv:node sv:name="baba-nam-kevalam.jpg">
+              <sv:property sv:name="jcr:primaryType" sv:type="Name">
+                <sv:value>hippo:facetselect</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:docbase" sv:type="String">
+                <sv:value>86f73011-a0c9-40fb-a051-070c662c48cb</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+            </sv:node>
+          </sv:node>
+          <sv:node sv:name="amhippo:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+        </sv:node>
+        <sv:node sv:name="retiro-espiritual-de-meditacion-para-mujeres">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>amhippo:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:referenceable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>097e9127-c691-41c4-bd6b-5da8f78f375e</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:author" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:date" sv:type="Date">
+            <sv:value>2014-12-01T00:00:00.000+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:introduction" sv:type="String">
+            <sv:value>RETIRO ESPIRITUAL DE MEDITACIÓN PARA MUJERES&#13;
+“El Descubrimiento de la Libertad Interior. ‘&#13;
+16- 19 de enero 2015&#13;
+&#13;
+Estas invitada a nuestro seminario especial de fin de semana para mujeres, sobre  meditación y  yoga. Para obtener el beneficio de todo el programa (o si estas viajando desde otra ciudad),  tienes la opción de quedarte durante la noche en nuestro Centro de Ananda Marga. O puedes optar por asistir durante el día y dormir en tu propia casa.&#13;
+&#13;
+El programa está abierto para cualquier persona interesada sinceramente en el yoga y la práctica de la meditación. También es una oportunidad para compartir con quienes tienen el mismo interés. El alojamiento es limitado, así que por favor registrarse con anticipación.</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:location" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:source" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:title" sv:type="String">
+            <sv:value>RETIRO ESPIRITUAL DE MEDITACIÓN PARA MUJERES</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2014/12/retiro-espiritual-de-meditacion-para-mujeres/retiro-espiritual-de-meditacion-para-mujeres[2]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>published</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>new</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2015-02-12T16:17:15.927+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2015-06-06T12:44:58.953Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>diditejasvinii</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+            <sv:value>2015-06-08T04:20:38.044Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>a0af4d38-c691-4c7d-9151-c193413fbdeb</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>es</sv:value>
+          </sv:property>
+          <sv:node sv:name="amhippo:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p&gt;&lt;strong&gt;RETIRO ESPIRITUAL DE MEDITACIÓN PARA MUJERES&lt;/strong&gt;&lt;br /&gt; 
+&lt;em&gt;“El Descubrimiento de la Libertad Interior. ‘&lt;/em&gt;&lt;br /&gt; 
+&lt;strong&gt;&lt;em&gt;16- 19 de enero 2015&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;Estas invitada a nuestro seminario especial de fin de semana para mujeres, sobre &amp;nbsp;meditación y &amp;nbsp;yoga. Para obtener el beneficio de todo el programa (o si estas viajando desde otra ciudad), &amp;nbsp;tienes la opción de quedarte&amp;nbsp;durante la noche&amp;nbsp;en nuestro Centro de Ananda Marga. O puedes optar por asistir durante el día y dormir en tu propia casa.&lt;/p&gt; 
+&lt;p&gt;El programa está abierto para cualquier persona interesada sinceramente en el yoga y la práctica de la meditación. También es una oportunidad para compartir con quienes tienen el mismo interés. El alojamiento es limitado, así que por favor registrarse con anticipación.&lt;/p&gt; 
+&lt;p&gt;-El costo, para la comida y el alojamiento,&amp;nbsp;&amp;nbsp;es por donación. Si deseas sólo asistir a las clases de cocina, seria 10 euros por clase.
+&lt;br /&gt; -El programa de la noche del sábado (16.30- 19.30) está abierto para todos, hombres y mujeres, nuevos o veteranos.&lt;/p&gt; 
+&lt;p&gt;Espero verles en este evento especial!&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p style="text-align:center"&gt;&lt;img align="middle" src="freedom-birds.jpg/{_document}/hippogallery:original" /&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;PROGRAMA&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Viernes&lt;/strong&gt;&lt;br /&gt; Llegada (A partir de las 18.30 horas)
+&lt;br /&gt; Introducción
+&lt;br /&gt; Kiirtan (Mantra canto) y la meditación
+&lt;br /&gt; Cena
+&lt;br /&gt; Avarta kiirtan (mantra en seis direcciones)
+&lt;br /&gt; 
+&lt;strong&gt;Sábado&lt;/strong&gt;&lt;br /&gt; meditación
+&lt;br /&gt; Clase de asanas de yoga
+&lt;br /&gt; desayuno&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Taller- (10.30- 11.45)&lt;/strong&gt;&lt;br /&gt; 
+&lt;strong&gt;“Etapas y desafíos en la práctica de la meditación”&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;Meditación
+&lt;br /&gt; 
+&lt;strong&gt;Clase de Cocina vegetariana – platos indues (13.00- 14.30)Almuerzo&lt;/strong&gt;&lt;br /&gt; 
+&lt;strong&gt;CLASE Y PROGRAMA DE MEDITACIÓN (Abierto a todos)&lt;/strong&gt;&lt;br /&gt; 
+&lt;strong&gt;“La importancia de la práctica de meditación personal” (16.30- 18.00)&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;Dharmacakra (Programa especial de meditación) (18.00- 19.30)
+&lt;br /&gt; Cena
+&lt;br /&gt; Avarta Kiirtan (mantra en seis direcciones)&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Domingo&lt;/strong&gt;&lt;br /&gt; Meditación
+&lt;br /&gt; Clase de asanas de yoga
+&lt;br /&gt; Desayuno&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;CLASE&lt;/strong&gt;&lt;br /&gt; 
+&lt;strong&gt;” Profundizando sobre los beneficios de las posturas y prácticas de yoga.” (10.30- 11.45)&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;Meditación
+&lt;br /&gt; 
+&lt;strong&gt;CLASE DE COCINA- La dieta ayurvedica &amp;nbsp;yoguica (13.00- 14.30)&lt;/strong&gt;&lt;br /&gt; Almuerzo&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;17.00- 20.00- Sa’dhana Shiviir (programa de meditación especial)&lt;/strong&gt;&lt;br /&gt; Cena
+&lt;br /&gt; Música y compartir&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Lunes&lt;/strong&gt;&lt;br /&gt; Meditación
+&lt;br /&gt; Clase asanas de yoga
+&lt;br /&gt; Desayuno
+&lt;br /&gt; Programa de Cierre&lt;/p&gt; 
+&lt;p&gt;Inscripción / información-
+&lt;br /&gt; 960151736/675022160 tejasviniididi@gmail.com
+&lt;br /&gt; Centro de Ananda Marga, Calle de Zapadores 22, Valencia&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p style="text-align:center"&gt;&lt;img align="middle" src="baba-nam-kevalam.jpg/{_document}/hippogallery:original" /&gt;&lt;/p&gt;</sv:value>
+            </sv:property>
+            <sv:node sv:name="freedom-birds.jpg">
+              <sv:property sv:name="jcr:primaryType" sv:type="Name">
+                <sv:value>hippo:facetselect</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:docbase" sv:type="String">
+                <sv:value>ee55adc7-18da-4067-9b9f-2d2de44d43ed</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+            </sv:node>
+            <sv:node sv:name="baba-nam-kevalam.jpg">
+              <sv:property sv:name="jcr:primaryType" sv:type="Name">
+                <sv:value>hippo:facetselect</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:docbase" sv:type="String">
+                <sv:value>86f73011-a0c9-40fb-a051-070c662c48cb</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+            </sv:node>
+          </sv:node>
+          <sv:node sv:name="amhippo:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="11">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippostd:folder</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>hippotranslation:translated</sv:value>
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>9b4c50b1-9c0a-435f-b639-1fed3c11cda2</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+        <sv:value>new-news-folder</sv:value>
+        <sv:value>new-news-document</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>8ddb9686-ee97-4362-9163-4dd15db8b5de</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>es</sv:value>
+      </sv:property>
+      <sv:node sv:name="qienes-somos">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:handle</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+          <sv:value>hippo:translated</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>a7649849-c804-45e5-9f5a-15cc18050aa4</sv:value>
+        </sv:property>
+        <sv:node sv:name="hippo:translation">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippo:translation</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:language" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="hippo:message" sv:type="String">
+            <sv:value>Qienes Somos?</sv:value>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="qienes-somos">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>amhippo:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:referenceable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>fa38f1c1-ec11-4249-b9d7-ce7eed8eee04</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:author" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:date" sv:type="Date">
+            <sv:value>2014-11-17T16:14:00.000+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:introduction" sv:type="String">
+            <sv:value>ANANDA MARGA&#13;
+Ananda Marga es un movimiento internacional fundado en la India en 1955, con el objetivo de promover el desarrollo integral de los seres humanos, como individuos, a través de la prácticas de meditación y del yoga, y como miembros de la sociedad, a través del compromiso social positivo.&#13;
+“Ananda” es una palabra sánscrita que significa el estado interior de armonía y alegría, que se experimenta a través de la práctica del yoga y la meditación. ‘Marga’ es el movimiento hacia esa armonía.</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:location" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:source" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:title" sv:type="String">
+            <sv:value>Qienes Somos?</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2014/11/qienes-somos/qienes-somos[2]</sv:value>
+            <sv:value>news/2014/11/qienes-somos/qienes-somos[3]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>draft</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>new</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2015-02-12T16:14:06.554+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2015-06-11T17:24:44.100Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>3722d021-128d-4620-8c28-97315cbf8d95</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>es</sv:value>
+          </sv:property>
+          <sv:node sv:name="amhippo:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p style="text-align: center;"&gt;&lt;img align="middle" src="index-meditation.jpg/{_document}/hippogallery:original" /&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;ANANDA MARGA&lt;/strong&gt;&lt;br /&gt; Ananda Marga es un movimiento internacional fundado en la India en 1955, con el objetivo de promover el desarrollo integral de los seres humanos, como individuos, a través de la prácticas de meditación y del yoga, y como miembros de la sociedad, a través del compromiso social positivo.
+&lt;br /&gt; “Ananda” es una palabra sánscrita que significa el estado interior de armonía y alegría, que se experimenta a través de la práctica del yoga y la meditación. ‘Marga’ es el movimiento hacia esa armonía.
+&lt;br /&gt; Ananda Marga, por cuestión de principios, trabaja sobre una base sin fines de lucro a través de voluntarios que desean compartir sus experiencias positivas. Ananda Marga apoya a los individuos en el aprendizaje de las prácticas ancestrales de la meditación y el yoga, para desarrollar la salud física, el equilibrio emocional y la conciencia espiritual interior. Estamos convencidos, que esto a su vez beneficiará a la sociedad, ya que alguien que ha desarrollado una alegría interna auto sostenible, naturalmente quiere compartir esa experiencia con los demás, en todas las expresiones de la vida diaria.
+&lt;br /&gt; 
+&lt;em&gt;‘Yoga incorpora la unidad de la mente y el cuerpo; el pensamiento y la acción; el autocontrol y la plena satisfacción; la armonía entre los seres humanos y la naturaleza; el enfoque holístico de la salud y del bienestar. No es sólo hacer ejercicios, sino descubrir el sentido de unidad con uno mismo, con el mundo y la naturaleza … “&lt;/em&gt;&lt;/p&gt;</sv:value>
+            </sv:property>
+            <sv:node sv:name="index-meditation.jpg">
+              <sv:property sv:name="jcr:primaryType" sv:type="Name">
+                <sv:value>hippo:facetselect</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:docbase" sv:type="String">
+                <sv:value>de463682-6279-4194-ae7c-ec17b3a8bc53</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+            </sv:node>
+          </sv:node>
+          <sv:node sv:name="amhippo:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>de463682-6279-4194-ae7c-ec17b3a8bc53</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+        </sv:node>
+        <sv:node sv:name="qienes-somos">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>amhippo:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:versionable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>a2ef6fdc-9cae-4716-940e-e9905eeb85df</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:author" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:date" sv:type="Date">
+            <sv:value>2014-11-17T16:14:00.000+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:introduction" sv:type="String">
+            <sv:value>ANANDA MARGA&#13;
+Ananda Marga es un movimiento internacional fundado en la India en 1955, con el objetivo de promover el desarrollo integral de los seres humanos, como individuos, a través de la prácticas de meditación y del yoga, y como miembros de la sociedad, a través del compromiso social positivo.&#13;
+“Ananda” es una palabra sánscrita que significa el estado interior de armonía y alegría, que se experimenta a través de la práctica del yoga y la meditación. ‘Marga’ es el movimiento hacia esa armonía.</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:location" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:source" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:title" sv:type="String">
+            <sv:value>Qienes Somos?</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+            <sv:value>preview</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2014/11/qienes-somos/qienes-somos[3]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>unpublished</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>new</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2015-02-12T16:14:06.554+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2015-02-12T16:15:25.883+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>3722d021-128d-4620-8c28-97315cbf8d95</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>es</sv:value>
+          </sv:property>
+          <sv:node sv:name="amhippo:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p style="text-align: center;"&gt;&lt;img align="middle" src="index-meditation.jpg/{_document}/hippogallery:original" /&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;ANANDA MARGA&lt;/strong&gt;&lt;br /&gt; Ananda Marga es un movimiento internacional fundado en la India en 1955, con el objetivo de promover el desarrollo integral de los seres humanos, como individuos, a través de la prácticas de meditación y del yoga, y como miembros de la sociedad, a través del compromiso social positivo.
+&lt;br /&gt; “Ananda” es una palabra sánscrita que significa el estado interior de armonía y alegría, que se experimenta a través de la práctica del yoga y la meditación. ‘Marga’ es el movimiento hacia esa armonía.
+&lt;br /&gt; Ananda Marga, por cuestión de principios, trabaja sobre una base sin fines de lucro a través de voluntarios que desean compartir sus experiencias positivas. Ananda Marga apoya a los individuos en el aprendizaje de las prácticas ancestrales de la meditación y el yoga, para desarrollar la salud física, el equilibrio emocional y la conciencia espiritual interior. Estamos convencidos, que esto a su vez beneficiará a la sociedad, ya que alguien que ha desarrollado una alegría interna auto sostenible, naturalmente quiere compartir esa experiencia con los demás, en todas las expresiones de la vida diaria.
+&lt;br /&gt; 
+&lt;em&gt;‘Yoga incorpora la unidad de la mente y el cuerpo; el pensamiento y la acción; el autocontrol y la plena satisfacción; la armonía entre los seres humanos y la naturaleza; el enfoque holístico de la salud y del bienestar. No es sólo hacer ejercicios, sino descubrir el sentido de unidad con uno mismo, con el mundo y la naturaleza … “&lt;/em&gt;&lt;/p&gt;</sv:value>
+            </sv:property>
+            <sv:node sv:name="index-meditation.jpg">
+              <sv:property sv:name="jcr:primaryType" sv:type="Name">
+                <sv:value>hippo:facetselect</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:docbase" sv:type="String">
+                <sv:value>de463682-6279-4194-ae7c-ec17b3a8bc53</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+            </sv:node>
+          </sv:node>
+          <sv:node sv:name="amhippo:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>de463682-6279-4194-ae7c-ec17b3a8bc53</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+        </sv:node>
+        <sv:node sv:name="qienes-somos">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>amhippo:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:referenceable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>bb6e1cae-8f72-4c7e-a58c-48c629cab7bf</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:author" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:date" sv:type="Date">
+            <sv:value>2014-11-17T16:14:00.000+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:introduction" sv:type="String">
+            <sv:value>ANANDA MARGA&#13;
+Ananda Marga es un movimiento internacional fundado en la India en 1955, con el objetivo de promover el desarrollo integral de los seres humanos, como individuos, a través de la prácticas de meditación y del yoga, y como miembros de la sociedad, a través del compromiso social positivo.&#13;
+“Ananda” es una palabra sánscrita que significa el estado interior de armonía y alegría, que se experimenta a través de la práctica del yoga y la meditación. ‘Marga’ es el movimiento hacia esa armonía.</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:location" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:source" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:title" sv:type="String">
+            <sv:value>Qienes Somos?</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2014/11/qienes-somos/qienes-somos[2]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>published</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>new</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2015-02-12T16:14:06.554+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2015-02-12T16:15:25.883+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+            <sv:value>2015-02-12T16:50:50.146+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>3722d021-128d-4620-8c28-97315cbf8d95</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>es</sv:value>
+          </sv:property>
+          <sv:node sv:name="amhippo:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p style="text-align: center;"&gt;&lt;img align="middle" src="index-meditation.jpg/{_document}/hippogallery:original" /&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;ANANDA MARGA&lt;/strong&gt;&lt;br /&gt; Ananda Marga es un movimiento internacional fundado en la India en 1955, con el objetivo de promover el desarrollo integral de los seres humanos, como individuos, a través de la prácticas de meditación y del yoga, y como miembros de la sociedad, a través del compromiso social positivo.
+&lt;br /&gt; “Ananda” es una palabra sánscrita que significa el estado interior de armonía y alegría, que se experimenta a través de la práctica del yoga y la meditación. ‘Marga’ es el movimiento hacia esa armonía.
+&lt;br /&gt; Ananda Marga, por cuestión de principios, trabaja sobre una base sin fines de lucro a través de voluntarios que desean compartir sus experiencias positivas. Ananda Marga apoya a los individuos en el aprendizaje de las prácticas ancestrales de la meditación y el yoga, para desarrollar la salud física, el equilibrio emocional y la conciencia espiritual interior. Estamos convencidos, que esto a su vez beneficiará a la sociedad, ya que alguien que ha desarrollado una alegría interna auto sostenible, naturalmente quiere compartir esa experiencia con los demás, en todas las expresiones de la vida diaria.
+&lt;br /&gt; 
+&lt;em&gt;‘Yoga incorpora la unidad de la mente y el cuerpo; el pensamiento y la acción; el autocontrol y la plena satisfacción; la armonía entre los seres humanos y la naturaleza; el enfoque holístico de la salud y del bienestar. No es sólo hacer ejercicios, sino descubrir el sentido de unidad con uno mismo, con el mundo y la naturaleza … “&lt;/em&gt;&lt;/p&gt;</sv:value>
+            </sv:property>
+            <sv:node sv:name="index-meditation.jpg">
+              <sv:property sv:name="jcr:primaryType" sv:type="Name">
+                <sv:value>hippo:facetselect</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:docbase" sv:type="String">
+                <sv:value>de463682-6279-4194-ae7c-ec17b3a8bc53</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+            </sv:node>
+          </sv:node>
+          <sv:node sv:name="amhippo:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>de463682-6279-4194-ae7c-ec17b3a8bc53</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="09">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippostd:folder</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>hippotranslation:translated</sv:value>
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>8e8a1574-ff41-4b11-8ef2-e82159f84639</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+        <sv:value>new-news-folder</sv:value>
+        <sv:value>new-news-document</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>d63ebf3f-ec2b-41b5-8c99-ceea7fccc215</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>es</sv:value>
+      </sv:property>
+      <sv:node sv:name="limitlessness">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:handle</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+          <sv:value>hippo:translated</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>3eecf27b-d95f-4507-91d0-eaa45aff5419</sv:value>
+        </sv:property>
+        <sv:node sv:name="hippo:translation">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippo:translation</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:language" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="hippo:message" sv:type="String">
+            <sv:value>Limitlessness</sv:value>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="limitlessness">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>amhippo:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:referenceable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>d9f5e583-b2b1-4472-afa6-e15903ddfebf</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:author" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:date" sv:type="Date">
+            <sv:value>2014-09-30T00:00:00.000+02:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:introduction" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:location" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:source" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:title" sv:type="String">
+            <sv:value>Limitlessness</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2014/09/limitlessness/limitlessness[3]</sv:value>
+            <sv:value>news/2014/09/limitlessness/limitlessness[2]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>draft</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>new</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2015-02-12T16:10:00.066+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2015-02-12T16:10:01.107+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>289db5a1-752d-4771-b2d2-b7b729ef77b0</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>es</sv:value>
+          </sv:property>
+          <sv:node sv:name="amhippo:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p&gt;&lt;img align="middle" src="limitlessness.jpg/{_document}/hippogallery:original" /&gt;&lt;/p&gt;</sv:value>
+            </sv:property>
+            <sv:node sv:name="limitlessness.jpg">
+              <sv:property sv:name="jcr:primaryType" sv:type="Name">
+                <sv:value>hippo:facetselect</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:docbase" sv:type="String">
+                <sv:value>cbc632b1-34ec-4776-ab29-657ca50a98d6</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+            </sv:node>
+          </sv:node>
+          <sv:node sv:name="amhippo:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>cbc632b1-34ec-4776-ab29-657ca50a98d6</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+        </sv:node>
+        <sv:node sv:name="limitlessness">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>amhippo:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:versionable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>45a4334c-05c5-4236-9361-72073cee62d6</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:author" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:date" sv:type="Date">
+            <sv:value>2014-09-30T00:00:00.000+02:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:introduction" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:location" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:source" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:title" sv:type="String">
+            <sv:value>Limitlessness</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+            <sv:value>preview</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2014/09/limitlessness/limitlessness[3]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>unpublished</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>new</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2015-02-12T16:10:00.066+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2015-02-12T16:11:34.080+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>289db5a1-752d-4771-b2d2-b7b729ef77b0</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>es</sv:value>
+          </sv:property>
+          <sv:node sv:name="amhippo:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p&gt;&lt;img align="middle" src="limitlessness.jpg/{_document}/hippogallery:original" /&gt;&lt;/p&gt;</sv:value>
+            </sv:property>
+            <sv:node sv:name="limitlessness.jpg">
+              <sv:property sv:name="jcr:primaryType" sv:type="Name">
+                <sv:value>hippo:facetselect</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:docbase" sv:type="String">
+                <sv:value>cbc632b1-34ec-4776-ab29-657ca50a98d6</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+            </sv:node>
+          </sv:node>
+          <sv:node sv:name="amhippo:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>cbc632b1-34ec-4776-ab29-657ca50a98d6</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+        </sv:node>
+        <sv:node sv:name="limitlessness">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>amhippo:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:referenceable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>189a5e41-51a3-44a4-a301-3079b6c659a3</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:author" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:date" sv:type="Date">
+            <sv:value>2014-09-30T00:00:00.000+02:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:introduction" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:location" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:source" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:title" sv:type="String">
+            <sv:value>Limitlessness</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2014/09/limitlessness/limitlessness[2]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>published</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>new</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2015-02-12T16:10:00.066+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2015-02-12T16:11:34.080+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+            <sv:value>2015-02-12T16:50:50.617+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>289db5a1-752d-4771-b2d2-b7b729ef77b0</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>es</sv:value>
+          </sv:property>
+          <sv:node sv:name="amhippo:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p&gt;&lt;img align="middle" src="limitlessness.jpg/{_document}/hippogallery:original" /&gt;&lt;/p&gt;</sv:value>
+            </sv:property>
+            <sv:node sv:name="limitlessness.jpg">
+              <sv:property sv:name="jcr:primaryType" sv:type="Name">
+                <sv:value>hippo:facetselect</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:docbase" sv:type="String">
+                <sv:value>cbc632b1-34ec-4776-ab29-657ca50a98d6</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+            </sv:node>
+          </sv:node>
+          <sv:node sv:name="amhippo:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>cbc632b1-34ec-4776-ab29-657ca50a98d6</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+  </sv:node>
+  <sv:node sv:name="2015">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippostd:folder</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+      <sv:value>hippotranslation:translated</sv:value>
+      <sv:value>mix:referenceable</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>9df1eaff-d718-49aa-b81b-3e88c1bfc5fc</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+      <sv:value>new-news-folder</sv:value>
+      <sv:value>new-news-document</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippotranslation:id" sv:type="String">
+      <sv:value>8444da4c-2a8a-4d30-95b0-ac576fc4ba7c</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippotranslation:locale" sv:type="String">
+      <sv:value>es</sv:value>
+    </sv:property>
+    <sv:node sv:name="01">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippostd:folder</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>hippotranslation:translated</sv:value>
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>27a59389-f951-4d2d-a848-1bac09073fe5</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+        <sv:value>new-news-folder</sv:value>
+        <sv:value>new-news-document</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>985ab5f6-cac4-4b9d-a187-3dc6e6889571</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>es</sv:value>
+      </sv:property>
+      <sv:node sv:name="valencia-clases-de-yoga-meditacion-y-cocina-vegetariana">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:handle</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+          <sv:value>hippo:translated</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>c50934a5-878b-4157-9791-9595102867d8</sv:value>
+        </sv:property>
+        <sv:node sv:name="valencia-clases-de-yoga-meditacion-y-cocina-vegetariana">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>amhippo:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:referenceable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>6e54e8fb-258f-4393-9ebf-c1b633cbe762</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:author" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:date" sv:type="Date">
+            <sv:value>2015-01-31T00:00:00.000+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:introduction" sv:type="String">
+            <sv:value>CLASES de YOGA- 15 euros (4 clases al mes); 25 euros (8 clases); 35 euros (clases ilimitadas). Clases privadas disponibles bajo demanda. 30 euros al mes. MEDITACIÓN- gratis/ a voluntad TALLERES DE COCINA VEGETARIANA- 15 euros por clase (todos incluido)/ curso de 4 clases- 50 euros. HORARIOS LUNES YOGA- 15.00 YOGA- 18.30 MARTES YOGA- 8.15 …</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:location" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:source" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:title" sv:type="String">
+            <sv:value>VALENCIA: Clases de Yoga, Meditación y Cocina Vegetariana</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2015/01/valencia-clases-de-yoga-meditacion-y-cocina-vegetariana/valencia-clases-de-yoga-meditacion-y-cocina-vegetariana[2]</sv:value>
+            <sv:value>news/2015/01/valencia-clases-de-yoga-meditacion-y-cocina-vegetariana/valencia-clases-de-yoga-meditacion-y-cocina-vegetariana[3]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>draft</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>new</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2015-02-12T16:20:17.836+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2015-02-12T16:23:54.540+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>5bcea768-9738-42a7-a2da-899b2ad50a49</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>es</sv:value>
+          </sv:property>
+          <sv:node sv:name="amhippo:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p&gt;&lt;strong&gt;CLASES de YOGA&lt;/strong&gt;- 15 euros (4 clases al mes); 25 euros (8 clases); 35 euros (clases ilimitadas). 
+&lt;img align="right" height="400" src="yoga-trees.jpg/{_document}/hippogallery:original" width="535" /&gt;&lt;br /&gt; Clases privadas disponibles bajo demanda. 30 euros al mes.&lt;/p&gt; 
+&lt;p&gt;&lt;br /&gt; 
+&lt;strong&gt;MEDITACIÓN&lt;/strong&gt;- gratis/ a voluntad&lt;/p&gt; 
+&lt;p&gt;&lt;br /&gt; 
+&lt;strong&gt;TALLERES DE COCINA VEGETARIANA&lt;/strong&gt;- 15 euros por clase (todos incluido)/ curso de 4 clases- 50 euros.&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;HORARIOS&lt;/strong&gt;&lt;br /&gt; 
+&lt;strong&gt;LUNES&lt;/strong&gt;&lt;br /&gt; YOGA- 15.00
+&lt;br /&gt; YOGA- 18.30&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;MARTES&lt;/strong&gt;&lt;br /&gt; YOGA- 8.15
+&lt;br /&gt; YOGA- 19.30&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;MIERCOLES&lt;/strong&gt;&lt;br /&gt; YOGA- 12.30
+&lt;br /&gt; MEDITACIÓN- 13.30&lt;/p&gt; 
+&lt;p&gt;YOGA AVANZADA- 18.30
+&lt;br /&gt; MEDITACIÓN- 19.30&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;JUEVES&lt;/strong&gt;&lt;br /&gt; YOGA- 10.00
+&lt;br /&gt; YOGA- 19.30&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;VIERNES&lt;/strong&gt;&lt;br /&gt; YOGA- 8.15
+&lt;br /&gt; YOGA SAUVE- 17.30&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;SABADO&lt;/strong&gt;&lt;br /&gt; 12.30- Taller de cocina vegetariana (Almuerzo incluido)
+&lt;br /&gt; (Posibilidad de otros días y horarios bajo demanda.)&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;DOMINGO&lt;/strong&gt;&lt;br /&gt; YOGA- 17.30
+&lt;br /&gt; MEDITACIÓN y CANTOS de MANTRA- 18.30&lt;/p&gt; 
+&lt;p&gt;Centro de Ananda Marga, Calle de Zapadores 22
+&lt;br /&gt; 960 151736/631181261 
+&lt;a href="mailto:tejasviniididi@gmail.com"&gt;tejasviniididi@gmail.com&lt;/a&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;a href="http://www.anandamarga.org.es"&gt;http://www.anandamarga.org.es&lt;/a&gt;&lt;/p&gt;</sv:value>
+            </sv:property>
+            <sv:node sv:name="yoga-trees.jpg">
+              <sv:property sv:name="jcr:primaryType" sv:type="Name">
+                <sv:value>hippo:facetselect</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:docbase" sv:type="String">
+                <sv:value>06e3a740-5ce9-496c-add8-f0a96b25bb82</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+            </sv:node>
+          </sv:node>
+          <sv:node sv:name="amhippo:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+        </sv:node>
+        <sv:node sv:name="hippo:translation">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippo:translation</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:language" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="hippo:message" sv:type="String">
+            <sv:value>VALENCIA: Clases de Yoga, Meditación y Cocina Vegetariana</sv:value>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="valencia-clases-de-yoga-meditacion-y-cocina-vegetariana">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>amhippo:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:versionable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>212d7fb4-83c5-483c-8eb3-c35f11e16c33</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:author" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:date" sv:type="Date">
+            <sv:value>2015-01-31T00:00:00.000+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:introduction" sv:type="String">
+            <sv:value>CLASES de YOGA- 15 euros (4 clases al mes); 25 euros (8 clases); 35 euros (clases ilimitadas). Clases privadas disponibles bajo demanda. 30 euros al mes. MEDITACIÓN- gratis/ a voluntad TALLERES DE COCINA VEGETARIANA- 15 euros por clase (todos incluido)/ curso de 4 clases- 50 euros. HORARIOS LUNES YOGA- 15.00 YOGA- 18.30 MARTES YOGA- 8.15 …</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:location" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:source" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:title" sv:type="String">
+            <sv:value>VALENCIA: Clases de Yoga, Meditación y Cocina Vegetariana</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+            <sv:value>preview</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2015/01/valencia-clases-de-yoga-meditacion-y-cocina-vegetariana/valencia-clases-de-yoga-meditacion-y-cocina-vegetariana[3]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>unpublished</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>new</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2015-02-12T16:20:17.836+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2015-02-12T16:23:54.469+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>5bcea768-9738-42a7-a2da-899b2ad50a49</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>es</sv:value>
+          </sv:property>
+          <sv:node sv:name="amhippo:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p&gt;&lt;strong&gt;CLASES de YOGA&lt;/strong&gt;- 15 euros (4 clases al mes); 25 euros (8 clases); 35 euros (clases ilimitadas). 
+&lt;img align="right" height="400" src="yoga-trees.jpg/{_document}/hippogallery:original" width="535" /&gt;&lt;br /&gt; Clases privadas disponibles bajo demanda. 30 euros al mes.&lt;/p&gt; 
+&lt;p&gt;&lt;br /&gt; 
+&lt;strong&gt;MEDITACIÓN&lt;/strong&gt;- gratis/ a voluntad&lt;/p&gt; 
+&lt;p&gt;&lt;br /&gt; 
+&lt;strong&gt;TALLERES DE COCINA VEGETARIANA&lt;/strong&gt;- 15 euros por clase (todos incluido)/ curso de 4 clases- 50 euros.&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;HORARIOS&lt;/strong&gt;&lt;br /&gt; 
+&lt;strong&gt;LUNES&lt;/strong&gt;&lt;br /&gt; YOGA- 15.00
+&lt;br /&gt; YOGA- 18.30&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;MARTES&lt;/strong&gt;&lt;br /&gt; YOGA- 8.15
+&lt;br /&gt; YOGA- 19.30&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;MIERCOLES&lt;/strong&gt;&lt;br /&gt; YOGA- 12.30
+&lt;br /&gt; MEDITACIÓN- 13.30&lt;/p&gt; 
+&lt;p&gt;YOGA AVANZADA- 18.30
+&lt;br /&gt; MEDITACIÓN- 19.30&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;JUEVES&lt;/strong&gt;&lt;br /&gt; YOGA- 10.00
+&lt;br /&gt; YOGA- 19.30&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;VIERNES&lt;/strong&gt;&lt;br /&gt; YOGA- 8.15
+&lt;br /&gt; YOGA SAUVE- 17.30&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;SABADO&lt;/strong&gt;&lt;br /&gt; 12.30- Taller de cocina vegetariana (Almuerzo incluido)
+&lt;br /&gt; (Posibilidad de otros días y horarios bajo demanda.)&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;DOMINGO&lt;/strong&gt;&lt;br /&gt; YOGA- 17.30
+&lt;br /&gt; MEDITACIÓN y CANTOS de MANTRA- 18.30&lt;/p&gt; 
+&lt;p&gt;Centro de Ananda Marga, Calle de Zapadores 22
+&lt;br /&gt; 960 151736/631181261 
+&lt;a href="mailto:tejasviniididi@gmail.com"&gt;tejasviniididi@gmail.com&lt;/a&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;a href="http://www.anandamarga.org.es"&gt;http://www.anandamarga.org.es&lt;/a&gt;&lt;/p&gt;</sv:value>
+            </sv:property>
+            <sv:node sv:name="yoga-trees.jpg">
+              <sv:property sv:name="jcr:primaryType" sv:type="Name">
+                <sv:value>hippo:facetselect</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:docbase" sv:type="String">
+                <sv:value>06e3a740-5ce9-496c-add8-f0a96b25bb82</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+            </sv:node>
+          </sv:node>
+          <sv:node sv:name="amhippo:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+        </sv:node>
+        <sv:node sv:name="valencia-clases-de-yoga-meditacion-y-cocina-vegetariana">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>amhippo:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:referenceable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>95489390-9444-4704-8ea4-830f0289a5b3</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:author" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:date" sv:type="Date">
+            <sv:value>2015-01-31T00:00:00.000+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:introduction" sv:type="String">
+            <sv:value>CLASES de YOGA- 15 euros (4 clases al mes); 25 euros (8 clases); 35 euros (clases ilimitadas). Clases privadas disponibles bajo demanda. 30 euros al mes. MEDITACIÓN- gratis/ a voluntad TALLERES DE COCINA VEGETARIANA- 15 euros por clase (todos incluido)/ curso de 4 clases- 50 euros. HORARIOS LUNES YOGA- 15.00 YOGA- 18.30 MARTES YOGA- 8.15 …</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:location" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:source" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:title" sv:type="String">
+            <sv:value>VALENCIA: Clases de Yoga, Meditación y Cocina Vegetariana</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2015/01/valencia-clases-de-yoga-meditacion-y-cocina-vegetariana/valencia-clases-de-yoga-meditacion-y-cocina-vegetariana[2]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>published</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>new</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2015-02-12T16:20:17.836+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2015-02-12T16:23:54.469+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+            <sv:value>2015-06-11T14:03:11.822Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>5bcea768-9738-42a7-a2da-899b2ad50a49</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>es</sv:value>
+          </sv:property>
+          <sv:node sv:name="amhippo:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p&gt;&lt;strong&gt;CLASES de YOGA&lt;/strong&gt;- 15 euros (4 clases al mes); 25 euros (8 clases); 35 euros (clases ilimitadas). 
+&lt;img align="right" height="400" src="yoga-trees.jpg/{_document}/hippogallery:original" width="535" /&gt;&lt;br /&gt; Clases privadas disponibles bajo demanda. 30 euros al mes.&lt;/p&gt; 
+&lt;p&gt;&lt;br /&gt; 
+&lt;strong&gt;MEDITACIÓN&lt;/strong&gt;- gratis/ a voluntad&lt;/p&gt; 
+&lt;p&gt;&lt;br /&gt; 
+&lt;strong&gt;TALLERES DE COCINA VEGETARIANA&lt;/strong&gt;- 15 euros por clase (todos incluido)/ curso de 4 clases- 50 euros.&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;HORARIOS&lt;/strong&gt;&lt;br /&gt; 
+&lt;strong&gt;LUNES&lt;/strong&gt;&lt;br /&gt; YOGA- 15.00
+&lt;br /&gt; YOGA- 18.30&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;MARTES&lt;/strong&gt;&lt;br /&gt; YOGA- 8.15
+&lt;br /&gt; YOGA- 19.30&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;MIERCOLES&lt;/strong&gt;&lt;br /&gt; YOGA- 12.30
+&lt;br /&gt; MEDITACIÓN- 13.30&lt;/p&gt; 
+&lt;p&gt;YOGA AVANZADA- 18.30
+&lt;br /&gt; MEDITACIÓN- 19.30&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;JUEVES&lt;/strong&gt;&lt;br /&gt; YOGA- 10.00
+&lt;br /&gt; YOGA- 19.30&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;VIERNES&lt;/strong&gt;&lt;br /&gt; YOGA- 8.15
+&lt;br /&gt; YOGA SAUVE- 17.30&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;SABADO&lt;/strong&gt;&lt;br /&gt; 12.30- Taller de cocina vegetariana (Almuerzo incluido)
+&lt;br /&gt; (Posibilidad de otros días y horarios bajo demanda.)&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;DOMINGO&lt;/strong&gt;&lt;br /&gt; YOGA- 17.30
+&lt;br /&gt; MEDITACIÓN y CANTOS de MANTRA- 18.30&lt;/p&gt; 
+&lt;p&gt;Centro de Ananda Marga, Calle de Zapadores 22
+&lt;br /&gt; 960 151736/631181261 
+&lt;a href="mailto:tejasviniididi@gmail.com"&gt;tejasviniididi@gmail.com&lt;/a&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;a href="http://www.anandamarga.org.es"&gt;http://www.anandamarga.org.es&lt;/a&gt;&lt;/p&gt;</sv:value>
+            </sv:property>
+            <sv:node sv:name="yoga-trees.jpg">
+              <sv:property sv:name="jcr:primaryType" sv:type="Name">
+                <sv:value>hippo:facetselect</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:docbase" sv:type="String">
+                <sv:value>06e3a740-5ce9-496c-add8-f0a96b25bb82</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+            </sv:node>
+          </sv:node>
+          <sv:node sv:name="amhippo:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="02">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippostd:folder</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>hippotranslation:translated</sv:value>
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>186eed95-93ef-49f4-830d-40e49d7c310c</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+        <sv:value>new-news-folder</sv:value>
+        <sv:value>new-news-document</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>1c25a7c9-d595-4fc3-b675-a596245dc749</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>es</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="03">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippostd:folder</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>hippotranslation:translated</sv:value>
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>2a8dd1b4-7a6d-4da7-bd2b-e270ba17f701</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+        <sv:value>new-news-folder</sv:value>
+        <sv:value>new-news-document</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>a88abe40-030f-4f0f-85e5-90b6078384d7</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>es</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="04">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippostd:folder</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>hippotranslation:translated</sv:value>
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>69dcc8ab-a215-4e3f-9497-70ff290356e7</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+        <sv:value>new-news-folder</sv:value>
+        <sv:value>new-news-document</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>a981923c-9bcd-471d-a85c-d1f1fc4ca58b</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>es</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="05">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippostd:folder</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>hippotranslation:translated</sv:value>
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>a4d16b70-73f9-4c18-9428-6bf0f0771873</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+        <sv:value>new-news-folder</sv:value>
+        <sv:value>new-news-document</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>9b7479e6-5a82-4c51-9193-273ad2b7f6a7</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>es</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="06">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippostd:folder</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>hippotranslation:translated</sv:value>
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>7b0c8285-e01a-4d89-9883-b42e8053c12e</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+        <sv:value>new-news-folder</sv:value>
+        <sv:value>new-news-document</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>ecc66966-3544-400c-be54-0240f941d9db</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>es</sv:value>
+      </sv:property>
+      <sv:node sv:name="clases-de-yoga-en-valencia">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:handle</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+          <sv:value>hippo:translated</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>fd88fb94-116c-4967-a09c-90ee509d29fc</sv:value>
+        </sv:property>
+        <sv:node sv:name="hippo:translation">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippo:translation</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:language" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="hippo:message" sv:type="String">
+            <sv:value>Clases de Yoga en Valencia</sv:value>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="clases-de-yoga-en-valencia">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>amhippo:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:referenceable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>25fa3a5e-1129-4738-a56e-2babe8e43d7a</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:author" sv:type="String">
+            <sv:value>Didi Tejasvinii</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:date" sv:type="Date">
+            <sv:value>2015-06-06T12:43:00.000Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:introduction" sv:type="String">
+            <sv:value>HORARIOS DE LAS CLASES DE YOGA EN VALENCIA</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:location" sv:type="String">
+            <sv:value>Valencia</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:source" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:title" sv:type="String">
+            <sv:value>Clases de Yoga en Valencia</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2015/06/clases-de-yoga-en-valencia/clases-de-yoga-en-valencia[3]</sv:value>
+            <sv:value>news/2015/06/clases-de-yoga-en-valencia/clases-de-yoga-en-valencia[2]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>draft</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>diditejasvinii</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2015-06-06T12:27:36.793Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2015-06-08T09:31:15.459Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>diditejasvinii</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>9caa70ca-2b63-4f09-935b-777e7712e6f8</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>es</sv:value>
+          </sv:property>
+          <sv:node sv:name="amhippo:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p&gt;&lt;u&gt;HORARIOS DE LAS CLASES DE YOGA EN VALENCIA 
+&lt;img align="right" height="162" src="img_0928.jpg/{_document}/hippogallery:original" width="214" /&gt;&lt;/u&gt;&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;&lt;u&gt;&lt;em&gt;Centro de Ananda Marga&lt;/em&gt;&lt;/u&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;u&gt;&lt;em&gt;Calle de Zapadores 22, 46006, Valencia (Ruzafa)&lt;/em&gt;&lt;/u&gt;&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;&lt;u&gt;PRECIOS&lt;/u&gt;&lt;/p&gt; 
+&lt;p&gt;15 Euros (4 clases al mes)&lt;/p&gt; 
+&lt;p&gt;25 Euros (8 clases al mes)&lt;/p&gt; 
+&lt;p&gt;También ofrecemos clases para padres con hijos y para mayores.&lt;/p&gt; 
+&lt;p&gt;Meditación: gratuito&lt;/p&gt; 
+&lt;p&gt;&lt;img align="right" height="160" src="img_0929.jpg/{_document}/hippogallery:original" width="215" /&gt;&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;&lt;u&gt;HORARIOS&lt;/u&gt;&lt;/p&gt; 
+&lt;p&gt;Lunes: 18.30/ 20.30&lt;/p&gt; 
+&lt;p&gt;Martes: 8.30/ 18.30 (Mayores/suave 18.30)&lt;/p&gt; 
+&lt;p&gt;Miercoles: 12.30/ 18.30 (avanzada) / 20.30&lt;/p&gt; 
+&lt;p&gt;Jueves: 10.00/ 19.30&lt;/p&gt; 
+&lt;p&gt;Viernes: PADRES Y HIJOS 18.00; Mayores/suave 10.00/ 19.30&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</sv:value>
+            </sv:property>
+            <sv:node sv:name="img_0929.jpg">
+              <sv:property sv:name="jcr:primaryType" sv:type="Name">
+                <sv:value>hippo:facetselect</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:docbase" sv:type="String">
+                <sv:value>cbf66eb7-cee7-47e7-9a86-42b10018b9d8</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+            </sv:node>
+            <sv:node sv:name="img_0928.jpg">
+              <sv:property sv:name="jcr:primaryType" sv:type="Name">
+                <sv:value>hippo:facetselect</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:docbase" sv:type="String">
+                <sv:value>e64ee8ae-f541-449a-b99d-839c1ca5ba5f</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+            </sv:node>
+          </sv:node>
+          <sv:node sv:name="amhippo:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+        </sv:node>
+        <sv:node sv:name="clases-de-yoga-en-valencia">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>amhippo:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:versionable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>d60e4ece-d60f-42fc-a14f-d04e6d5da967</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:author" sv:type="String">
+            <sv:value>Didi Tejasvinii</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:date" sv:type="Date">
+            <sv:value>2015-06-06T12:43:00.000Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:introduction" sv:type="String">
+            <sv:value>HORARIOS DE LAS CLASES DE YOGA EN VALENCIA</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:location" sv:type="String">
+            <sv:value>Valencia</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:source" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:title" sv:type="String">
+            <sv:value>Clases de Yoga en Valencia</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+            <sv:value>preview</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2015/06/clases-de-yoga-en-valencia/clases-de-yoga-en-valencia[3]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>unpublished</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>diditejasvinii</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2015-06-06T12:27:36.793Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2015-06-08T09:31:37.980Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>diditejasvinii</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>9caa70ca-2b63-4f09-935b-777e7712e6f8</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>es</sv:value>
+          </sv:property>
+          <sv:node sv:name="amhippo:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p&gt;&lt;u&gt;HORARIOS DE LAS CLASES DE YOGA EN VALENCIA 
+&lt;img align="right" height="162" src="img_0928.jpg/{_document}/hippogallery:original" width="214" /&gt;&lt;/u&gt;&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;&lt;u&gt;&lt;em&gt;Centro de Ananda Marga&lt;/em&gt;&lt;/u&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;u&gt;&lt;em&gt;Calle de Zapadores 22, 46006, Valencia (Ruzafa)&lt;/em&gt;&lt;/u&gt;&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;&lt;u&gt;PRECIOS&lt;/u&gt;&lt;/p&gt; 
+&lt;p&gt;15 Euros (4 clases al mes)&lt;/p&gt; 
+&lt;p&gt;25 Euros (8 clases al mes)&lt;/p&gt; 
+&lt;p&gt;También ofrecemos clases para padres con hijos y para mayores.&lt;/p&gt; 
+&lt;p&gt;Meditación: gratuito&lt;/p&gt; 
+&lt;p&gt;&lt;img align="right" height="160" src="img_0929.jpg/{_document}/hippogallery:original" width="215" /&gt;&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;&lt;u&gt;HORARIOS&lt;/u&gt;&lt;/p&gt; 
+&lt;p&gt;Lunes: 18.30/ 20.30&lt;/p&gt; 
+&lt;p&gt;Martes: 8.30/ 18.30 (Mayores/suave 18.30)&lt;/p&gt; 
+&lt;p&gt;Miercoles: 12.30/ 18.30 (avanzada) / 20.30&lt;/p&gt; 
+&lt;p&gt;Jueves: 10.00/ 19.30&lt;/p&gt; 
+&lt;p&gt;Viernes: PADRES Y HIJOS 18.00; Mayores/suave 10.00/ 19.30&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</sv:value>
+            </sv:property>
+            <sv:node sv:name="img_0929.jpg">
+              <sv:property sv:name="jcr:primaryType" sv:type="Name">
+                <sv:value>hippo:facetselect</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:docbase" sv:type="String">
+                <sv:value>cbf66eb7-cee7-47e7-9a86-42b10018b9d8</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+            </sv:node>
+            <sv:node sv:name="img_0928.jpg">
+              <sv:property sv:name="jcr:primaryType" sv:type="Name">
+                <sv:value>hippo:facetselect</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:docbase" sv:type="String">
+                <sv:value>e64ee8ae-f541-449a-b99d-839c1ca5ba5f</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+            </sv:node>
+          </sv:node>
+          <sv:node sv:name="amhippo:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+        </sv:node>
+        <sv:node sv:name="clases-de-yoga-en-valencia">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>amhippo:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:referenceable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>1a7084ed-932c-4eca-a207-afe12d6e4dba</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:author" sv:type="String">
+            <sv:value>Didi Tejasvinii</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:date" sv:type="Date">
+            <sv:value>2015-06-06T12:43:00.000Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:introduction" sv:type="String">
+            <sv:value>HORARIOS DE LAS CLASES DE YOGA EN VALENCIA</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:location" sv:type="String">
+            <sv:value>Valencia</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:source" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:title" sv:type="String">
+            <sv:value>Clases de Yoga en Valencia</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2015/06/clases-de-yoga-en-valencia/clases-de-yoga-en-valencia[2]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>published</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>diditejasvinii</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2015-06-06T12:27:36.793Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2015-06-08T09:31:37.980Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>diditejasvinii</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+            <sv:value>2015-06-08T09:31:44.489Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>9caa70ca-2b63-4f09-935b-777e7712e6f8</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>es</sv:value>
+          </sv:property>
+          <sv:node sv:name="amhippo:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p&gt;&lt;u&gt;HORARIOS DE LAS CLASES DE YOGA EN VALENCIA 
+&lt;img align="right" height="162" src="img_0928.jpg/{_document}/hippogallery:original" width="214" /&gt;&lt;/u&gt;&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;&lt;u&gt;&lt;em&gt;Centro de Ananda Marga&lt;/em&gt;&lt;/u&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;u&gt;&lt;em&gt;Calle de Zapadores 22, 46006, Valencia (Ruzafa)&lt;/em&gt;&lt;/u&gt;&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;&lt;u&gt;PRECIOS&lt;/u&gt;&lt;/p&gt; 
+&lt;p&gt;15 Euros (4 clases al mes)&lt;/p&gt; 
+&lt;p&gt;25 Euros (8 clases al mes)&lt;/p&gt; 
+&lt;p&gt;También ofrecemos clases para padres con hijos y para mayores.&lt;/p&gt; 
+&lt;p&gt;Meditación: gratuito&lt;/p&gt; 
+&lt;p&gt;&lt;img align="right" height="160" src="img_0929.jpg/{_document}/hippogallery:original" width="215" /&gt;&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;&lt;u&gt;HORARIOS&lt;/u&gt;&lt;/p&gt; 
+&lt;p&gt;Lunes: 18.30/ 20.30&lt;/p&gt; 
+&lt;p&gt;Martes: 8.30/ 18.30 (Mayores/suave 18.30)&lt;/p&gt; 
+&lt;p&gt;Miercoles: 12.30/ 18.30 (avanzada) / 20.30&lt;/p&gt; 
+&lt;p&gt;Jueves: 10.00/ 19.30&lt;/p&gt; 
+&lt;p&gt;Viernes: PADRES Y HIJOS 18.00; Mayores/suave 10.00/ 19.30&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</sv:value>
+            </sv:property>
+            <sv:node sv:name="img_0929.jpg">
+              <sv:property sv:name="jcr:primaryType" sv:type="Name">
+                <sv:value>hippo:facetselect</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:docbase" sv:type="String">
+                <sv:value>cbf66eb7-cee7-47e7-9a86-42b10018b9d8</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+            </sv:node>
+            <sv:node sv:name="img_0928.jpg">
+              <sv:property sv:name="jcr:primaryType" sv:type="Name">
+                <sv:value>hippo:facetselect</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:docbase" sv:type="String">
+                <sv:value>e64ee8ae-f541-449a-b99d-839c1ca5ba5f</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+            </sv:node>
+          </sv:node>
+          <sv:node sv:name="amhippo:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="conferencia-espiritual-europea-anual">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:handle</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+          <sv:value>hippo:translated</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>ae813015-2d02-4906-9243-51f9dcc12e7d</sv:value>
+        </sv:property>
+        <sv:node sv:name="hippo:translation">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippo:translation</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:language" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="hippo:message" sv:type="String">
+            <sv:value>Conferencia Espiritual Europea Anual</sv:value>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="conferencia-espiritual-europea-anual">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>amhippo:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:referenceable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>69a0dd51-3971-4d47-9540-dffa8f4497ab</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:author" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:date" sv:type="Date">
+            <sv:value>2015-06-11T14:00:00.000Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:introduction" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:location" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:source" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:title" sv:type="String">
+            <sv:value>Conferencia Espiritual Europea Anual</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2015/06/conferencia-espiritual-europea-anual/conferencia-espiritual-europea-anual[2]</sv:value>
+            <sv:value>news/2015/06/conferencia-espiritual-europea-anual/conferencia-espiritual-europea-anual[3]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>draft</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>diditejasvinii</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2015-06-11T13:58:16.414Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2015-06-11T14:05:20.276Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>diditejasvinii</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>b672ce6a-ba20-4a2f-9245-a85f9ba23644</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>es</sv:value>
+          </sv:property>
+          <sv:node sv:name="amhippo:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p&gt;&lt;strong&gt;&lt;u&gt;Conferencia Espiritual Europea Anual&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;El retiro espiritual anual de Europa tendrá lugar desde el 27 de julio hasta el 2 de agosto de 2015 en Wendelsheim, Alemania. El centro de retiros queda próximo al aeropuerto de Frankfurt, y allí hay conexiones de tren y autobús que llegan cerca del pueblo.&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;Normalmente llegan entre 300 – 400 personas de los alrededores de Europa, es una gran oportunidad para conocer y compartir con otros interesados en meditación y yoga. El programa incluye clases y talleres, meditación diaria y cantos de mantra, noches culturales y musicales.&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;Están todos invitados a venir y experimentar lo que significa meditar y movernos juntos en una misma energía espiritual con un gran grupo de personas. Familias con niños son especialmente bienvenidas, y se proporciona cuidado de los mismos.&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;El precio para todo el programa, incluyendo comida y alojamiento es:&lt;/p&gt; 
+&lt;p&gt;Adultos: 180 euros&lt;/p&gt; 
+&lt;p&gt;Estudiantes: 131 euros&lt;/p&gt; 
+&lt;p&gt;Niños de 12-17 años: 99 euros&lt;/p&gt; 
+&lt;p&gt;Niños de 6-11 años: 50 euros&lt;/p&gt; 
+&lt;p&gt;(el segundo hijo para la mitad ¡y el resto gratis!)&lt;/p&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="amhippo:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+        </sv:node>
+        <sv:node sv:name="conferencia-espiritual-europea-anual">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>amhippo:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:versionable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>264da917-e39e-4ce3-b061-d66ce31acdc2</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:author" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:date" sv:type="Date">
+            <sv:value>2015-06-11T14:00:00.000Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:introduction" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:location" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:source" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:title" sv:type="String">
+            <sv:value>Conferencia Espiritual Europea Anual</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+            <sv:value>preview</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2015/06/conferencia-espiritual-europea-anual/conferencia-espiritual-europea-anual[3]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>unpublished</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>diditejasvinii</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2015-06-11T13:58:16.414Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2015-06-11T14:01:08.932Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>diditejasvinii</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>b672ce6a-ba20-4a2f-9245-a85f9ba23644</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>es</sv:value>
+          </sv:property>
+          <sv:node sv:name="amhippo:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p&gt;&lt;strong&gt;&lt;u&gt;Conferencia Espiritual Europea Anual&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;El retiro espiritual anual de Europa tendrá lugar desde el 27 de julio hasta el 2 de agosto de 2015 en Wendelsheim, Alemania. El centro de retiros queda próximo al aeropuerto de Frankfurt, y allí hay conexiones de tren y autobús que llegan cerca del pueblo.&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;Normalmente llegan entre 300 – 400 personas de los alrededores de Europa, es una gran oportunidad para conocer y compartir con otros interesados en meditación y yoga. El programa incluye clases y talleres, meditación diaria y cantos de mantra, noches culturales y musicales.&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;Están todos invitados a venir y experimentar lo que significa meditar y movernos juntos en una misma energía espiritual con un gran grupo de personas. Familias con niños son especialmente bienvenidas, y se proporciona cuidado de los mismos.&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;El precio para todo el programa, incluyendo comida y alojamiento es:&lt;/p&gt; 
+&lt;p&gt;Adultos: 180 euros&lt;/p&gt; 
+&lt;p&gt;Estudiantes: 131 euros&lt;/p&gt; 
+&lt;p&gt;Niños de 12-17 años: 99 euros&lt;/p&gt; 
+&lt;p&gt;Niños de 6-11 años: 50 euros&lt;/p&gt; 
+&lt;p&gt;(el segundo hijo para la mitad ¡y el resto gratis!)&lt;/p&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="amhippo:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+        </sv:node>
+        <sv:node sv:name="conferencia-espiritual-europea-anual">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>amhippo:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:referenceable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>a2cf72e7-4f72-4399-9130-ad71a5ca354d</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:author" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:date" sv:type="Date">
+            <sv:value>2015-06-11T14:00:00.000Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:introduction" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:location" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:source" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:title" sv:type="String">
+            <sv:value>Conferencia Espiritual Europea Anual</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2015/06/conferencia-espiritual-europea-anual/conferencia-espiritual-europea-anual[2]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>published</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>diditejasvinii</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2015-06-11T13:58:16.414Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2015-06-11T14:01:08.932Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>diditejasvinii</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+            <sv:value>2015-06-12T20:27:26.526Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>b672ce6a-ba20-4a2f-9245-a85f9ba23644</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>es</sv:value>
+          </sv:property>
+          <sv:node sv:name="amhippo:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p&gt;&lt;strong&gt;&lt;u&gt;Conferencia Espiritual Europea Anual&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;El retiro espiritual anual de Europa tendrá lugar desde el 27 de julio hasta el 2 de agosto de 2015 en Wendelsheim, Alemania. El centro de retiros queda próximo al aeropuerto de Frankfurt, y allí hay conexiones de tren y autobús que llegan cerca del pueblo.&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;Normalmente llegan entre 300 – 400 personas de los alrededores de Europa, es una gran oportunidad para conocer y compartir con otros interesados en meditación y yoga. El programa incluye clases y talleres, meditación diaria y cantos de mantra, noches culturales y musicales.&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;Están todos invitados a venir y experimentar lo que significa meditar y movernos juntos en una misma energía espiritual con un gran grupo de personas. Familias con niños son especialmente bienvenidas, y se proporciona cuidado de los mismos.&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;El precio para todo el programa, incluyendo comida y alojamiento es:&lt;/p&gt; 
+&lt;p&gt;Adultos: 180 euros&lt;/p&gt; 
+&lt;p&gt;Estudiantes: 131 euros&lt;/p&gt; 
+&lt;p&gt;Niños de 12-17 años: 99 euros&lt;/p&gt; 
+&lt;p&gt;Niños de 6-11 años: 50 euros&lt;/p&gt; 
+&lt;p&gt;(el segundo hijo para la mitad ¡y el resto gratis!)&lt;/p&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="amhippo:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="colecta-para-la-escuela-neo-humanistica-de-primaria-en-shivpuri-india">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:handle</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+          <sv:value>hippo:translated</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>c6b8549f-d74c-46bf-8a45-1fd12890029a</sv:value>
+        </sv:property>
+        <sv:node sv:name="hippo:translation">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippo:translation</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:language" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="hippo:message" sv:type="String">
+            <sv:value>Colecta para la escuela Neo-humanística de primaria en Shivpuri, India.</sv:value>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="colecta-para-la-escuela-neo-humanistica-de-primaria-en-shivpuri-india">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>amhippo:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:referenceable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>44225c00-4d08-46ee-9920-fbffef74545e</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:author" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:date" sv:type="Date">
+            <sv:value>2015-06-11T14:32:00.000Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:introduction" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:location" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:source" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:title" sv:type="String">
+            <sv:value>Colecta para la escuela Neo-humanística de primaria en Shivpuri, India.</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2015/06/colecta-para-la-escuela-neo-humanistica-de-primaria-en-shivpuri-india/colecta-para-la-escuela-neo-humanistica-de-primaria-en-shivpuri-india[2]</sv:value>
+            <sv:value>news/2015/06/colecta-para-la-escuela-neo-humanistica-de-primaria-en-shivpuri-india/colecta-para-la-escuela-neo-humanistica-de-primaria-en-shivpuri-india[3]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>draft</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>diditejasvinii</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2015-06-11T14:23:21.796Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2015-06-11T14:23:21.959Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>diditejasvinii</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>d7023aa9-cefd-4da6-8896-ed50d2695383</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>es</sv:value>
+          </sv:property>
+          <sv:node sv:name="amhippo:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;h3&gt;&lt;u&gt;&lt;strong&gt;Colecta para la escuela Neo-humanística de primaria en Shivpuri, India.&lt;/strong&gt;&lt;/u&gt;&lt;/h3&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;Amurtel España ha estado coordinando la recaudación de fondos para la reconstrucción de nuestra escuela Neo-humanística de primaria en Shivpuri, India. La escuela está bien establecida, con más de 100 estudiantes, pero el edificio está en muy malas condiciones. La mitad de la construcción tiene que ser derribada completamente y reconstruida. Gracias a la cooperación de Amurtel España y Amurtel Alemania, hemos logrado reunir 2500 euros para la reconstrucción. El edificio ya está casi completo. Los niños de Shivpuri&amp;nbsp; pueden ahora tener acceso a una educación de calidad y asequible. ¡Gracias a todos por su colaboración!&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;&lt;img align="bottom" height="118" src="new-photos-3.jpg/{_document}/hippogallery:original" width="159" /&gt;&lt;img align="left" height="118" src="new-photos.jpg/{_document}/hippogallery:original" width="160" /&gt;&lt;img align="bottom" height="119" src="new-photos-2.jpg/{_document}/hippogallery:original" width="160" /&gt;&lt;/p&gt;</sv:value>
+            </sv:property>
+            <sv:node sv:name="new-photos.jpg">
+              <sv:property sv:name="jcr:primaryType" sv:type="Name">
+                <sv:value>hippo:facetselect</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:docbase" sv:type="String">
+                <sv:value>de698add-6f90-4cb4-8aa6-a7b4b8b49f1a</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+            </sv:node>
+            <sv:node sv:name="new-photos-3.jpg">
+              <sv:property sv:name="jcr:primaryType" sv:type="Name">
+                <sv:value>hippo:facetselect</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:docbase" sv:type="String">
+                <sv:value>e94dc46f-de28-4675-985f-e65ee6145c18</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+            </sv:node>
+            <sv:node sv:name="new-photos-2.jpg">
+              <sv:property sv:name="jcr:primaryType" sv:type="Name">
+                <sv:value>hippo:facetselect</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:docbase" sv:type="String">
+                <sv:value>47191f83-2826-470b-ad0d-e3d93dda4d11</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+            </sv:node>
+          </sv:node>
+          <sv:node sv:name="amhippo:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+        </sv:node>
+        <sv:node sv:name="colecta-para-la-escuela-neo-humanistica-de-primaria-en-shivpuri-india">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>amhippo:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:versionable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>43fc82ff-aeea-448f-bd8f-f6dd5d72c60e</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:author" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:date" sv:type="Date">
+            <sv:value>2015-06-11T14:32:00.000Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:introduction" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:location" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:source" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:title" sv:type="String">
+            <sv:value>Colecta para la escuela Neo-humanística de primaria en Shivpuri, India.</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+            <sv:value>preview</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2015/06/colecta-para-la-escuela-neo-humanistica-de-primaria-en-shivpuri-india/colecta-para-la-escuela-neo-humanistica-de-primaria-en-shivpuri-india[3]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>unpublished</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>diditejasvinii</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2015-06-11T14:23:21.796Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2015-06-11T14:32:51.707Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>diditejasvinii</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>d7023aa9-cefd-4da6-8896-ed50d2695383</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>es</sv:value>
+          </sv:property>
+          <sv:node sv:name="amhippo:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;h3&gt;&lt;u&gt;&lt;strong&gt;Colecta para la escuela Neo-humanística de primaria en Shivpuri, India.&lt;/strong&gt;&lt;/u&gt;&lt;/h3&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;Amurtel España ha estado coordinando la recaudación de fondos para la reconstrucción de nuestra escuela Neo-humanística de primaria en Shivpuri, India. La escuela está bien establecida, con más de 100 estudiantes, pero el edificio está en muy malas condiciones. La mitad de la construcción tiene que ser derribada completamente y reconstruida. Gracias a la cooperación de Amurtel España y Amurtel Alemania, hemos logrado reunir 2500 euros para la reconstrucción. El edificio ya está casi completo. Los niños de Shivpuri&amp;nbsp; pueden ahora tener acceso a una educación de calidad y asequible. ¡Gracias a todos por su colaboración!&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;&lt;img align="bottom" height="118" src="new-photos-3.jpg/{_document}/hippogallery:original" width="159" /&gt;&lt;img align="left" height="118" src="new-photos.jpg/{_document}/hippogallery:original" width="160" /&gt;&lt;img align="bottom" height="119" src="new-photos-2.jpg/{_document}/hippogallery:original" width="160" /&gt;&lt;/p&gt;</sv:value>
+            </sv:property>
+            <sv:node sv:name="new-photos.jpg">
+              <sv:property sv:name="jcr:primaryType" sv:type="Name">
+                <sv:value>hippo:facetselect</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:docbase" sv:type="String">
+                <sv:value>de698add-6f90-4cb4-8aa6-a7b4b8b49f1a</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+            </sv:node>
+            <sv:node sv:name="new-photos-3.jpg">
+              <sv:property sv:name="jcr:primaryType" sv:type="Name">
+                <sv:value>hippo:facetselect</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:docbase" sv:type="String">
+                <sv:value>e94dc46f-de28-4675-985f-e65ee6145c18</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+            </sv:node>
+            <sv:node sv:name="new-photos-2.jpg">
+              <sv:property sv:name="jcr:primaryType" sv:type="Name">
+                <sv:value>hippo:facetselect</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:docbase" sv:type="String">
+                <sv:value>47191f83-2826-470b-ad0d-e3d93dda4d11</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+            </sv:node>
+          </sv:node>
+          <sv:node sv:name="amhippo:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+        </sv:node>
+        <sv:node sv:name="colecta-para-la-escuela-neo-humanistica-de-primaria-en-shivpuri-india">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>amhippo:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:referenceable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>e5ff419a-f76b-4f54-bb24-e6dbf5c589a4</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:author" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:date" sv:type="Date">
+            <sv:value>2015-06-11T14:32:00.000Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:introduction" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:location" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:source" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:title" sv:type="String">
+            <sv:value>Colecta para la escuela Neo-humanística de primaria en Shivpuri, India.</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2015/06/colecta-para-la-escuela-neo-humanistica-de-primaria-en-shivpuri-india/colecta-para-la-escuela-neo-humanistica-de-primaria-en-shivpuri-india[2]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>published</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>diditejasvinii</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2015-06-11T14:23:21.796Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2015-06-11T14:32:51.707Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>diditejasvinii</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+            <sv:value>2015-06-12T20:27:22.249Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>d7023aa9-cefd-4da6-8896-ed50d2695383</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>es</sv:value>
+          </sv:property>
+          <sv:node sv:name="amhippo:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;h3&gt;&lt;u&gt;&lt;strong&gt;Colecta para la escuela Neo-humanística de primaria en Shivpuri, India.&lt;/strong&gt;&lt;/u&gt;&lt;/h3&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;Amurtel España ha estado coordinando la recaudación de fondos para la reconstrucción de nuestra escuela Neo-humanística de primaria en Shivpuri, India. La escuela está bien establecida, con más de 100 estudiantes, pero el edificio está en muy malas condiciones. La mitad de la construcción tiene que ser derribada completamente y reconstruida. Gracias a la cooperación de Amurtel España y Amurtel Alemania, hemos logrado reunir 2500 euros para la reconstrucción. El edificio ya está casi completo. Los niños de Shivpuri&amp;nbsp; pueden ahora tener acceso a una educación de calidad y asequible. ¡Gracias a todos por su colaboración!&lt;/p&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt; 
+&lt;p&gt;&lt;img align="bottom" height="118" src="new-photos-3.jpg/{_document}/hippogallery:original" width="159" /&gt;&lt;img align="left" height="118" src="new-photos.jpg/{_document}/hippogallery:original" width="160" /&gt;&lt;img align="bottom" height="119" src="new-photos-2.jpg/{_document}/hippogallery:original" width="160" /&gt;&lt;/p&gt;</sv:value>
+            </sv:property>
+            <sv:node sv:name="new-photos.jpg">
+              <sv:property sv:name="jcr:primaryType" sv:type="Name">
+                <sv:value>hippo:facetselect</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:docbase" sv:type="String">
+                <sv:value>de698add-6f90-4cb4-8aa6-a7b4b8b49f1a</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+            </sv:node>
+            <sv:node sv:name="new-photos-3.jpg">
+              <sv:property sv:name="jcr:primaryType" sv:type="Name">
+                <sv:value>hippo:facetselect</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:docbase" sv:type="String">
+                <sv:value>e94dc46f-de28-4675-985f-e65ee6145c18</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+            </sv:node>
+            <sv:node sv:name="new-photos-2.jpg">
+              <sv:property sv:name="jcr:primaryType" sv:type="Name">
+                <sv:value>hippo:facetselect</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:docbase" sv:type="String">
+                <sv:value>47191f83-2826-470b-ad0d-e3d93dda4d11</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+            </sv:node>
+          </sv:node>
+          <sv:node sv:name="amhippo:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="cursos-de-filosofia-y-practica-de-meditacion">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:handle</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+          <sv:value>hippo:translated</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>b7a496d8-ed03-4bce-b8af-4c950fc511f8</sv:value>
+        </sv:property>
+        <sv:node sv:name="hippo:translation">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippo:translation</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:language" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="hippo:message" sv:type="String">
+            <sv:value>Cursos de Filosofia y práctica de meditación</sv:value>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="cursos-de-filosofia-y-practica-de-meditacion">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>amhippo:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:referenceable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>647b148c-80aa-42ff-a508-f0c25e320634</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:author" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:date" sv:type="Date">
+            <sv:value>2015-06-11T14:14:00.000Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:introduction" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:location" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:source" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:title" sv:type="String">
+            <sv:value>Cursos de Filosofia y práctica de meditación</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2015/06/cursos-de-filosofia-y-practica-de-meditacion/cursos-de-filosofia-y-practica-de-meditacion[2]</sv:value>
+            <sv:value>news/2015/06/cursos-de-filosofia-y-practica-de-meditacion/cursos-de-filosofia-y-practica-de-meditacion[3]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>draft</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>diditejasvinii</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2015-06-11T14:13:49.363Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2015-06-11T14:13:49.504Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>diditejasvinii</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>1ff2b5ec-2276-4d5f-814b-db1f881ae15d</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>es</sv:value>
+          </sv:property>
+          <sv:node sv:name="amhippo:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p&gt;&lt;strong&gt;&lt;u&gt;Cursos de Filosofia y práctica de meditación&lt;/u&gt;&lt;/strong&gt; – Las Palmas, Gran Canaria&lt;/p&gt; 
+&lt;p&gt;En Las Palmas estamos ofreciendo cursos para profundizar en la teoría y práctica de la meditación. El curso se enfoca en cómo desarrollar las capas de la mente y una personalidad balanceada a través del Tantra Yoga. Para más información contactar: Istamaya Turunen, 928676147/ 675022160&lt;/p&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="amhippo:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+        </sv:node>
+        <sv:node sv:name="cursos-de-filosofia-y-practica-de-meditacion">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>amhippo:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:versionable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>4f64bda8-70d4-49c8-9cda-692865d63089</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:author" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:date" sv:type="Date">
+            <sv:value>2015-06-11T14:14:00.000Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:introduction" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:location" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:source" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:title" sv:type="String">
+            <sv:value>Cursos de Filosofia y práctica de meditación</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+            <sv:value>preview</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2015/06/cursos-de-filosofia-y-practica-de-meditacion/cursos-de-filosofia-y-practica-de-meditacion[3]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>unpublished</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>diditejasvinii</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2015-06-11T14:13:49.363Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2015-06-11T14:15:10.383Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>diditejasvinii</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>1ff2b5ec-2276-4d5f-814b-db1f881ae15d</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>es</sv:value>
+          </sv:property>
+          <sv:node sv:name="amhippo:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p&gt;&lt;strong&gt;&lt;u&gt;Cursos de Filosofia y práctica de meditación&lt;/u&gt;&lt;/strong&gt; – Las Palmas, Gran Canaria&lt;/p&gt; 
+&lt;p&gt;En Las Palmas estamos ofreciendo cursos para profundizar en la teoría y práctica de la meditación. El curso se enfoca en cómo desarrollar las capas de la mente y una personalidad balanceada a través del Tantra Yoga. Para más información contactar: Istamaya Turunen, 928676147/ 675022160&lt;/p&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="amhippo:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+        </sv:node>
+        <sv:node sv:name="cursos-de-filosofia-y-practica-de-meditacion">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>amhippo:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:referenceable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>d8f1696f-13f2-47cb-a4c4-4990fe337df4</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:author" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:date" sv:type="Date">
+            <sv:value>2015-06-11T14:14:00.000Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="amhippo:introduction" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:location" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:source" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="amhippo:title" sv:type="String">
+            <sv:value>Cursos de Filosofia y práctica de meditación</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2015/06/cursos-de-filosofia-y-practica-de-meditacion/cursos-de-filosofia-y-practica-de-meditacion[2]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>published</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>diditejasvinii</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2015-06-11T14:13:49.363Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2015-06-11T14:15:10.383Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>diditejasvinii</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+            <sv:value>2015-06-12T20:27:18.495Z</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>1ff2b5ec-2276-4d5f-814b-db1f881ae15d</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>es</sv:value>
+          </sv:property>
+          <sv:node sv:name="amhippo:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p&gt;&lt;strong&gt;&lt;u&gt;Cursos de Filosofia y práctica de meditación&lt;/u&gt;&lt;/strong&gt; – Las Palmas, Gran Canaria&lt;/p&gt; 
+&lt;p&gt;En Las Palmas estamos ofreciendo cursos para profundizar en la teoría y práctica de la meditación. El curso se enfoca en cómo desarrollar las capas de la mente y una personalidad balanceada a través del Tantra Yoga. Para más información contactar: Istamaya Turunen, 928676147/ 675022160&lt;/p&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="amhippo:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="07">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippostd:folder</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>hippotranslation:translated</sv:value>
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>5a904bcc-e956-4af5-9f45-b2752a656b5e</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+        <sv:value>new-news-folder</sv:value>
+        <sv:value>new-news-document</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>aa4425dd-04f3-4224-815b-a5b7238e5044</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>es</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="08">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippostd:folder</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>hippotranslation:translated</sv:value>
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>d9abda64-81b7-4491-a0f0-6343475fde40</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+        <sv:value>new-news-folder</sv:value>
+        <sv:value>new-news-document</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>de4240ae-2d41-48fb-ab78-b4aa6364cc0a</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>es</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="09">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippostd:folder</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>hippotranslation:translated</sv:value>
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>ffa042b8-dbc3-48e9-9212-ba670f0926c8</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+        <sv:value>new-news-folder</sv:value>
+        <sv:value>new-news-document</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>8646eed1-b636-4053-91a9-7eff66aa82ce</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>es</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="10">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippostd:folder</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>hippotranslation:translated</sv:value>
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>3d41736b-29b4-4f96-a710-b62a2f9e9d8f</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+        <sv:value>new-news-folder</sv:value>
+        <sv:value>new-news-document</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>ae3fdb3e-8690-4357-91b5-7c0b0e84b5a1</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>es</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="11">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippostd:folder</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>hippotranslation:translated</sv:value>
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>c68b086b-b98a-4f7d-ad30-b0c8d559eea6</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+        <sv:value>new-news-folder</sv:value>
+        <sv:value>new-news-document</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>29662c6d-7269-470a-b336-e500d2a70e07</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>es</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="12">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippostd:folder</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>hippotranslation:translated</sv:value>
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>b61b1de3-24b9-4008-bf08-1015edd3b025</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+        <sv:value>new-news-folder</sv:value>
+        <sv:value>new-news-document</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>e6ef29f4-0e7d-454b-a0b7-60c211dbd9b3</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>es</sv:value>
+      </sv:property>
+    </sv:node>
+  </sv:node>
 </sv:node>

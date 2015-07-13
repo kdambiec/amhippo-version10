@@ -28,3 +28,18 @@ Stacktrace: at org.apache.jasper.servlet.JspServletWrapper.handleJspException(Js
 
 
 Stacktrace: 
+13.07.2015 22:09:10 WARN  http-nio-8080-exec-23 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
+13.07.2015 22:09:10 WARN  http-nio-8080-exec-28 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
+13.07.2015 22:09:14 WARN  http-nio-8080-exec-28 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
+13.07.2015 22:09:15 WARN  http-nio-8080-exec-30 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
+13.07.2015 22:09:53 WARN  http-nio-8080-exec-24 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
+13.07.2015 22:09:54 WARN  http-nio-8080-exec-27 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
+13.07.2015 22:10:09 WARN  http-nio-8080-exec-23 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
+13.07.2015 22:10:09 WARN  http-nio-8080-exec-28 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
+13.07.2015 22:10:37 WARN  http-nio-8080-exec-25 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
+13.07.2015 22:10:37 WARN  http-nio-8080-exec-19 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
+13.07.2015 22:10:45 WARN  http-nio-8080-exec-30 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
+13.07.2015 22:10:51 WARN  http-nio-8080-exec-21 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
+13.07.2015 22:10:57 WARN  http-nio-8080-exec-21 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
+13.07.2015 22:10:58 WARN  http-nio-8080-exec-29 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
+13.07.2015 22:11:07 WARN  http-nio-8080-exec-19 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
