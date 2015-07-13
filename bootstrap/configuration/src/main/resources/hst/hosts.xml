@@ -33,9 +33,6 @@
           <sv:property sv:name="jcr:primaryType" sv:type="Name">
             <sv:value>hst:mount</sv:value>
           </sv:property>
-          <sv:property sv:name="hst:channelpath" sv:type="String">
-            <sv:value>/hst:hst/hst:channels/amhippo-es</sv:value>
-          </sv:property>
           <sv:property sv:name="hst:locale" sv:type="String">
             <sv:value>es_ES</sv:value>
           </sv:property>
