@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><sv:node xmlns:sv="http://www.jcp.org/jcr/sv/1.0" xmlns:esv="http://www.onehippo.org/jcr/xmlimport" sv:name="hst:templates" esv:merge="combine">
+  <sv:node sv:name="contactslist">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hst:template</sv:value>
+    </sv:property>
+    <sv:property sv:name="hst:renderpath" sv:type="String">
+      <sv:value>jsp/amhippo/contactslist.jsp</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="contactspage-main">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hst:template</sv:value>
+    </sv:property>
+    <sv:property sv:name="hst:renderpath" sv:type="String">
+      <sv:value>jsp/amhippoproject/contactspage-main.jsp</sv:value>
+    </sv:property>
+  </sv:node>
+</sv:node>

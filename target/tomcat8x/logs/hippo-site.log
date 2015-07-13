@@ -1,0 +1,30 @@
+13.07.2015 21:08:47 WARN  http-nio-8080-exec-24 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
+13.07.2015 21:09:07 WARN  http-nio-8080-exec-24 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
+13.07.2015 21:09:07 WARN  http-nio-8080-exec-25 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
+13.07.2015 21:09:13 WARN  http-nio-8080-exec-25 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
+13.07.2015 21:09:14 WARN  http-nio-8080-exec-23 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
+13.07.2015 22:07:25 WARN  http-nio-8080-exec-30 [HstComponentInvokerImpl.logComponentException:256] Component exception caught on window 'main' with component 'org.onehippo.cms7.essentials.components.EssentialsListComponent': org.apache.jasper.JasperException: An exception occurred processing JSP page /WEB-INF/jsp/amhippo/contactslist.jsp at line 21
+
+18:     <div class="row">
+19:         <hst:link var="link" hippobean="${item}"/>
+20:         <article class="has-edit-button">
+21:             <h3><a href="${link}"><c:out value="${item.cityName}"/></a></h3>
+22:             <!-- Contact Details Column -->
+23:             <div class="col-md-4">
+24:                 <c:if test="${not empty item.contactPhoto}">
+
+
+Stacktrace: at org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:567)
+13.07.2015 22:07:25 WARN  http-nio-8080-exec-30 [AbstractBaseOrderableValve.handleComponentExceptions:299] Component exception(s) found in page request, 'Request{ method='GET', scheme='http', host='localhost:8080', requestURI='/site/es/contacts', queryString='null'}'.
+13.07.2015 22:07:25 WARN  http-nio-8080-exec-30 [DefaultPageErrorHandler.logWarningsForEachComponentExceptions:51] Component exception on org.onehippo.cms7.essentials.components.EssentialsListComponent : org.apache.jasper.JasperException: An exception occurred processing JSP page /WEB-INF/jsp/amhippo/contactslist.jsp at line 21
+
+18:     <div class="row">
+19:         <hst:link var="link" hippobean="${item}"/>
+20:         <article class="has-edit-button">
+21:             <h3><a href="${link}"><c:out value="${item.cityName}"/></a></h3>
+22:             <!-- Contact Details Column -->
+23:             <div class="col-md-4">
+24:                 <c:if test="${not empty item.contactPhoto}">
+
+
+Stacktrace: 
