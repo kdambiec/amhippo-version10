@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5e44af9-e5de-4774-8bcb-9ee9ba751cd7" name="Default" comment="Initial Template work">
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\logs\catalina.2015-07-12.log" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\logs\host-manager.2015-07-12.log" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\logs\localhost.2015-07-12.log" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\logs\localhost_access_log..2015-07-12.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\target\tomcat8x\logs\manager.2015-07-12.log" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\storage\version\db.lock.db" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Karun\IdeaProjects\amhippo\storage\workspaces\default\db.lock.db" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/configuration/target/amhippo-bootstrap-configuration-1.01.00-SNAPSHOT-sources.jar" afterPath="$PROJECT_DIR$/bootstrap/configuration/target/amhippo-bootstrap-configuration-1.01.00-SNAPSHOT-sources.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/configuration/target/amhippo-bootstrap-configuration-1.01.00-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/bootstrap/configuration/target/amhippo-bootstrap-configuration-1.01.00-SNAPSHOT.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cms/target/cms/WEB-INF/lib/amhippo-bootstrap-configuration-1.01.00-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/cms/target/cms/WEB-INF/lib/amhippo-bootstrap-configuration-1.01.00-SNAPSHOT.jar" />
@@ -30,17 +27,12 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/target/site.war" afterPath="$PROJECT_DIR$/site/target/site.war" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat8x/webapps/site.war" afterPath="$PROJECT_DIR$/target/tomcat8x/webapps/site.war" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/repository/cnd-checksums" afterPath="$PROJECT_DIR$/storage/repository/cnd-checksums" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/configuration/src/main/resources/hst/configurations.xml" afterPath="$PROJECT_DIR$/bootstrap/configuration/src/main/resources/hst/configurations.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/content/src/main/resources/content/documents/amhippo-es/content.xml" afterPath="$PROJECT_DIR$/bootstrap/content/src/main/resources/content/documents/amhippo-es/content.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/version/db.lock.db" afterPath="$PROJECT_DIR$/storage/version/db.lock.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/workspaces/default/db.lock.db" afterPath="$PROJECT_DIR$/storage/workspaces/default/db.lock.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/configuration/target/classes/hst/configurations.xml" afterPath="$PROJECT_DIR$/bootstrap/configuration/target/classes/hst/configurations.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat8x/logs/hippo-audit.log" afterPath="$PROJECT_DIR$/target/tomcat8x/logs/hippo-audit.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat8x/logs/hippo-cms.log" afterPath="$PROJECT_DIR$/target/tomcat8x/logs/hippo-cms.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat8x/logs/hippo-site.log" afterPath="$PROJECT_DIR$/target/tomcat8x/logs/hippo-site.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/configuration/target/classes/hippoecm-extension.xml" afterPath="$PROJECT_DIR$/bootstrap/configuration/target/classes/hippoecm-extension.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/content/target/classes/hippoecm-extension.xml" afterPath="$PROJECT_DIR$/bootstrap/content/target/classes/hippoecm-extension.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/configuration/src/main/resources/hst/hosts.xml" afterPath="$PROJECT_DIR$/bootstrap/configuration/src/main/resources/hst/hosts.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/configuration/target/classes/hst/hosts.xml" afterPath="$PROJECT_DIR$/bootstrap/configuration/target/classes/hst/hosts.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/configuration/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/bootstrap/configuration/target/maven-archiver/pom.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/content/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/bootstrap/content/target/maven-archiver/pom.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/webfiles/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/bootstrap/webfiles/target/maven-archiver/pom.properties" />
@@ -50,8 +42,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat8x/webapps/cms/META-INF/maven/anandamarga/amhippo-cms/pom.properties" afterPath="$PROJECT_DIR$/target/tomcat8x/webapps/cms/META-INF/maven/anandamarga/amhippo-cms/pom.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat8x/webapps/essentials/META-INF/maven/anandamarga/amhippo-essentials/pom.properties" afterPath="$PROJECT_DIR$/target/tomcat8x/webapps/essentials/META-INF/maven/anandamarga/amhippo-essentials/pom.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat8x/webapps/site/META-INF/maven/anandamarga/amhippo-site/pom.properties" afterPath="$PROJECT_DIR$/target/tomcat8x/webapps/site/META-INF/maven/anandamarga/amhippo-site/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/configuration/src/main/resources/hst/sites.xml" afterPath="$PROJECT_DIR$/bootstrap/configuration/src/main/resources/hst/sites.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/configuration/target/classes/hst/sites.xml" afterPath="$PROJECT_DIR$/bootstrap/configuration/target/classes/hst/sites.xml" />
     </list>
     <ignored path="amhippo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -86,7 +77,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -96,7 +89,29 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#549#550#0" expanded="false" />
+                <element signature="e#598#599#0" expanded="false" />
+                <element signature="e#690#691#0" expanded="false" />
+                <element signature="e#734#735#0" expanded="false" />
+                <element signature="e#828#829#0" expanded="false" />
+                <element signature="e#873#874#0" expanded="false" />
+                <element signature="e#961#962#0" expanded="false" />
+                <element signature="e#1003#1004#0" expanded="false" />
+                <element signature="e#1103#1104#0" expanded="false" />
+                <element signature="e#1151#1152#0" expanded="false" />
+                <element signature="e#1255#1256#0" expanded="false" />
+                <element signature="e#1305#1306#0" expanded="false" />
+                <element signature="e#1407#1408#0" expanded="false" />
+                <element signature="e#1456#1457#0" expanded="false" />
+                <element signature="e#1562#1563#0" expanded="false" />
+                <element signature="e#1613#1614#0" expanded="false" />
+                <element signature="e#1713#1714#0" expanded="false" />
+                <element signature="e#1761#1762#0" expanded="false" />
+                <element signature="e#1863#1864#0" expanded="false" />
+                <element signature="e#1912#1913#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -883,7 +898,7 @@
       <updated>1436650097224</updated>
       <workItem from="1436650101190" duration="6230000" />
       <workItem from="1436690638300" duration="2542000" />
-      <workItem from="1436803164911" duration="1606000" />
+      <workItem from="1436803164911" duration="2203000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Template work">
       <created>1436652833625</created>
@@ -895,7 +910,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10378000" />
+    <option name="totallyTimeSpent" value="10975000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="-13" width="3226" height="1754" extended-state="6" />
@@ -950,7 +965,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -958,7 +975,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#549#550#0" expanded="false" />
+            <element signature="e#598#599#0" expanded="false" />
+            <element signature="e#690#691#0" expanded="false" />
+            <element signature="e#734#735#0" expanded="false" />
+            <element signature="e#828#829#0" expanded="false" />
+            <element signature="e#873#874#0" expanded="false" />
+            <element signature="e#961#962#0" expanded="false" />
+            <element signature="e#1003#1004#0" expanded="false" />
+            <element signature="e#1103#1104#0" expanded="false" />
+            <element signature="e#1151#1152#0" expanded="false" />
+            <element signature="e#1255#1256#0" expanded="false" />
+            <element signature="e#1305#1306#0" expanded="false" />
+            <element signature="e#1407#1408#0" expanded="false" />
+            <element signature="e#1456#1457#0" expanded="false" />
+            <element signature="e#1562#1563#0" expanded="false" />
+            <element signature="e#1613#1614#0" expanded="false" />
+            <element signature="e#1713#1714#0" expanded="false" />
+            <element signature="e#1761#1762#0" expanded="false" />
+            <element signature="e#1863#1864#0" expanded="false" />
+            <element signature="e#1912#1913#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1128,7 +1167,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1136,7 +1177,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#549#550#0" expanded="false" />
+            <element signature="e#598#599#0" expanded="false" />
+            <element signature="e#690#691#0" expanded="false" />
+            <element signature="e#734#735#0" expanded="false" />
+            <element signature="e#828#829#0" expanded="false" />
+            <element signature="e#873#874#0" expanded="false" />
+            <element signature="e#961#962#0" expanded="false" />
+            <element signature="e#1003#1004#0" expanded="false" />
+            <element signature="e#1103#1104#0" expanded="false" />
+            <element signature="e#1151#1152#0" expanded="false" />
+            <element signature="e#1255#1256#0" expanded="false" />
+            <element signature="e#1305#1306#0" expanded="false" />
+            <element signature="e#1407#1408#0" expanded="false" />
+            <element signature="e#1456#1457#0" expanded="false" />
+            <element signature="e#1562#1563#0" expanded="false" />
+            <element signature="e#1613#1614#0" expanded="false" />
+            <element signature="e#1713#1714#0" expanded="false" />
+            <element signature="e#1761#1762#0" expanded="false" />
+            <element signature="e#1863#1864#0" expanded="false" />
+            <element signature="e#1912#1913#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
