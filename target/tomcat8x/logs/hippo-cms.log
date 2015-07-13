@@ -1,3 +1,4 @@
 13.07.2015 18:20:56 WARN  localhost-startStop-1 [RepositoryServlet.parseInitParameters:143] Cannot determine the real path of the repository storage location, 'WEB-INF/storage'. Defaults to './repository_storage'
 13.07.2015 18:20:56 WARN  localhost-startStop-1 [RepositoryLock.acquire:134] Existing lock file C:\Users\Karun\IdeaProjects\amhippo\storage\.lock detected. Repository was not shut down properly.
 13.07.2015 18:33:28 ERROR http-nio-8080-exec-5 [PropertyDialog.onOk:377] javax.jcr.nodetype.ConstraintViolationException : no matching property definition found for {}amhippo-es
+13.07.2015 18:57:37 ERROR http-nio-8080-exec-7 [PropertyDialog.onOk:377] javax.jcr.nodetype.ConstraintViolationException : no matching property definition found for {http://www.hippoecm.org/hst/nt/2.1}channelinfo

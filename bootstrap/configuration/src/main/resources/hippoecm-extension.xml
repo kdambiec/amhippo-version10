@@ -981,4 +981,284 @@
       <sv:value>/hippo:configuration/hippo:frontend</sv:value>
     </sv:property>
   </sv:node>
+<sv:node sv:name="amhippo-hst-hst-hst-channels-amhippo-es">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:initializeitem</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:sequence" sv:type="Double">
+      <sv:value>30054.0</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentresource" sv:type="String">
+      <sv:value>hst/channels/amhippo-es.xml</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentroot" sv:type="String">
+      <sv:value>/hst:hst/hst:channels</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="amhippo-hst-hst-hst-configurations-amhippo-es-hst-prototypepages">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:initializeitem</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:sequence" sv:type="Double">
+      <sv:value>30056.0</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentresource" sv:type="String">
+      <sv:value>hst/configurations/amhippo-es/prototypepages.xml</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentroot" sv:type="String">
+      <sv:value>/hst:hst/hst:configurations/amhippo-es</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="amhippo-hst-hst-hst-configurations-amhippo-es-hst-templates">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:initializeitem</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:sequence" sv:type="Double">
+      <sv:value>30056.0</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentresource" sv:type="String">
+      <sv:value>hst/configurations/amhippo-es/templates.xml</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentroot" sv:type="String">
+      <sv:value>/hst:hst/hst:configurations/amhippo-es</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="amhippo-hst-hst-hst-configurations-amhippo-es-hst-components">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:initializeitem</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:sequence" sv:type="Double">
+      <sv:value>30056.0</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentresource" sv:type="String">
+      <sv:value>hst/configurations/amhippo-es/components.xml</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentroot" sv:type="String">
+      <sv:value>/hst:hst/hst:configurations/amhippo-es</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="amhippo-hst-hst-hst-configurations-amhippo-es-hst-pages">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:initializeitem</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:sequence" sv:type="Double">
+      <sv:value>30056.0</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentresource" sv:type="String">
+      <sv:value>hst/configurations/amhippo-es/pages.xml</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentroot" sv:type="String">
+      <sv:value>/hst:hst/hst:configurations/amhippo-es</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="amhippo-hst-hst-hst-configurations-amhippo-es-hst-pages-bloglist">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:initializeitem</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:sequence" sv:type="Double">
+      <sv:value>30057.0</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentresource" sv:type="String">
+      <sv:value>hst/configurations/amhippo-es/pages/bloglist.xml</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentroot" sv:type="String">
+      <sv:value>/hst:hst/hst:configurations/amhippo-es/hst:pages</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="amhippo-hst-hst-hst-configurations-amhippo-es-hst-abstractpages-base">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:initializeitem</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:sequence" sv:type="Double">
+      <sv:value>30057.0</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentresource" sv:type="String">
+      <sv:value>hst/configurations/amhippo-es/abstractpages/base.xml</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentroot" sv:type="String">
+      <sv:value>/hst:hst/hst:configurations/amhippo-es/hst:abstractpages</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="amhippo-hst-hst-hst-configurations-amhippo-es-hst-pages-blog">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:initializeitem</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:sequence" sv:type="Double">
+      <sv:value>30057.0</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentresource" sv:type="String">
+      <sv:value>hst/configurations/amhippo-es/pages/blog.xml</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentroot" sv:type="String">
+      <sv:value>/hst:hst/hst:configurations/amhippo-es/hst:pages</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="amhippo-hst-hst-hst-configurations-amhippo-es-hst-pages-pagenotfound">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:initializeitem</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:sequence" sv:type="Double">
+      <sv:value>30057.0</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentresource" sv:type="String">
+      <sv:value>hst/configurations/amhippo-es/pages/pagenotfound.xml</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentroot" sv:type="String">
+      <sv:value>/hst:hst/hst:configurations/amhippo-es/hst:pages</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="amhippo-hst-hst-hst-configurations-amhippo-es-hst-workspace">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:initializeitem</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:sequence" sv:type="Double">
+      <sv:value>30056.0</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentresource" sv:type="String">
+      <sv:value>hst/configurations/amhippo-es/workspace.xml</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentroot" sv:type="String">
+      <sv:value>/hst:hst/hst:configurations/amhippo-es</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="amhippo-hst-hst-hst-configurations-amhippo-es-hst-pages-blogpage">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:initializeitem</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:sequence" sv:type="Double">
+      <sv:value>30057.0</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentresource" sv:type="String">
+      <sv:value>hst/configurations/amhippo-es/pages/blogpage.xml</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentroot" sv:type="String">
+      <sv:value>/hst:hst/hst:configurations/amhippo-es/hst:pages</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="amhippo-hst-hst-hst-configurations-amhippo-es-hst-pages-homepage">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:initializeitem</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:sequence" sv:type="Double">
+      <sv:value>30057.0</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentresource" sv:type="String">
+      <sv:value>hst/configurations/amhippo-es/pages/homepage.xml</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentroot" sv:type="String">
+      <sv:value>/hst:hst/hst:configurations/amhippo-es/hst:pages</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="amhippo-hst-hst-hst-configurations-amhippo-es-hst-pages-contentlist">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:initializeitem</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:sequence" sv:type="Double">
+      <sv:value>30057.0</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentresource" sv:type="String">
+      <sv:value>hst/configurations/amhippo-es/pages/contentlist.xml</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentroot" sv:type="String">
+      <sv:value>/hst:hst/hst:configurations/amhippo-es/hst:pages</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="amhippo-hst-hst-hst-configurations-amhippo-es-hst-pages-newslist">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:initializeitem</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:sequence" sv:type="Double">
+      <sv:value>30057.0</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentresource" sv:type="String">
+      <sv:value>hst/configurations/amhippo-es/pages/newslist.xml</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentroot" sv:type="String">
+      <sv:value>/hst:hst/hst:configurations/amhippo-es/hst:pages</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="amhippo-hst-hst-hst-configurations-amhippo-es-hst-catalog">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:initializeitem</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:sequence" sv:type="Double">
+      <sv:value>30056.0</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentresource" sv:type="String">
+      <sv:value>hst/configurations/amhippo-es/catalog.xml</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentroot" sv:type="String">
+      <sv:value>/hst:hst/hst:configurations/amhippo-es</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="amhippo-hst-hst-hst-configurations-amhippo-es-hst-sitemenus">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:initializeitem</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:sequence" sv:type="Double">
+      <sv:value>30056.0</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentresource" sv:type="String">
+      <sv:value>hst/configurations/amhippo-es/sitemenus.xml</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentroot" sv:type="String">
+      <sv:value>/hst:hst/hst:configurations/amhippo-es</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="amhippo-hst-hst-hst-configurations-amhippo-es-hst-pages-contentpage">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:initializeitem</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:sequence" sv:type="Double">
+      <sv:value>30057.0</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentresource" sv:type="String">
+      <sv:value>hst/configurations/amhippo-es/pages/contentpage.xml</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentroot" sv:type="String">
+      <sv:value>/hst:hst/hst:configurations/amhippo-es/hst:pages</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="amhippo-hst-hst-hst-configurations-amhippo-es-hst-pages-newspage">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:initializeitem</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:sequence" sv:type="Double">
+      <sv:value>30057.0</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentresource" sv:type="String">
+      <sv:value>hst/configurations/amhippo-es/pages/newspage.xml</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentroot" sv:type="String">
+      <sv:value>/hst:hst/hst:configurations/amhippo-es/hst:pages</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="amhippo-hst-hst-hst-configurations-amhippo-es-hst-abstractpages">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:initializeitem</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:sequence" sv:type="Double">
+      <sv:value>30056.0</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentresource" sv:type="String">
+      <sv:value>hst/configurations/amhippo-es/abstractpages.xml</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentroot" sv:type="String">
+      <sv:value>/hst:hst/hst:configurations/amhippo-es</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="amhippo-hst-hst-hst-configurations-amhippo-es-hst-sitemap">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:initializeitem</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:sequence" sv:type="Double">
+      <sv:value>30056.0</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentresource" sv:type="String">
+      <sv:value>hst/configurations/amhippo-es/sitemap.xml</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentroot" sv:type="String">
+      <sv:value>/hst:hst/hst:configurations/amhippo-es</sv:value>
+    </sv:property>
+  </sv:node>
 </sv:node>
