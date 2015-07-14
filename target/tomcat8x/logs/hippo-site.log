@@ -1,48 +1,28 @@
-13.07.2015 21:08:47 WARN  http-nio-8080-exec-24 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
-13.07.2015 21:09:07 WARN  http-nio-8080-exec-24 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
-13.07.2015 21:09:07 WARN  http-nio-8080-exec-25 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
-13.07.2015 21:09:13 WARN  http-nio-8080-exec-25 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
-13.07.2015 21:09:14 WARN  http-nio-8080-exec-23 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
-13.07.2015 22:07:25 WARN  http-nio-8080-exec-30 [HstComponentInvokerImpl.logComponentException:256] Component exception caught on window 'main' with component 'org.onehippo.cms7.essentials.components.EssentialsListComponent': org.apache.jasper.JasperException: An exception occurred processing JSP page /WEB-INF/jsp/amhippo/contactslist.jsp at line 21
+14.07.2015 23:16:01 WARN  http-nio-8080-exec-7 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
+14.07.2015 23:16:02 WARN  http-nio-8080-exec-8 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
+14.07.2015 23:23:32 WARN  http-nio-8080-exec-10 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
+14.07.2015 23:23:35 WARN  http-nio-8080-exec-5 [HstComponentInvokerImpl.logComponentException:256] Component exception caught on window 'main' with component 'org.onehippo.cms7.essentials.components.EssentialsListComponent': org.apache.jasper.JasperException: An exception occurred processing JSP page /WEB-INF/jsp/amhippo/contactslist.jsp at line 52
 
-18:     <div class="row">
-19:         <hst:link var="link" hippobean="${item}"/>
-20:         <article class="has-edit-button">
-21:             <h3><a href="${link}"><c:out value="${item.cityName}"/></a></h3>
-22:             <!-- Contact Details Column -->
-23:             <div class="col-md-4">
-24:                 <c:if test="${not empty item.contactPhoto}">
+49:                                     class="fa fa-facebook-square fa-2x"></i></a>
+50:                         </li>
+51:                     </c:if>
+52:                     <c:if test="${not empty item.linkedinLink}">
+53:                         <li>
+54:                             <a href="${item.linkedinLink}" target="_blank"><i
+55:                                     class="fa fa-linkedin-square fa-2x"></i></a>
 
 
 Stacktrace: at org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:567)
-13.07.2015 22:07:25 WARN  http-nio-8080-exec-30 [AbstractBaseOrderableValve.handleComponentExceptions:299] Component exception(s) found in page request, 'Request{ method='GET', scheme='http', host='localhost:8080', requestURI='/site/es/contacts', queryString='null'}'.
-13.07.2015 22:07:25 WARN  http-nio-8080-exec-30 [DefaultPageErrorHandler.logWarningsForEachComponentExceptions:51] Component exception on org.onehippo.cms7.essentials.components.EssentialsListComponent : org.apache.jasper.JasperException: An exception occurred processing JSP page /WEB-INF/jsp/amhippo/contactslist.jsp at line 21
+14.07.2015 23:23:35 WARN  http-nio-8080-exec-5 [AbstractBaseOrderableValve.handleComponentExceptions:299] Component exception(s) found in page request, 'Request{ method='GET', scheme='http', host='localhost:8080', requestURI='/site/es/contacts', queryString='null'}'.
+14.07.2015 23:23:35 WARN  http-nio-8080-exec-5 [DefaultPageErrorHandler.logWarningsForEachComponentExceptions:51] Component exception on org.onehippo.cms7.essentials.components.EssentialsListComponent : org.apache.jasper.JasperException: An exception occurred processing JSP page /WEB-INF/jsp/amhippo/contactslist.jsp at line 52
 
-18:     <div class="row">
-19:         <hst:link var="link" hippobean="${item}"/>
-20:         <article class="has-edit-button">
-21:             <h3><a href="${link}"><c:out value="${item.cityName}"/></a></h3>
-22:             <!-- Contact Details Column -->
-23:             <div class="col-md-4">
-24:                 <c:if test="${not empty item.contactPhoto}">
+49:                                     class="fa fa-facebook-square fa-2x"></i></a>
+50:                         </li>
+51:                     </c:if>
+52:                     <c:if test="${not empty item.linkedinLink}">
+53:                         <li>
+54:                             <a href="${item.linkedinLink}" target="_blank"><i
+55:                                     class="fa fa-linkedin-square fa-2x"></i></a>
 
 
 Stacktrace: 
-13.07.2015 22:09:10 WARN  http-nio-8080-exec-23 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
-13.07.2015 22:09:10 WARN  http-nio-8080-exec-28 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
-13.07.2015 22:09:14 WARN  http-nio-8080-exec-28 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
-13.07.2015 22:09:15 WARN  http-nio-8080-exec-30 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
-13.07.2015 22:09:53 WARN  http-nio-8080-exec-24 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
-13.07.2015 22:09:54 WARN  http-nio-8080-exec-27 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
-13.07.2015 22:10:09 WARN  http-nio-8080-exec-23 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
-13.07.2015 22:10:09 WARN  http-nio-8080-exec-28 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
-13.07.2015 22:10:37 WARN  http-nio-8080-exec-25 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
-13.07.2015 22:10:37 WARN  http-nio-8080-exec-19 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
-13.07.2015 22:10:45 WARN  http-nio-8080-exec-30 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
-13.07.2015 22:10:51 WARN  http-nio-8080-exec-21 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
-13.07.2015 22:10:57 WARN  http-nio-8080-exec-21 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
-13.07.2015 22:10:58 WARN  http-nio-8080-exec-29 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
-13.07.2015 22:11:07 WARN  http-nio-8080-exec-19 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
-13.07.2015 22:24:04 WARN  http-nio-8080-exec-21 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
-13.07.2015 22:24:19 WARN  http-nio-8080-exec-24 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
-13.07.2015 22:36:22 WARN  http-nio-8080-exec-28 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
