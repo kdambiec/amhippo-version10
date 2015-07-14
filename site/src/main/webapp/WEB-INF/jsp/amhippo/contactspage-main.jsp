@@ -54,9 +54,9 @@
                                     class="fa fa-facebook-square fa-2x"></i></a>
                         </li>
                     </c:if>
-                    <c:if test="${not empty document.linkedinLink}">
+                    <c:if test="${not empty document.linkedInLink}">
                         <li>
-                            <a href="${document.linkedinLink}" target="_blank"><i
+                            <a href="${document.linkedInLink}" target="_blank"><i
                                     class="fa fa-linkedin-square fa-2x"></i></a>
                         </li>
                     </c:if>

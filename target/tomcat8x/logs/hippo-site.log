@@ -1,28 +1,28 @@
-14.07.2015 23:16:01 WARN  http-nio-8080-exec-7 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
-14.07.2015 23:16:02 WARN  http-nio-8080-exec-8 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
-14.07.2015 23:23:32 WARN  http-nio-8080-exec-10 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
-14.07.2015 23:23:35 WARN  http-nio-8080-exec-5 [HstComponentInvokerImpl.logComponentException:256] Component exception caught on window 'main' with component 'org.onehippo.cms7.essentials.components.EssentialsListComponent': org.apache.jasper.JasperException: An exception occurred processing JSP page /WEB-INF/jsp/amhippo/contactslist.jsp at line 52
+14.07.2015 23:28:07 WARN  http-nio-8080-exec-10 [HstComponentInvokerImpl.logComponentException:256] Component exception caught on window 'main' with component 'org.onehippo.cms7.essentials.components.EssentialsContentComponent': javax.servlet.ServletException: File [/WEB-INF/jsp/amhippoproject/contactspage-main.jsp] not found at org.apache.jasper.servlet.JspServlet.handleMissingResource(JspServlet.java:418)
+14.07.2015 23:28:07 WARN  http-nio-8080-exec-10 [AbstractBaseOrderableValve.handleComponentExceptions:299] Component exception(s) found in page request, 'Request{ method='GET', scheme='http', host='localhost:8080', requestURI='/site/es/contacts/valencia.html', queryString='null'}'.
+14.07.2015 23:28:07 WARN  http-nio-8080-exec-10 [DefaultPageErrorHandler.logWarningsForEachComponentExceptions:51] Component exception on org.onehippo.cms7.essentials.components.EssentialsContentComponent : javax.servlet.ServletException: File [/WEB-INF/jsp/amhippoproject/contactspage-main.jsp] not found 
+14.07.2015 23:29:33 WARN  http-nio-8080-exec-5 [HstComponentInvokerImpl.logComponentException:256] Component exception caught on window 'main' with component 'org.onehippo.cms7.essentials.components.EssentialsContentComponent': org.apache.jasper.JasperException: An exception occurred processing JSP page /WEB-INF/jsp/amhippo/contactspage-main.jsp at line 57
 
-49:                                     class="fa fa-facebook-square fa-2x"></i></a>
-50:                         </li>
-51:                     </c:if>
-52:                     <c:if test="${not empty item.linkedinLink}">
-53:                         <li>
-54:                             <a href="${item.linkedinLink}" target="_blank"><i
-55:                                     class="fa fa-linkedin-square fa-2x"></i></a>
+54:                                     class="fa fa-facebook-square fa-2x"></i></a>
+55:                         </li>
+56:                     </c:if>
+57:                     <c:if test="${not empty document.linkedinLink}">
+58:                         <li>
+59:                             <a href="${document.linkedinLink}" target="_blank"><i
+60:                                     class="fa fa-linkedin-square fa-2x"></i></a>
 
 
 Stacktrace: at org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:567)
-14.07.2015 23:23:35 WARN  http-nio-8080-exec-5 [AbstractBaseOrderableValve.handleComponentExceptions:299] Component exception(s) found in page request, 'Request{ method='GET', scheme='http', host='localhost:8080', requestURI='/site/es/contacts', queryString='null'}'.
-14.07.2015 23:23:35 WARN  http-nio-8080-exec-5 [DefaultPageErrorHandler.logWarningsForEachComponentExceptions:51] Component exception on org.onehippo.cms7.essentials.components.EssentialsListComponent : org.apache.jasper.JasperException: An exception occurred processing JSP page /WEB-INF/jsp/amhippo/contactslist.jsp at line 52
+14.07.2015 23:29:33 WARN  http-nio-8080-exec-5 [AbstractBaseOrderableValve.handleComponentExceptions:299] Component exception(s) found in page request, 'Request{ method='GET', scheme='http', host='localhost:8080', requestURI='/site/es/contacts/valencia.html', queryString='null'}'.
+14.07.2015 23:29:33 WARN  http-nio-8080-exec-5 [DefaultPageErrorHandler.logWarningsForEachComponentExceptions:51] Component exception on org.onehippo.cms7.essentials.components.EssentialsContentComponent : org.apache.jasper.JasperException: An exception occurred processing JSP page /WEB-INF/jsp/amhippo/contactspage-main.jsp at line 57
 
-49:                                     class="fa fa-facebook-square fa-2x"></i></a>
-50:                         </li>
-51:                     </c:if>
-52:                     <c:if test="${not empty item.linkedinLink}">
-53:                         <li>
-54:                             <a href="${item.linkedinLink}" target="_blank"><i
-55:                                     class="fa fa-linkedin-square fa-2x"></i></a>
+54:                                     class="fa fa-facebook-square fa-2x"></i></a>
+55:                         </li>
+56:                     </c:if>
+57:                     <c:if test="${not empty document.linkedinLink}">
+58:                         <li>
+59:                             <a href="${document.linkedinLink}" target="_blank"><i
+60:                                     class="fa fa-linkedin-square fa-2x"></i></a>
 
 
 Stacktrace: 

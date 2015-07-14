@@ -1,2 +1,2 @@
-13.07.2015 22:58:36 WARN  localhost-startStop-1 [RepositoryServlet.parseInitParameters:143] Cannot determine the real path of the repository storage location, 'WEB-INF/storage'. Defaults to './repository_storage'
-13.07.2015 22:58:36 WARN  localhost-startStop-1 [RepositoryLock.acquire:134] Existing lock file C:\Users\Karun\IdeaProjects\amhippo\storage\.lock detected. Repository was not shut down properly.
+14.07.2015 23:26:41 WARN  localhost-startStop-1 [RepositoryServlet.parseInitParameters:143] Cannot determine the real path of the repository storage location, 'WEB-INF/storage'. Defaults to './repository_storage'
+14.07.2015 23:26:41 WARN  localhost-startStop-1 [RepositoryLock.acquire:134] Existing lock file C:\Users\Karun\IdeaProjects\amhippo\storage\.lock detected. Repository was not shut down properly.
