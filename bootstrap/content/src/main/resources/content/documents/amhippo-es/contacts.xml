@@ -309,4 +309,1130 @@
       </sv:node>
     </sv:node>
   </sv:node>
+  <sv:node sv:name="madrid">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:handle</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+      <sv:value>mix:referenceable</sv:value>
+      <sv:value>hippo:translated</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>cbdc2f81-5b72-4c5a-9e0d-55360c0c350c</sv:value>
+    </sv:property>
+    <sv:node sv:name="madrid">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>amhippo:ContactDocument</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:versionable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>08247e46-7bdf-448c-80d8-10d5628a1a9a</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:CityName" sv:type="String">
+        <sv:value>Madrid</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:Contact Name" sv:type="String">
+        <sv:value>Dada Tiirthadevananda</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:FacebookLink" sv:type="String">
+        <sv:value>https://www.facebook.com/dada.tiirthadevananda</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:address" sv:type="String">
+        <sv:value>&lt;p&gt;calle Gobernador 6&lt;/p&gt;
+
+&lt;p&gt;Madrid&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;(cerca de metro y metro de Atocha Aton Martin )&lt;/p&gt;</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:email" sv:type="String">
+        <sv:value>tiirthadevananda@gmail.com</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:googlePlusLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:linkedInLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:mapApiAddress" sv:type="String">
+        <sv:value>Calle+Gobernador,+6,+28014+Madrid,+Spain</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:phoneNumber" sv:type="String">
+        <sv:value>914201236/636413308</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:twitterLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+        <sv:value>preview</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>contacts/madrid/madrid[3]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>unpublished</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2015-07-14T23:22:10.068+02:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2015-07-15T22:53:30.716+02:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>6c2682f2-835d-460a-9653-1b120a066a9d</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>es</sv:value>
+      </sv:property>
+      <sv:node sv:name="amhippo:contactPhoto">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="hippo:translation">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippo:translation</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:language" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="hippo:message" sv:type="String">
+        <sv:value>Madrid</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="madrid">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>amhippo:ContactDocument</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>8a9d6b1b-58d1-48bf-8e2e-ef0914f5d80b</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:CityName" sv:type="String">
+        <sv:value>Madrid</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:Contact Name" sv:type="String">
+        <sv:value>Dada Tiirthadevananda</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:FacebookLink" sv:type="String">
+        <sv:value>https://www.facebook.com/dada.tiirthadevananda</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:address" sv:type="String">
+        <sv:value>&lt;p&gt;calle Gobernador 6&lt;/p&gt;
+
+&lt;p&gt;Madrid&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;(cerca de metro y metro de Atocha Aton Martin )&lt;/p&gt;</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:email" sv:type="String">
+        <sv:value>tiirthadevananda@gmail.com</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:googlePlusLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:linkedInLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:mapApiAddress" sv:type="String">
+        <sv:value>Calle+Gobernador,+6,+28014+Madrid,+Spain</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:phoneNumber" sv:type="String">
+        <sv:value>914201236/636413308</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:twitterLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>contacts/madrid/madrid</sv:value>
+        <sv:value>contacts/madrid/madrid[3]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>draft</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2015-07-14T23:22:10.068+02:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2015-07-15T22:52:09.430+02:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>6c2682f2-835d-460a-9653-1b120a066a9d</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>es</sv:value>
+      </sv:property>
+      <sv:node sv:name="amhippo:contactPhoto">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="madrid">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>amhippo:ContactDocument</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>d0906711-2986-400e-8eca-f5661f08ec43</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:CityName" sv:type="String">
+        <sv:value>Madrid</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:Contact Name" sv:type="String">
+        <sv:value>Dada Tiirthadevananda</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:FacebookLink" sv:type="String">
+        <sv:value>https://www.facebook.com/dada.tiirthadevananda</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:address" sv:type="String">
+        <sv:value>&lt;p&gt;calle Gobernador 6&lt;/p&gt;
+
+&lt;p&gt;Madrid&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;(cerca de metro y metro de Atocha Aton Martin )&lt;/p&gt;</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:email" sv:type="String">
+        <sv:value>tiirthadevananda@gmail.com</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:googlePlusLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:linkedInLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:mapApiAddress" sv:type="String">
+        <sv:value>Calle+Gobernador,+6,+28014+Madrid,+Spain</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:phoneNumber" sv:type="String">
+        <sv:value>914201236/636413308</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:twitterLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>contacts/madrid/madrid</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>published</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2015-07-14T23:22:10.068+02:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2015-07-15T22:53:30.716+02:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+        <sv:value>2015-07-15T22:53:35.331+02:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>6c2682f2-835d-460a-9653-1b120a066a9d</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>es</sv:value>
+      </sv:property>
+      <sv:node sv:name="amhippo:contactPhoto">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+  </sv:node>
+  <sv:node sv:name="barcelona">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:handle</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+      <sv:value>mix:referenceable</sv:value>
+      <sv:value>hippo:translated</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>ecc0be48-7572-4a1a-955e-eeebb0f894a3</sv:value>
+    </sv:property>
+    <sv:node sv:name="barcelona">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>amhippo:ContactDocument</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:versionable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>09f79264-cf9d-46a1-a07f-8548d753ef63</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:CityName" sv:type="String">
+        <sv:value>Barcelona</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:Contact Name" sv:type="String">
+        <sv:value>Robert Llargues</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:FacebookLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:address" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:email" sv:type="String">
+        <sv:value>robertllargues@yahoo.es</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:googlePlusLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:linkedInLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:mapApiAddress" sv:type="String">
+        <sv:value>Barcelona</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:phoneNumber" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:twitterLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+        <sv:value>preview</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>contacts/barcelona/barcelona[3]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>unpublished</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2015-07-14T23:22:10.068+02:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2015-07-15T22:55:15.022+02:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>a904d622-8632-4d97-8a47-3ddeffceb9c2</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>es</sv:value>
+      </sv:property>
+      <sv:node sv:name="amhippo:contactPhoto">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="hippo:translation">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippo:translation</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:language" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="hippo:message" sv:type="String">
+        <sv:value>Barcelona</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="barcelona">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>amhippo:ContactDocument</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>1bbc1b95-b39f-46d6-a0c9-af028b809fe5</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:CityName" sv:type="String">
+        <sv:value>Barcelona</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:Contact Name" sv:type="String">
+        <sv:value>Robert Llargues</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:FacebookLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:address" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:email" sv:type="String">
+        <sv:value>robertllargues@yahoo.es</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:googlePlusLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:linkedInLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:mapApiAddress" sv:type="String">
+        <sv:value>Barcelona</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:phoneNumber" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:twitterLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>contacts/barcelona/barcelona</sv:value>
+        <sv:value>contacts/barcelona/barcelona[3]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>draft</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2015-07-14T23:22:10.068+02:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2015-07-15T22:54:40.580+02:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>a904d622-8632-4d97-8a47-3ddeffceb9c2</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>es</sv:value>
+      </sv:property>
+      <sv:node sv:name="amhippo:contactPhoto">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="barcelona">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>amhippo:ContactDocument</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>2ae4fb6a-cec9-447a-9ef9-0ceee9418189</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:CityName" sv:type="String">
+        <sv:value>Barcelona</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:Contact Name" sv:type="String">
+        <sv:value>Robert Llargues</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:FacebookLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:address" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:email" sv:type="String">
+        <sv:value>robertllargues@yahoo.es</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:googlePlusLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:linkedInLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:mapApiAddress" sv:type="String">
+        <sv:value>Barcelona</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:phoneNumber" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:twitterLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>contacts/barcelona/barcelona</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>published</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2015-07-14T23:22:10.068+02:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2015-07-15T22:55:15.022+02:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+        <sv:value>2015-07-15T22:55:19.157+02:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>a904d622-8632-4d97-8a47-3ddeffceb9c2</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>es</sv:value>
+      </sv:property>
+      <sv:node sv:name="amhippo:contactPhoto">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+  </sv:node>
+  <sv:node sv:name="las-palmas">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:handle</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+      <sv:value>mix:referenceable</sv:value>
+      <sv:value>hippo:translated</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>cf23cdc3-84f2-40b3-995d-d99d479108d9</sv:value>
+    </sv:property>
+    <sv:node sv:name="las-palmas">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>amhippo:ContactDocument</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:versionable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>6d1c58de-a22b-4909-869f-81a76f0f1f5c</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:CityName" sv:type="String">
+        <sv:value>Las Palmas</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:Contact Name" sv:type="String">
+        <sv:value>Ana Liisa Turunen</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:FacebookLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:address" sv:type="String">
+        <sv:value>&lt;p&gt;Rafael Cabrera 26&lt;/p&gt;
+
+&lt;p&gt;1 piso&lt;/p&gt;
+
+&lt;p&gt;Oficina 2 izquierda&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;(casi frente al Parque San Telmo)&lt;/p&gt;</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:email" sv:type="String">
+        <sv:value>anaturunen@yahoo.es</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:googlePlusLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:linkedInLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:mapApiAddress" sv:type="String">
+        <sv:value>Av.+Rafael+Cabrera,+26,+35001+Las+Palmas,+Spanien</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:phoneNumber" sv:type="String">
+        <sv:value>928676147/675022160</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:twitterLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+        <sv:value>preview</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>contacts/las-palmas/las-palmas[3]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>unpublished</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2015-07-14T23:22:10.068+02:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2015-07-15T22:56:32.050+02:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>4efaf004-cb87-45ff-a106-469e33a19811</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>es</sv:value>
+      </sv:property>
+      <sv:node sv:name="amhippo:contactPhoto">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="hippo:translation">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippo:translation</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:language" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="hippo:message" sv:type="String">
+        <sv:value>Las Palmas</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="las-palmas">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>amhippo:ContactDocument</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>0f3ddcdf-ae51-4cd3-92db-eae39e84f778</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:CityName" sv:type="String">
+        <sv:value>Las Palmas</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:Contact Name" sv:type="String">
+        <sv:value>Ana Liisa Turunen</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:FacebookLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:address" sv:type="String">
+        <sv:value>&lt;p&gt;Rafael Cabrera 26&lt;/p&gt;
+
+&lt;p&gt;1 piso&lt;/p&gt;
+
+&lt;p&gt;Oficina 2 izquierda&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;(casi frente al Parque San Telmo)&lt;/p&gt;</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:email" sv:type="String">
+        <sv:value>anaturunen@yahoo.es</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:googlePlusLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:linkedInLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:mapApiAddress" sv:type="String">
+        <sv:value>Av.+Rafael+Cabrera,+26,+35001+Las+Palmas,+Spanien</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:phoneNumber" sv:type="String">
+        <sv:value>928676147/675022160</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:twitterLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>contacts/las-palmas/las-palmas[3]</sv:value>
+        <sv:value>contacts/las-palmas/las-palmas</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>draft</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2015-07-14T23:22:10.068+02:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2015-07-15T22:55:38.282+02:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>4efaf004-cb87-45ff-a106-469e33a19811</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>es</sv:value>
+      </sv:property>
+      <sv:node sv:name="amhippo:contactPhoto">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="las-palmas">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>amhippo:ContactDocument</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>3163150e-8ec2-4174-9de1-5af898ad7454</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:CityName" sv:type="String">
+        <sv:value>Las Palmas</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:Contact Name" sv:type="String">
+        <sv:value>Ana Liisa Turunen</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:FacebookLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:address" sv:type="String">
+        <sv:value>&lt;p&gt;Rafael Cabrera 26&lt;/p&gt;
+
+&lt;p&gt;1 piso&lt;/p&gt;
+
+&lt;p&gt;Oficina 2 izquierda&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;(casi frente al Parque San Telmo)&lt;/p&gt;</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:email" sv:type="String">
+        <sv:value>anaturunen@yahoo.es</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:googlePlusLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:linkedInLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:mapApiAddress" sv:type="String">
+        <sv:value>Av.+Rafael+Cabrera,+26,+35001+Las+Palmas,+Spanien</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:phoneNumber" sv:type="String">
+        <sv:value>928676147/675022160</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:twitterLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>contacts/las-palmas/las-palmas</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>published</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2015-07-14T23:22:10.068+02:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2015-07-15T22:56:32.050+02:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+        <sv:value>2015-07-15T22:56:35.416+02:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>4efaf004-cb87-45ff-a106-469e33a19811</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>es</sv:value>
+      </sv:property>
+      <sv:node sv:name="amhippo:contactPhoto">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+  </sv:node>
+  <sv:node sv:name="tenerife">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:handle</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+      <sv:value>mix:referenceable</sv:value>
+      <sv:value>hippo:translated</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>6872ee6e-18b3-4db9-beeb-11a706267de2</sv:value>
+    </sv:property>
+    <sv:node sv:name="tenerife">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>amhippo:ContactDocument</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:versionable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>1dece44d-6351-4b24-8deb-81dbe3554316</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:CityName" sv:type="String">
+        <sv:value>Tenerife</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:Contact Name" sv:type="String">
+        <sv:value>Chandrika</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:FacebookLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:address" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:email" sv:type="String">
+        <sv:value>mariacgarciaperez@gmail.com</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:googlePlusLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:linkedInLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:mapApiAddress" sv:type="String">
+        <sv:value>Tenerife</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:phoneNumber" sv:type="String">
+        <sv:value>922983651/644295013</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:twitterLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+        <sv:value>preview</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>contacts/tenerife/tenerife[3]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>unpublished</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2015-07-14T23:22:10.068+02:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2015-07-15T22:57:32.812+02:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>38532035-fa66-45ce-b938-a6bd50912f43</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>es</sv:value>
+      </sv:property>
+      <sv:node sv:name="amhippo:contactPhoto">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="hippo:translation">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippo:translation</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:language" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="hippo:message" sv:type="String">
+        <sv:value>Tenerife</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="tenerife">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>amhippo:ContactDocument</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>fe809ac3-a8cd-4539-b99f-540da5ba2f1d</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:CityName" sv:type="String">
+        <sv:value>Tenerife</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:Contact Name" sv:type="String">
+        <sv:value>Chandrika</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:FacebookLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:address" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:email" sv:type="String">
+        <sv:value>mariacgarciaperez@gmail.com</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:googlePlusLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:linkedInLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:mapApiAddress" sv:type="String">
+        <sv:value>Tenerife</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:phoneNumber" sv:type="String">
+        <sv:value>922983651/644295013</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:twitterLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>contacts/tenerife/tenerife</sv:value>
+        <sv:value>contacts/tenerife/tenerife[3]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>draft</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2015-07-14T23:22:10.068+02:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2015-07-15T22:56:51.633+02:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>38532035-fa66-45ce-b938-a6bd50912f43</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>es</sv:value>
+      </sv:property>
+      <sv:node sv:name="amhippo:contactPhoto">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="tenerife">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>amhippo:ContactDocument</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>a609c00b-c912-4d4b-ad3b-eb52e39acd2d</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:CityName" sv:type="String">
+        <sv:value>Tenerife</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:Contact Name" sv:type="String">
+        <sv:value>Chandrika</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:FacebookLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:address" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:email" sv:type="String">
+        <sv:value>mariacgarciaperez@gmail.com</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:googlePlusLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:linkedInLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="amhippo:mapApiAddress" sv:type="String">
+        <sv:value>Tenerife</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:phoneNumber" sv:type="String">
+        <sv:value>922983651/644295013</sv:value>
+      </sv:property>
+      <sv:property sv:name="amhippo:twitterLink" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>contacts/tenerife/tenerife</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>published</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2015-07-14T23:22:10.068+02:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2015-07-15T22:57:32.812+02:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+        <sv:value>2015-07-15T22:57:35.416+02:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>38532035-fa66-45ce-b938-a6bd50912f43</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>es</sv:value>
+      </sv:property>
+      <sv:node sv:name="amhippo:contactPhoto">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+  </sv:node>
 </sv:node>
