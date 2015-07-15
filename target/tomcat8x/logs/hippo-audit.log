@@ -1,2 +1,0 @@
-14.07.2015 23:28:46 INFO  pool-1-thread-1 [AuditLogger.logHippoEvent:45] {"application":"cms","success":true,"action":"login","category":"security","message":"login successful","user":"admin","remoteAddress":"0:0:0:0:0:0:0:1","timestamp":1436909326539}
-14.07.2015 23:29:28 INFO  pool-1-thread-1 [AuditLogger.logHippoEvent:45] {"application":"console","action":"write-changes","category":"console","message":"User made changes at: /hst:hst/hst:configurations/common/hst:templates/contactspage-main","user":"admin","timestamp":1436909368381}
