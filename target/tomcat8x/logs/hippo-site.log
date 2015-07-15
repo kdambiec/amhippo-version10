@@ -1,2 +1,7 @@
 15.07.2015 22:58:21 WARN  http-nio-8080-exec-2 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
 15.07.2015 23:01:47 WARN  http-nio-8080-exec-1 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
+15.07.2015 23:07:40 WARN  http-nio-8080-exec-6 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
+15.07.2015 23:10:10 WARN  http-nio-8080-exec-9 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
+15.07.2015 23:12:25 WARN  http-nio-8080-exec-2 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
+15.07.2015 23:15:09 WARN  http-nio-8080-exec-5 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *
+15.07.2015 23:15:12 WARN  http-nio-8080-exec-9 [HstQueryBuilder.documents:147] Couldn't resolve all primary node types through object converter: *

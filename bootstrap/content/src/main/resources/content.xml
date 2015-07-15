@@ -1,29 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<sv:node xmlns:sv="http://www.jcp.org/jcr/sv/1.0" sv:name="content">
+<?xml version="1.0" encoding="UTF-8"?><sv:node xmlns:sv="http://www.jcp.org/jcr/sv/1.0" sv:name="content">
   <sv:property sv:name="jcr:primaryType" sv:type="Name">
     <sv:value>hippostd:folder</sv:value>
   </sv:property>
-  <sv:property sv:name="jcr:mixinTypes" sv:type="Name">
+  <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
     <sv:value>mix:referenceable</sv:value>
   </sv:property>
-  <sv:property sv:name="hippostd:foldertype" sv:type="String">
+  <sv:property sv:name="jcr:uuid" sv:type="String">
+    <sv:value>8da1cf0e-755a-4397-9faf-3a7891513c63</sv:value>
+  </sv:property>
+  <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
     <sv:value>new-document</sv:value>
     <sv:value>new-folder</sv:value>
   </sv:property>
-  <sv:node sv:name="documents" xmlns:sv="http://www.jcp.org/jcr/sv/1.0">
+  <sv:node sv:name="documents">
     <sv:property sv:name="jcr:primaryType" sv:type="Name">
       <sv:value>hippostd:folder</sv:value>
     </sv:property>
-    <sv:property sv:name="jcr:mixinTypes" sv:type="Name">
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
       <sv:value>mix:referenceable</sv:value>
       <sv:value>hippo:translated</sv:value>
     </sv:property>
     <sv:property sv:name="jcr:uuid" sv:type="String">
       <sv:value>2c21a29c-a5d1-4e84-aec4-594e5bf93b25</sv:value>
     </sv:property>
-    <sv:property sv:name="hippo:paths" sv:type="String">
-    </sv:property>
-    <sv:property sv:name="hippostd:foldertype" sv:type="String">
+    <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
       <sv:value>new-folder</sv:value>
       <sv:value>new-translated-folder</sv:value>
     </sv:property>
@@ -87,14 +87,17 @@
     <sv:property sv:name="jcr:primaryType" sv:type="Name">
       <sv:value>hippogallery:stdImageGallery</sv:value>
     </sv:property>
-    <sv:property sv:name="jcr:mixinTypes" sv:type="Name">
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
       <sv:value>mix:referenceable</sv:value>
       <sv:value>hippo:translated</sv:value>
     </sv:property>
-    <sv:property sv:name="hippostd:foldertype" sv:type="String">
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>e16f6e36-435e-41aa-860e-2826aa974345</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
       <sv:value>new-image-folder</sv:value>
     </sv:property>
-    <sv:property sv:name="hippostd:gallerytype" sv:type="String">
+    <sv:property sv:name="hippostd:gallerytype" sv:type="String" sv:multiple="true">
       <sv:value>hippogallery:imageset</sv:value>
     </sv:property>
     <sv:node sv:name="hippo:translation">
@@ -157,14 +160,17 @@
     <sv:property sv:name="jcr:primaryType" sv:type="Name">
       <sv:value>hippogallery:stdAssetGallery</sv:value>
     </sv:property>
-    <sv:property sv:name="jcr:mixinTypes" sv:type="Name">
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
       <sv:value>mix:referenceable</sv:value>
       <sv:value>hippo:translated</sv:value>
     </sv:property>
-    <sv:property sv:name="hippostd:foldertype" sv:type="String">
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>440d25ea-22e7-463d-b696-3962009994fd</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
       <sv:value>new-file-folder</sv:value>
     </sv:property>
-    <sv:property sv:name="hippostd:gallerytype" sv:type="String">
+    <sv:property sv:name="hippostd:gallerytype" sv:type="String" sv:multiple="true">
       <sv:value>hippogallery:exampleAssetSet</sv:value>
     </sv:property>
     <sv:node sv:name="hippo:translation">
@@ -227,8 +233,11 @@
     <sv:property sv:name="jcr:primaryType" sv:type="Name">
       <sv:value>hippostd:folder</sv:value>
     </sv:property>
-    <sv:property sv:name="jcr:mixinTypes" sv:type="Name">
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
       <sv:value>mix:referenceable</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>cae7f92d-9bb1-43bd-b931-9cd2f5fcfafd</sv:value>
     </sv:property>
   </sv:node>
 </sv:node>
