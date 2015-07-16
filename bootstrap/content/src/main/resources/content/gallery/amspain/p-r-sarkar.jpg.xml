@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><sv:node xmlns:sv="http://www.jcp.org/jcr/sv/1.0" sv:name="p-r-sarkar.jpg">
+  <sv:property sv:name="jcr:primaryType" sv:type="Name">
+    <sv:value>hippo:handle</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+    <sv:value>mix:referenceable</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:uuid" sv:type="String">
+    <sv:value>885f0670-5b92-4caf-a745-ea13af180884</sv:value>
+  </sv:property>
+  <sv:property sv:name="hippo:discriminator" sv:type="String" sv:multiple="true"/>
+  <sv:node sv:name="p-r-sarkar.jpg">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippogallery:imageset</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+      <sv:value>mix:versionable</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>4a54fee3-9337-40cb-90d5-e33eaf708658</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+      <sv:value>live</sv:value>
+      <sv:value>preview</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippogallery:filename" sv:type="String">
+      <sv:value>p-r-sarkar.jpg</sv:value>
+    </sv:property>
+    <sv:node sv:name="hippogallery:thumbnail">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippogallery:image</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:filename" sv:type="String">
+        <sv:value>p-r-sarkar.jpg</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippogallery:height" sv:type="Long">
+        <sv:value>60</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippogallery:width" sv:type="Long">
+        <sv:value>37</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:data" sv:type="Binary">
+        <sv:value>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</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:lastModified" sv:type="Date">
+        <sv:value>2015-02-12T16:41:24.536+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mimeType" sv:type="String">
+        <sv:value>image/jpeg</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="hippogallery:original">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippogallery:image</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippogallery:height" sv:type="Long">
+        <sv:value>192</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippogallery:width" sv:type="Long">
+        <sv:value>120</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:data" sv:type="Binary">
+        <sv:value>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</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:lastModified" sv:type="Date">
+        <sv:value>2015-02-12T16:41:24.536+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mimeType" sv:type="String">
+        <sv:value>image/jpeg</sv:value>
+      </sv:property>
+    </sv:node>
+  </sv:node>
+</sv:node>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><sv:node xmlns:sv="http://www.jcp.org/jcr/sv/1.0" xmlns:esv="http://www.onehippo.org/jcr/xmlimport" sv:name="admin" esv:merge="combine">
   <sv:property sv:name="hipposys:passwordlastmodified" sv:type="Date">
-    <sv:value>2015-07-12T09:13:48.162+02:00</sv:value>
+    <sv:value>2015-07-16T22:00:59.517+02:00</sv:value>
   </sv:property>
   <sv:property sv:name="hipposys:password" sv:type="String" esv:merge="override">
-    <sv:value>$SHA-1$eiYTgJiuSrg=$S44WfTt2WDOa91unj7sX1fI/p8Y=</sv:value>
+    <sv:value>$SHA-1$jJ+7v2ZkjbE=$7pzfzRb1oty3/VpHGLkj4yxZLKs=</sv:value>
   </sv:property>
   <sv:property sv:name="hipposys:previouspasswords" sv:type="String" sv:multiple="true">
     <sv:value>$SHA-256$HIlytXwnqSU=$NqCi2sJoM4qAwQ8136GYueUVA/TSyidpAI3Evn+y/hc=</sv:value>
